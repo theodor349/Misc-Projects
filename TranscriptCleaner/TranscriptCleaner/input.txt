@@ -1,0 +1,2381 @@
+Audio file
+Team_lead.WMA
+Transcript
+
+00:00:00 Team Lead
+600 vi snakker om et par gange, mens Vi er ude, som har været dem og det her. Det er Vores access control platform, man bruger mit hotel og så kan man låse.
+
+00:00:06 Team Lead
+En pin kode.
+
+00:00:08 Team Lead
+Den op ikke.
+
+00:00:08 Team Lead
+Det så ud i store trucks og Sådan noget.
+
+00:00:11 Speaker 3
+Ikke selvfølgelig ikke lavet til skalering.
+
+00:00:17 Speaker 3
+Han kunne stadig.
+
+00:00:21 Speaker 3
+Ja nu ved jeg godt nok ikke glad, men alt det der med Samsø og Sådan er.
+
+00:00:25 Speaker 3
+Det bare Sådan implicit, eller?
+
+00:00:26 Team Lead
+Det gør jeg gør det.
+
+00:00:29 Speaker 3
+Fordi en vej, så skal vi have underskrifter.
+
+00:00:30 Speaker 3
+Alt muligt ja men så.
+
+00:00:33 Speaker 3
+Jamen Jeg tror også det ja.
+
+00:00:34 Team Lead
+Med Johnny Vi har.
+
+00:00:36 Team Lead
+Nej nej nej, Jeg tror Det er nu.
+
+00:00:39 Speaker 3
+Ja yes ja i kan lide lidt for depoterne op, for Vi er der. Men ja, mit navn er Tommy.
+
+00:00:44 Speaker 3
+Jeg kommer til at være hovedserveren, så er vi kommet til at være supplerende, og så har vi altså.
+
+00:00:48 Speaker 3
+Der tager nøglerne bare ja.
+
+00:00:51 Team Lead
+Skal lige vente.
+
+00:00:59 Speaker 3
+Af alle væk med den der maling eller det kun Sådan har jeg Sådan specifikke væk kun møderummene.
+
+00:01:02 Team Lead
+Nej, Jeg tror det det.
+
+00:01:05 Team Lead
+Af alle dem der.
+
+00:01:06 Team Lead
+Sådan møderum og kontorer.
+
+00:01:08 Speaker 3
+På begge sider.
+
+00:01:10 Team Lead
+Nej, Det er derovre, ikke?
+
+00:01:11 Speaker 3
+OK så.
+
+00:01:14 Speaker 3
+Det var meget klokken.
+
+00:01:19 Speaker 3
+Hey heroppe så lad os begynde ja du hedder Simon ja hvad er din rolle?
+
+00:01:25 Team Lead
+Så jeg sidder som team lead for det, vi kalder SE holdet som hedder cykler, ingeniør og Det er Vores ansvar. Egentlig ligger eller mit hold har ansvaret for Det er Vores det, vi kalder iris platformen, som er Vores hovedprodukt ud til kunder, så Det er alle de her unito de her ting. Især Det er Sådan noget data i skyen, den platform, den står vi.
+
+00:01:46 Team Lead
+Nå sammen med sikkerhed så sikre at vi bliver hacket og alle de her ting og så har vi så.
+
+00:01:54 Team Lead
+Har vi det, det område, vi kalder det som er. Hvordan sørger vi for at alle de her folk, der sidder herude og udvikler, hvordan sørger vi for, at de effektive ikke skal bruge en masse tid på at sidde og tænke infrastruktur?
+
+00:02:06 Team Lead
+Og hvordan bygger jeg min kode og alt Sådan noget?
+
+00:02:09 Team Lead
+Men sørg for at de egentlig kan gå ud og levere features, så.
+
+00:02:12 Team Lead
+Det der jo så er Vores overordnede mål.
+
+00:02:14 Team Lead
+Det er jo det her eliminate downtime, så Vores fineste rolle er at sikre og en æble dem til at kunne eliminere dagsregn.
+
+00:02:20 Speaker 3
+Ja jeres it Sådan meget svært for den for selve platformen, så.
+
+00:02:25 Team Lead
+Ja ja så så.
+
+00:02:28 Team Lead
+Den operationelle del af Vores hold er er selve platformen. Den kører, den er over, Der er nok kapacitet, og hvad der nu ellers kunne være udfordringer ikke den anden del af mit hold er.
+
+00:02:33 Speaker 3
+Alt fungerer der.
+
+00:02:38 Team Lead
+Så også udviklingen på på at sikre, at Vores udvikler effektivt.
+
+00:02:43 Speaker 3
+Så laver vi både backend og frontend for platformen.
+
+00:02:47 Team Lead
+Så vi så du skal nok mere se det som at der ligger Sådan nogle forskellige lag platformen, ikke hvor det alleryderste er ligesom det her lag som som er der kunder, ligesom det det kunderne interagerer med at serie, der ligger der begge indslag under neden og Vores job er egentlig de lag, der ligger under middel. Det så selve platformen. Hvordan sørger vi for at vi?
+
+00:03:07 Team Lead
+150 piger hvordan sørger vi for at alle 150 piger har et sted at køre Sådan helt lavpraktisk en server og i klosteret de kan?
+
+00:03:14 Speaker 2
+OKOK.
+
+00:03:14
+Køre på Sådan.
+
+00:03:15 Team Lead
+Nogle ting og sikkerheden, der ligger omkring det.
+
+00:03:19 Team Lead
+Så så Det er mit, og Jeg vil sige, vi vi arbejder rigtig tæt med backend udvikler Holland udvikler, fordi vi også laver meget testning og Sådan nogle ting og Sådan nogle ting, så Det er at skrive teksten til med Sådan en integration test og tester en api.
+
+00:03:31 Team Lead
+Det gør jeg udvikler.
+
+00:03:31 Team Lead
+Mig selv men.
+
+00:03:32 Team Lead
+Den platform, der ligesom kører det Sådan, at de ikke skal tænke på at sige, jamen, hvordan får jeg den til at køre og Sådan noget? Det bygger det.
+
+00:03:39 Team Lead
+Lag bygger vi i Nordjylland.
+
+00:03:40 Speaker 3
+Okay.
+
+00:03:45 Speaker 3
+Ja så har du været lidt under.
+
+00:03:47 Team Lead
+Så har jeg været her i august har været i 3 år, så Det er det 2 2 1 halvt år Sådan et eller andet.
+
+00:03:54 Speaker 3
+Så du er alligevel godt integreret i.
+
+00:03:57 Team Lead
+Helle det r Jeg tror II tracking er et hurtigt voksende firma, så Jeg er nok ved at være en af de ældre tror jeg fordi at.
+
+00:04:06 Team Lead
+Altså Sådan helt automatisk ikke. Vi hyrer så mange folk. Ja så så dengang jeg startede for lige at give lidt perspektiv til ikke dengang jeg startede der var vi 70 udviklere. Jeg tror nu, Der er vi lige omkring 250 udviklere ikke så så, så Det er Sådan den fart vi.
+
+00:04:22 Team Lead
+Vokser med litteraturen.
+
+00:04:22 Speaker 3
+Ja nej projekt.
+
+00:04:23 Team Lead
+Så der kommer hele tiden nye mange nye folk til.
+
+00:04:26 Speaker 3
+Skrevet den der graf her du er med Det var ok.
+
+00:04:33 Speaker 4
+Må jeg spørge om noget Sådan? Hvordan er det dengang når du joine track you? Det er Sådan for 3 år siden er det lige så meget struktur Sådan den her gang eller eller?
+
+00:04:41 Team Lead
+Som nu nej ja nej det så Jeg tror det det nu har jeg været i andre firmaer også ikke som er større skat og Sådan som IB og Sådan nogle ting, hvor Det er meget struktureret meget Sådan corporate Der er regler og processer for alting og Der er der skiller tracking til lidt ud, så dengang jeg startede var det jo det man nok vil kalde et skilt op.
+
+00:05:01 Team Lead
+Ikke så så ja det det start up.
+
+00:05:03 Team Lead
+Der ligesom har fået.
+
+00:05:04 Team Lead
+Noget kapital spottet i Ishøj hvor?
+
+00:05:05 Team Lead
+Vi har vokset ret.
+
+00:05:06 Team Lead
+Det er det ikke det Vi har gjort anderledes tror jeg Det er, at Vi har. Vi har anerkendt, at Der er Sådan 1 1 1 fiction point i når softwarevirksomheder vokser så store, så det plejer at ligge omkring det der med når ens engineering afdeling, herunder de 100 folk, så begynder det at være svært.
+
+00:05:22 Team Lead
+Det der med at sige, jamen jeg ved at john han står lige for databaserne, og vi fik så lige alt det her på tværs, fordi vi kender hinanden ikke så man her typisk starter man.
+
+00:05:33 Team Lead
+Og det, Vi har gjort meget for at beholde den der følelse. Det er jo, at Vi har sorteret lidt på.
+
+00:05:37 Team Lead
+Den der måde portfolio.
+
+00:05:38 Team Lead
+Det gør lidt at at de teams jeg arbejder sammen med, men dem kender jeg rigtig godt og har stadig den her startup følelse med.
+
+00:05:45 Team Lead
+Men, men Vi har en orkestrering på tværs af hele Vores firma om, hvordan vi leverer features, som stadigvæk har dem, så Vi har Sådan lidt af begge det. Det bedste af begge veje, eller i hvert fald det vi.
+
+00:05:56 Team Lead
+Derimod ikke så ja, men ja selvfølgelig er der nogle flere regler og nogle ting nu ikke som som kommer helt automatisk også noget som sikkerhedsarbejde er rigtig meget med ikke og Der er klart, Det er jo nogle helt andre krav Der er nu, når vi sidder som verdensledende inde på hvad vi gør.
+
+00:06:11 Team Lead
+Være klart den den markedsledende ikke en for 2 år siden. For eksempel ikke hvor, hvor vi var en anden størrelse.
+
+00:06:17 Team Lead
+Ikke så ja.
+
+00:06:20 Speaker 3
+De der portfolier Det var Sådan ligesom man skal man sige nærmest om i et stort firma, der har en masse små firmaer inde i landet, så på tværs af porteføljerne. Hvor meget snakker i så Sådan sammen?
+
+00:06:31 Team Lead
+Ja så i hvert.
+
+00:06:31 Team Lead
+Portfolie der sidder, der sidder de her 3 nøglepersoner eller hvad skal man?
+
+00:06:36 Team Lead
+Sige ikke op i.
+
+00:06:37 Team Lead
+Som ligesom leder et portfolio et portfolio er jo x antal teams ikke, og der sidder der en engineering lead, en design lead og en produktfeed, og Det er lidt ligesom op til de 3 personer og koordinere på tværs af portfolio, så det sker hver hver anden uge.
+
+00:06:38 Speaker 3
+Jeg fandt en ansvarlig.
+
+00:06:55 Team Lead
+Der har vi egentlig et møde, hvor så jeg sidder.
+
+00:06:56 Team Lead
+Som ingeniør lige på Vores.
+
+00:06:58 Team Lead
+Pulje og der har vi et møde på tværs af alle porteføljerne.
+
+00:07:01 Team Lead
+Så man ligesom kan bringe ting op, ikke, men men.
+
+00:07:04 Team Lead
+Det er svært at skalere ikke så hvis vi gerne vil ud og lave det vi gerne vil ud i verden, så kræver det jo, at Vi har mange portfolier, ikke?
+
+00:07:13 Team Lead
+Altså, ja, hånden som vi vokser ikke, så vil der komme ny portfolier og på et eller andet tidspunkt, så når man det der punkt, hvor Det kan lade sig gøre at kommunikere på toilettet, så det andet, vi gør det.
+
+00:07:22 Team Lead
+Er, at vi bruger tool der hedder sana som er Sådan et åbent hul hvori du kan faktisk egentlig gå ind og se alle Vores mål, så alle de mål i så på virksomheden vi havde Søren han viste det her.
+
+00:07:31 Team Lead
+Lidt forvirrende side, hvor der stod den øverst oppe i himlen af downtime, så stod Sådan en masse undermål under neden ikke de er noteret inde i det her tool og så alle Vores projekter Vi har på en eller anden måde køre tilbage til et af de her mål, og Det kan man følge derigennem.
+
+00:07:46 Team Lead
+Og det svarer så også til at at hvis Jeg har jo mit specifikt mit portfolie har meget stræk i mange af de andre, fordi Vi er naboer, så hvis Jeg har brug for at vide hvad.
+
+00:07:56 Team Lead
+Portfolio team SP laver lige nu så kan jeg faktisk gå ind i det her og se alle deres projekter, hvor jeg også kan.
+
+00:08:02 Team Lead
+Se alle deres opdateringer og.
+
+00:08:03 Team Lead
+Så videre, og Det er måden, hvorpå vi prøver at ramme den der balance mellem. Hvad har jeg brug for at vide for at udføre mit arbejde og for.
+
+00:08:10 Team Lead
+At vi kan.
+
+00:08:11 Team Lead
+Kan gøre Vores ting til at være i stedet for det her 4 out hvor man hvor man hele tiden skal være. Jeg skal hele tiden holde mig til alting har muligheden for at gå ud.
+
+00:08:19 Team Lead
+Og hente information efterhånden som man har brug for det.
+
+00:08:21 Speaker 3
+Ja i stedet for det bare bliver overloaded Sådan et.
+
+00:08:23 Team Lead
+Noget eller ja fordi det Det er jo det, Der er udfordringen i at skalere ligesom dansk størrelse. Vi gør ikke. Det er jo det der med hvordan hvordan rammer man?
+
+00:08:31 Team Lead
+Det der punkt, hvor man ved Justin off til.
+
+00:08:33 Team Lead
+At kunne agere.
+
+00:08:35 Speaker 3
+Ideelt så kan du vide så lidt.
+
+00:08:36 Speaker 3
+Som muligt for.
+
+00:08:36 Team Lead
+At kunne gøre dit arbejde ja lige præcis og og Det er også og det handler også.
+
+00:08:40 Team Lead
+Meget om at lave.
+
+00:08:41 Team Lead
+Visibilitet til både mine medarbejdere, men også alle andre medarbejdere skyld.
+
+00:08:45 Team Lead
+Så så mine medarbejdere kan også hvis de har brug for af en eller anden grund at vide hvad nogle andre arbejde, så kan de faktisk gå ind i og sagde nej set det her igennem og Det er meget Sådan så så Vi har meget drevet den der åbne struktur.
+
+00:08:57 Team Lead
+Det er ikke alle firmaer der.
+
+00:08:57 Team Lead
+Gør det altså mange. Mange kan godt finde på at bygge Sådan noget og der der Det er jo.
+
+00:09:02 Team Lead
+Hvis hvis Vi skal vokse med den fart, vi gerne vil, så bliver vi nødt til at have lidt mere åbne struktur, hvor det også er op til dig, for eksempel som en udvikler, eller hvad det nu er, og så sige jamen Jeg har.
+
+00:09:11 Team Lead
+Jeg har også brug for.
+
+00:09:12 Team Lead
+At vide ting jamen så driver jeg også den.
+
+00:09:13 Team Lead
+Agenda selv Det er lidt anderledes fra nogle firmaer.
+
+00:09:14
+Ja OK.
+
+00:09:15 Speaker 3
+Så Det var som så som udvikler eller arbejder sammen faktisk meget selv som den der mindre arrangerede. De er stadig Sådan.
+
+00:09:22 Speaker 3
+Frihed Det er Sådan.
+
+00:09:23 Team Lead
+Rigtig meget for det. Ja så så så Det er meget sjældent i mit hold, at jeg går ind og dikterer hvad de laver.
+
+00:09:24 Speaker 3
+Burde de vel også have?
+
+00:09:30 Team Lead
+Det er det, Det er op til holdet.
+
+00:09:33 Team Lead
+Selv at drive.
+
+00:09:34 Team Lead
+De beslutninger vi, vi kører meget med.
+
+00:09:35 Team Lead
+Sådan en distributør de.
+
+00:09:36 Team Lead
+Det siger vi ikke fordi tanken er jo.
+
+00:09:38 Team Lead
+Selvfølgelig at Vores c 2.
+
+00:09:40 Team Lead
+Ved ikke nødvendigvis, hvad den nyeste bedste sikkerhedsfeature er, og der giver mening på hvor.
+
+00:09:43 Team Lead
+Vi er lige nu.
+
+00:09:44 Team Lead
+Nej, så den beslutning skal ligge så tæt nede ved ingeniøren eller eller udvikleren, eller hvad det nu er som muligt, ikke?
+
+00:09:51 Team Lead
+Så så mange af dem der.
+
+00:09:53 Team Lead
+Sidder i mit hold.
+
+00:09:54 Team Lead
+Er er også beslutningstagerne på, hvad de laver II dag til dag. Vi har.
+
+00:09:59 Team Lead
+Møder hvor vi.
+
+00:10:00 Team Lead
+Mødes alle sammen i Vores hold specifikt og snakker om. Jamen hey, hvad er Vores prioriteter og hvad kommer der af udefra? Men hvordan kommer der jo bare nogle krav op fra hvad det nu kunne være? Men men Det er altid op.
+
+00:10:09 Team Lead
+Til os at finde løsningen sammen i.
+
+00:10:12 Speaker 3
+I teamet væk, så har de der 10 måneder.
+
+00:10:15 Team Lead
+Så Det er lidt forskelligt fra time til time, og Det er baseret på den her tanke om at at at igen at hver time er meget autonomt, så er det op til dem at bestemme hvordan de gør det, så de fleste fik teams har daglige standup hvor?
+
+00:10:29 Team Lead
+De mødes klokken 9.
+
+00:10:30 Team Lead
+Typisk ikke og så lige har bare lige og kigger hinanden i øjnene og.
+
+00:10:32 Team Lead
+Siger det her.
+
+00:10:32 Team Lead
+Det arbejder jeg på mit hold er så distribueret på tværs af Danmark, Polen og Canada, så Det er ret besværligt at finde tid der lige passer alle ikke. Så Vi har et virtuelt setup.
+
+00:10:42 Team Lead
+Hvor man Vi har et program der hedder status quo hvor man kan gå ind og skrive lige hvad arbejder vi på i dag? Hvad arbejder på? Hvad har jeg arbejdet på i går? Er der noget siddet fast?
+
+00:10:51 Team Lead
+Og så har vi typisk en retro vane nu hvor vi ligesom lige mødes alle sammen på video ikke og så siger hey hvad er det godt?
+
+00:10:58 Team Lead
+Hvad er skidt? Hvad skal?
+
+00:11:00 Team Lead
+Vi ændre på Sådan på på den person, ikke?
+
+00:11:02 Team Lead
+Men men hvor stats?
+
+00:11:03 Team Lead
+I dag. Det foregår chat og og tools.
+
+00:11:08 Speaker 3
+Er du tilbage, så det vil sige, at hvis vi nu i det her profilerede og Sådan endnu længere ud over den endelige organiserer eller portfolie hold eller, og så er der næsten ingen kommunikation, der ikke vil dø Sådan gå fra portfolie hele deres produktion til profit organisation.
+
+00:11:22 Team Lead
+Altså man kan sige, Vi har jo Sådan et lag der.
+
+00:11:24 Team Lead
+Ligger over det ikke som?
+
+00:11:24 Team Lead
+Et lederskab er det ikke?
+
+00:11:27 Team Lead
+Og der har vi selvfølgelig kommunikation på tværs mænd, men Det er jo en, Det er jo, Det er jo Sådan en en ret fin hårfin balance mellem hvad?
+
+00:11:33 Team Lead
+Hvad for eksempel, hvis du ser på Sådan en som Vores CEO, som jo ellers så ejerskab for de her portfolier ikke? Hvor meget skal han vide, hvad den enkelte detalje nede i hver enkelt portfolie er kontra?
+
+00:11:44 Team Lead
+Hvad ellers han har opgaver ikke, så Der er jo en form for kommunikation. Vi kalder det whitespace mastery.
+
+00:11:53 Team Lead
+Det er Det er Sådan defineret som den her. Lidt svær på ting imellem. Jamen hej hvordan flyder kommunikationen i organisationen og hvordan master man det, og Det er utrolig svært at gøre i Sådan en virksomhed, som skalerer så hurtigt som vi kan.
+
+00:12:07 Team Lead
+Men men Sådan noget som det her sagde naturens man nævnte ikke hvor at at Vores video han ville kunne.
+
+00:12:13 Team Lead
+Hvis han har brug for det?
+
+00:12:14 Team Lead
+Så kan han gå ind helt specifikt ned i Vores team.
+
+00:12:17 Team Lead
+På Vores projekter og se hvad?
+
+00:12:18 Team Lead
+Er præcis status på det.
+
+00:12:21 Team Lead
+Men han kan også tage lidt tilbage til hans mål. Ikke fordi at at Vi har alle Vores projekter ligesom.
+
+00:12:25 Team Lead
+Bare til mål.
+
+00:12:26 Team Lead
+Så det vil sige, det vil være det lag han typisk.
+
+00:12:28 Team Lead
+Kigger i ikke og?
+
+00:12:30 Team Lead
+Det tror Jeg er meget anderledes for mange virksomheder, fordi man man vil se mange virksomheder, der har man den der tjene of command, hvor man ligesom rapporterer opad hele tiden og rapportering op og de ting der rent faktisk bobler op i Vores organisation op på de her niveauer er er ting, Vi har brug for at håndtere Sådan mere som en skalering agenda end et specifikt projekt eller issue typisk.
+
+00:12:48 Speaker 3
+Ja, det lyder meget som i stedet for de har den der tjener commander og så lave bruger de har.
+
+00:12:52 Speaker 3
+Jeg glæder mig hvad hedder, men de har programmer til ligesom at vise det i stedet for som en kan gå ind og kigge.
+
+00:12:57 Team Lead
+Ja vi vil jo gerne. Jeg tror det vil. Det vil jo gerne vil ikke. Det er jo at vi vil jo hellere se virksomheder.
+
+00:13:03 Team Lead
+Naturen, som er Sådan lidt et spindelvæv ikke 1, 1 1 1 pyramide som er det typisk ikke hvor der sidder i den anden hoved og.
+
+00:13:10 Team Lead
+Ja så har vi lidt mere det her spindelvæv, hvor Jeg kan sige jamen nogle af de ting, mit hold har arbejdet på, har en influere andre hold væk uden for Vores bord.
+
+00:13:19 Team Lead
+Så hvordan sikrer vi, at vi ligesom har vi med kommunikationen flydende imellem? Fordi det, som jeg det holder, jeg influerer.
+
+00:13:25 Team Lead
+Jamen Det kan have Sådan.
+
+00:13:26 Team Lead
+En impact det og hvis jeg blokerer.
+
+00:13:28 Team Lead
+Dem jamen så blokerer de jo Sådan nogle andre længere nede.
+
+00:13:31 Team Lead
+I tråden, ikke?
+
+00:13:32 Team Lead
+Og det bliver rigtig svært at skalere, hvis man har den her typiske pyramide, fordi så skal alting Sådan op og så ned igen. Man har undgået de der bottlenecks.
+
+00:13:41 Team Lead
+Ja præcis ikke så så det handler jo netop om at have de der åbne kommunikationer mellem holdet ikke og sige det, og Sådan er det ikke. Får opbygget de der traditionelle cd ord som man.
+
+00:13:49 Team Lead
+Man har i mange virksomheder.
+
+00:13:51 Team Lead
+Og Det er ikke noget, vi deler jo.
+
+00:13:52 Team Lead
+Altså Det er jo.
+
+00:13:53 Team Lead
+Super svært ikke altså at gøre men men men men Det er jo.
+
+00:13:56 Team Lead
+Det er det Der er visionen fordi.
+
+00:13:57 Speaker 3
+Ja ja det arbejder imod.
+
+00:13:59 Team Lead
+Og Det er også derfor det Det er super vigtigt for os at at hvis du spørger hvem som helst til mit hold og siger, hvad er Vores mål, at man så vil de sige, at han først vil sige Det er et downtime, og så ville de trække det ned i de mål.
+
+00:14:10 Team Lead
+Vi har ikke som som er de har så gode ting og og Det er super.
+
+00:14:11 Speaker 3
+Okay.
+
+00:14:13 Team Lead
+Vigtigt for os at, at hver enkelt medarbejder egentlig forstår det, fordi Det er en del af det.
+
+00:14:17 Team Lead
+At hvis man.
+
+00:14:18 Team Lead
+Gerne vil have super effektive medarbejdere, så skal de forstå, hvad Det er, de arbejder med ikke, og det får de igennem det her med, at vi.
+
+00:14:24 Team Lead
+For de har målt.
+
+00:14:26 Team Lead
+Saturn hele vejen ned igennem organisationen, og ikke bare en.
+
+00:14:28 Team Lead
+Eller anden til 2 der.
+
+00:14:29 Team Lead
+Sidder og rapportere på.
+
+00:14:30 Team Lead
+Jeg skal have.
+
+00:14:31 Team Lead
+Et x budgetbesparelser i år ikke altså Sådan et.
+
+00:14:34 Speaker 3
+Eller andet, så jeg arbejder meget på, ligesom at undgå at mange.
+
+00:14:36 Speaker 3
+Af jeres godt af alle medarbejderne. Alle sammen er Sådan meget. Hvad skal man?
+
+00:14:41 Speaker 3
+Sige Sådan meget, for ligesom de tænker meget over det de gør, at det altid handler om det mellem målet mere end det bare Sådan er, at de.
+
+00:14:47 Speaker 3
+Får en opgave.
+
+00:14:47 Speaker 3
+De bare laver opgaven?
+
+00:14:49 Team Lead
+Ja og og det, og Det er super vigtigt.
+
+00:14:51 Team Lead
+Fordi at at det der med.
+
+00:14:54 Team Lead
+Der kan være uger.
+
+00:14:55 Team Lead
+Eller måneder, hvor Jeg er væk på andre projekter for eksempel altså i forhold til mit hold, ikke?
+
+00:14:59 Team Lead
+Altså hvor Jeg er. Jeg har en længere.
+
+00:15:01 Team Lead
+Distance, hvor mit hold end normalt?
+
+00:15:04 Team Lead
+Og derfor betyder det også, Det er super vigtigt for, at de kan drive deres agenda.
+
+00:15:08 Team Lead
+Daglig dag og agenda, og hvad vi arbejder på, at de kan. De kan skubbe det ud til målene, ikke og sige, jeg arbejder på det her, fordi at Det har den her.
+
+00:15:17 Team Lead
+Indflydelse på på Vores klienter som.
+
+00:15:20 Speaker 2
+OK vi.
+
+00:15:20 Speaker 3
+Så igen, en hvad skal man sige en måde?
+
+00:15:21 Speaker 3
+At undgå de her gutter.
+
+00:15:23 Team Lead
+Ja præcis ikke. Altså? Og og Det er jo ligner det det det handler om at undgå, at Der er en del folk som sidder og også fordi at at software er jo Sådan at når man udvikler software så har man en.
+
+00:15:33 Team Lead
+Masse antagelser, ikke?
+
+00:15:35 Speaker 3
+Ja så så.
+
+00:15:35 Team Lead
+Når man udvikler noget. Jamen det værste du kan gøre Det er at du kan.
+
+00:15:38 Team Lead
+Sidde og udvikle på noget.
+
+00:15:39 Team Lead
+I 1 2 år og så skubbe det ud til folk ikke så Det er også derfor at Vores hvor hele Vores cyklus foregår rundt omkring.
+
+00:15:45 Team Lead
+De her biler, hvor vi bygger lidt skubber det ud til kunder.
+
+00:15:48 Team Lead
+Som måler vi.
+
+00:15:49 Team Lead
+På hvad de synes om med og så så tager vi Vores direktion efter det, fordi man tager næsten altid faktisk op.
+
+00:15:54 Team Lead
+Og Det er jo derfor, Det er farligt det der med, at hvis Vi har en enkelt person eller 2 enkelte personer, der sidder og styrer det hele, så kan de have en masse undtagelser, og Det er jo bare Sådan, Vi er i menneskelige natur, ikke?
+
+00:16:04 Team Lead
+Så vil man have.
+
+00:16:05 Team Lead
+En masse indsats på. Hvad er vigtigt og.
+
+00:16:06 Team Lead
+Hvad er vigtigt?
+
+00:16:07 Team Lead
+Ud fra ens synspunkter, og hvad man nu er.
+
+00:16:10 Team Lead
+Og Det er jo også det, vi prøver lidt at eliminere med det her spider web eller hvad skal man kalde det af virksomhedsstruktur ikke, men Det er egentlig at få beslutningerne ned til dem, der har viden til rent faktisk at træffe.
+
+00:16:21 Team Lead
+Ja, og Det er svært, men men heldig.
+
+00:16:23 Speaker 3
+Meget tillid fra de øverste til de.
+
+00:16:25 Team Lead
+Det kræver super meget til, men men det. Men det kommer så også med at Sådan få lidt mere personligt niveau, ikke?
+
+00:16:32 Team Lead
+Altså Jeg tror meget på at mine mine folk er glade og effektive, hvis de får meget tid at få mig så så så så så Det er jo den anden del der ligger i det. Det er jo det der med jamen hvordan hvordan får vi folk Der er effektive?
+
+00:16:47 Team Lead
+Har et job de kan.
+
+00:16:48 Team Lead
+Lide ikke det. Det er jo en ret stor del af Vores virksomhedskultur ikke? Altså altså det her human OSV som vi snakkede lidt om mens vi var.
+
+00:16:55 Team Lead
+Ude ved altså hele det her med jamen vi.
+
+00:16:59 Team Lead
+Vi kunne tage Vores mest hen i verden og høre en masse udviklere, men Det er ikke det, der får os til at lykkes for det, der får os.
+
+00:17:04 Team Lead
+Til at lykkes.
+
+00:17:04 Team Lead
+Det er at Vi har.
+
+00:17:05 Team Lead
+Vi har engagerede medarbejdere og måden, hvorpå man får det. Det er jo.
+
+00:17:10 Team Lead
+Den anden vil give dem en masse frihed, så ja.
+
+00:17:14 Speaker 3
+Ja så også ud fra at du snakker med det her speedway eller måden i laver på så vigtig.
+
+00:17:18 Speaker 3
+Som alle lederne.
+
+00:17:20 Speaker 3
+Fra altså dem der øver dig er det ellers bare for en meget Sådan. Hvad skal man sige en meget Sådan en powering?
+
+00:17:26 Speaker 3
+Strategi de har valgt ikke og prøve på at hjælpe, så de prøver på Sådan at kontrollere.
+
+00:17:31 Team Lead
+Ja lige præcis lige præcis og og Det er det. Det kan godt være toilet skræmmende for mange ledere ikke som kommer fra en traditionel verden, for det handler rigtig meget om at give slip på på.
+
+00:17:41 Team Lead
+Hvad kan man sige på tøjlerne lidt? Ikke og og beslutninger flyde der hvor det giver mening.
+
+00:17:48 Team Lead
+Ja så så jeg ser jo min rolle som som teamlead ser jeg meget som supporterende rolle. Kontakt ledende rolle Det er selvfølgelig stadigvæk mig, der skal.
+
+00:17:57 Team Lead
+Lede dem til at forstå Vores mål og inspirere alle de.
+
+00:18:00 Team Lead
+Her ting men.
+
+00:18:00 Team Lead
+Men, men beslutninger og Sådan noget der har vi Sådan altså der ret meget, at det skulle være en i toget. Jeg vil rigtig gerne være.
+
+00:18:10 Team Lead
+Det rådgivende ikke så så Det kan være de kommer til mig og siger Vi har de her 2 løsninger.
+
+00:18:14 Team Lead
+Vi foretrækker den her svære rigtig gang i mit input til det ikke, men Det er meget sjældent Der er gået og siger den her løsning og og det.
+
+00:18:21 Team Lead
+Det er meget kulturen, tror jeg faktisk også.
+
+00:18:23 Team Lead
+Når jeg ser på mine ledninger og.
+
+00:18:24 Speaker 3
+Ja, Det er bare ikke det kommer helt fra toppen hele vejen.
+
+00:18:25 Speaker 2
+Hvordan de gør?
+
+00:18:26 Speaker 3
+Ned uden at det bare er også ja.
+
+00:18:30 Speaker 4
+Jeg har ingen tænkt nå at snakke om det der på folie og tænkt Sådan. Nå i er vi i forhold til jeres kommunikation, at man kan bare gå ind i den der dokumentation i har været rundt på siden, som man kan bare trække hvad hvor langt er man med den her produkt eller Sådan noget?
+
+00:18:45 Speaker 4
+Men man har i har i og Sådan Det har i noget at leje man ved eller i kun på det?
+
+00:18:52 Team Lead
+Nej altså der der der.
+
+00:18:54 Team Lead
+Pågår jo masser rundt omkring. Ikke så man kan jo.
+
+00:18:56 Team Lead
+I et et.
+
+00:18:57 Team Lead
+Et specifikt på et pulje?
+
+00:18:58 Team Lead
+Hvis vi ligesom starter der ikke jamen de de har jo typisk et eller andet område, de varetager.
+
+00:19:04 Team Lead
+Så så Vores er.
+
+00:19:05 Team Lead
+Lidt specielle fordi Vi er platformen portfolios.
+
+00:19:07 Team Lead
+Det vil sige, vi vi rører rigtig fedt, men hvis du kigger på mange af de andre portfolier, så er de jo baseret omkring en feature, der giver mening, så det kunne for eksempel.
+
+00:19:15 Team Lead
+Være sustainability, ikke?
+
+00:19:17 Team Lead
+Så inden for sustainability, der har vi måske flere teams, som arbejder på hver en specifik niche af sustainability, men Der er også overordnede mål og sustainability, og Der er klart, der foregår en masse kommunikation der og og en masse integrationer omkring.
+
+00:19:29 Team Lead
+Hvordan gør vi tingene og sørge for at ting?
+
+00:19:31 Team Lead
+Til at springe ud og?
+
+00:19:32 Team Lead
+Så videre ikke så er der jo på det her niveau over det mellem portfolioen. Jamen, der har vi det.
+
+00:19:37 Team Lead
+Der beige møde, hvor vi ligesom?
+
+00:19:40 Team Lead
+Og så har vi en masse communities som som vi italesat ikke så meget, men vi ved. Men men vi driver meget af den, der agenda omkring standardisering ikke så så jeg ved ikke om i kan huske jeg havde det der slide hvor der var Sådan en en graf på hvad der stod.
+
+00:19:54 Team Lead
+Og limet på den ene side, og så stod der.
+
+00:19:59 Team Lead
+Lad mig lige.
+
+00:19:59 Team Lead
+Finde den der.
+
+00:20:00 Speaker 3
+Er en prik, og så bliver prikken leveret.
+
+00:20:06 Speaker 3
+Ja han tegner det helt for.
+
+00:20:07 Speaker 3
+Dig hvordan kan du? Hvordan har du det?
+
+00:20:10 Speaker 3
+Sikkert altså jeg.
+
+00:20:10 Speaker 3
+Kan se lige.
+
+00:20:13 Team Lead
+Den her autonomi og.
+
+00:20:17 Speaker 3
+En ting jeg lavede.
+
+00:20:20 Team Lead
+Så den her ikke?
+
+00:20:24 Team Lead
+Så så så Det er jo Det er jo den her liniment der sker her. Den den sker rigtig meget ud i det.
+
+00:20:29 Team Lead
+Vi kalder communitys.
+
+00:20:30 Team Lead
+Så så Vi har et så alle Vores backend udvikler for eksempel de udvikler API et framework, der hedder spring boot. Det er Sådan meget alene omkring.
+
+00:20:40 Team Lead
+Og den er ligament omkring, hvordan vi bruger spring boot og hvad for nogle features fra bruger vi altid noget ikke? Det sker ude i det, vi kalder community og community. Det er.
+
+00:20:50 Team Lead
+Hvem som helst i firmaet egentlig hop ind i det ikke så så Det er Sådan 1 1 1 åbent forum hvor man kan sige.
+
+00:20:55 Team Lead
+Jeg har en interesse.
+
+00:20:56 Team Lead
+Indenfor spring boot i det her tilfælde, og det vil jeg gerne med til at drive udvikle.
+
+00:21:01 Team Lead
+Så så på den måde har vi så langt omkring, og Det er ikke kun teknik, men Der er alle mulige forskellige communities, der ligesom kan kan bruges til at styre nogle af de der ting, som vi får den der limet på tværs af, fordi det. Det er jo det Der er nøglen lidt II den her måde. Vi gør tingene på ikke? Det er jamen, vi vil gerne give hvert portfolio hver time automatiseret til at kunne udvikle features og ting som hvad, men vi bliver også nødt til at en platform der ligner hinanden ikke. Og Det kan ikke nytte noget at man.
+
+00:21:29 Team Lead
+I det ene hold der synes man er et rod betyder fejl og et andet der synes man er et blå betyder fejl.
+
+00:21:33 Team Lead
+Altså Der er Sådan nogle standardiseringer som.
+
+00:21:35 Team Lead
+Bare helt automatisk.
+
+00:21:36 Team Lead
+Skal ske ikke, og de sker typisk i de communities.
+
+00:21:41 Speaker 3
+Så Det er endnu et lag.
+
+00:21:42 Speaker 3
+Her Sådan ja og det og igen Det er.
+
+00:21:44 Team Lead
+Jo Det er jo den der tværs.
+
+00:21:47 Team Lead
+Tværs af af teams.
+
+00:21:49 Team Lead
+Ja der skal eller limen der skal ske.
+
+00:21:53 Team Lead
+Ja, og Det har vi. Det har været noget, som Vi har igennem mange.
+
+00:21:57 Team Lead
+År har har skubbet ikke og sørget for.
+
+00:21:59 Team Lead
+At bygge op for det tager.
+
+00:22:00 Team Lead
+Rigtig lang tid da.
+
+00:22:02 Team Lead
+Med at have den der følelse af, at alle har et ejerskab for tænk ikke så så vi vi snakker meget Sådan om yousee et problem yoni altså hvis hvis hvis du opdager et eller andet Der er galt jamen så er det også op til dig og fikse det eller at tage ejerskabet.
+
+00:22:17 Team Lead
+Og Det er en Kultur, der har svært ved, fordi det alle har forskellige projekter, og Sådan er det jo.
+
+00:22:22 Team Lead
+Bare helt normalt.
+
+00:22:23 Team Lead
+Altså Sådan så, men men Det er Sådan.
+
+00:22:26 Team Lead
+Meget styrtet ned i Vores.
+
+00:22:28 Team Lead
+De fleste af Vores folk ikke at at man har det der ejerskab på Altinget i.
+
+00:22:31 Speaker 3
+Virksomhederne ikke på de her communities er det der i din slide, så er du spiller med.
+
+00:22:37 Speaker 3
+Dokumentation og Sådan noget er Det er det fra mig?
+
+00:22:40 Team Lead
+Det ja, som for eksempel dokumentation er et godt eksempel. Det bliver også skrevet, og Der er Sådan en eller anden dokumentation standard, der bliver drevet ud fra et kommunens ikke.
+
+00:22:48 Team Lead
+De vil ikke gå ud og skrive det for den enkelte.
+
+00:22:49 Team Lead
+P men men.
+
+00:22:51 Team Lead
+De vil de vil ligesom standere på.
+
+00:22:52 Team Lead
+Hvad bliver der forventet det samme ting ikke? Der er en testning, community siger, men hey, når du bygger en ny avis, så skal du have de her klodser i forhold til testning. Hvis du skal have noget bestemt lyntest nu skal lave nogle små tests du skal lave noget handling kunne være i og så er det så op til holdet og den prøvede sig selv, men det det gør.
+
+00:23:11 Team Lead
+Det er jo at at uanset om jeg.
+
+00:23:13 Team Lead
+Tager en udvikler fra et.
+
+00:23:15 Team Lead
+Det var ham ud af det hold der sidder over i den. Ja så kan han ret hurtigt.
+
+00:23:18 Team Lead
+Gå i gang.
+
+00:23:18 Team Lead
+Med at lave arbejde derovre fordi det Det er de samme tools.
+
+00:23:21 Team Lead
+Det er de samme ting han.
+
+00:23:22 Team Lead
+Skal gøre, eller hun skal?
+
+00:23:24 Team Lead
+Gøre ikke for at arbejde med det hold. Det er ikke en helt ny stærk og en.
+
+00:23:28 Team Lead
+Helt ny måde at gøre tingene.
+
+00:23:29 Speaker 3
+Nej for Vi har.
+
+00:23:30 Team Lead
+De her standarder, og Det er ret mange nøglen for, at vi kan.
+
+00:23:33 Team Lead
+Skalere og og skubbe.
+
+00:23:34 Team Lead
+Nye portfolio ud hele tiden, ikke?
+
+00:23:36 Team Lead
+Som vi vokser ikke.
+
+00:23:37 Team Lead
+Eller nye teams så så lige nu. For eksempel er vi.
+
+00:23:41 Team Lead
+Der kommer resten en gang imellem, så så kan vi se et par folie eller nogle teams har udfyldt deres.
+
+00:23:46 Team Lead
+Mission, Det er Sådan en helt naturlig ting ikke? Og så på et eller andet tidspunkt. Jamen så skal de teams som nedlægges, og så kommer der Sådan nogle nye idræts sted, ikke?
+
+00:23:55 Team Lead
+Og for at vi kan have den der flydende overgang i det der, så er det ekstremt vigtigt, at Vi har alt den der liniment.
+
+00:24:02 Speaker 3
+Havde nogle ulemper ved at have alle den her standardisering af den her detalje jeres dokumentation.
+
+00:24:10 Team Lead
+Det kræver rigtig meget, tror jeg den enkelte medarbejder ikke. At altså man skal man skal være.
+
+00:24:17 Team Lead
+Man skal være villig til at drive forandringen.
+
+00:24:19 Team Lead
+Selv fordi det lige pludselig er en hel.
+
+00:24:23 Team Lead
+Standarden skal ind og drømme forandring i kontra man bare kunne lave et eller andet hurtigere, så så det kræver nok lidt andet af Vores medarbejdere vil jeg tro.
+
+00:24:31 Team Lead
+En en hvis man var et startup, hvor man bare.
+
+00:24:34
+Hvor man bare gør.
+
+00:24:34 Team Lead
+Typisk bare kører hurtigt ind og fikse ting Sådan ikke og Der er der jo trods alt lidt mere ting der.
+
+00:24:39 Team Lead
+Skal ske bagved.
+
+00:24:41 Team Lead
+Ja, så Jeg tror Det er nok en af ulemperne. Ikke at Det er jo at det slipper en ned lidt.
+
+00:24:46 Speaker 3
+Men forhåbentlig får tid, når.
+
+00:24:47 Team Lead
+Senere ja, og Det er jo det Der er trade off lidt ikke. Det er jo man skal investere kun lige nok i det der liniment space til at man kan.
+
+00:24:55 Team Lead
+Man kan sikre, at Vi er ens nok er nok det vi laver til at at man så også kan løbe hurtigt stadigvæk.
+
+00:25:01 Speaker 3
+I hvert fald.
+
+00:25:05 Speaker 3
+Ja det lyder som den her dokumentation, i har det Sådan.
+
+00:25:08 Speaker 3
+Sådan lidt en opskrift på en måde, så den er Sådan lidt. Hvad skal man sige man er Sådan lidt strikt med hvordan man skal sætte dokumentationen op? Ja.
+
+00:25:18 Team Lead
+Jeg ved ikke, om Jeg vil sige striks. Jeg vil sige, Der er et tempel det.
+
+00:25:21 Team Lead
+Følger man typisk.
+
+00:25:22 Team Lead
+Ikke, man kan have visse grunde til at gå udenfor. Det tænkte jeg. Det er lidt ligesom den her guld pap.
+
+00:25:26 Team Lead
+Jeg snakkede om, ikke?
+
+00:25:29 Team Lead
+Det kommer så bare med noget ansvar.
+
+00:25:31 Team Lead
+Blev lige hvis du, hvis du nu valgte at jeg gider ikke dokumentere min service. Lad os nu bare sige det ikke hvis du sad som medlem og sige her i dokumentdeling, det gider jeg ikke. Det er også fint nok, men så sidder du som nok også fast med den service resten af dit liv agtigt altså som udgangspunkt ikke så er det jo så, så er det jo den beslutning du tager som så gør at du afviger fra standarderne, men Det har så også nogle konsekvenser, så Det er også derfor, at.
+
+00:25:53 Team Lead
+Vi laver de der standarder meget.
+
+00:25:57 Team Lead
+Vi prøver i hvert fald på at lave.
+
+00:25:58 Team Lead
+Dem meget spiselig.
+
+00:26:00 Team Lead
+Fordi at det.
+
+00:26:00 Team Lead
+Gør, at folk følger dem, så de har en et arrangement til at følge.
+
+00:26:04 Team Lead
+Dem ikke også.
+
+00:26:04 Team Lead
+Grund til at følge ikke en bog.
+
+00:26:05 Team Lead
+Dem ja fordi de får jo en masse ting tilbage ved det. Blandt andet det, Jeg vil sige, jamen, hey når mit hold.
+
+00:26:10 Team Lead
+Er udført af.
+
+00:26:11 Team Lead
+Missioner, og så kan jeg måske få flyttet ind i den her specifikke p væk fra mig er nemt over i et andet hold, og så kan vi arbejde med noget.
+
+00:26:18 Team Lead
+Andet end spændende, for eksempel, hvis det nu var det ikke.
+
+00:26:24 Speaker 3
+Sådan med jeres processer Sådan Jeg tror du snakker om at i alle de agil og vandfald og Det var meget op til teamsene selv og man bestemmer Det har jeg Sådan dokumentation for det eller en template for det eller er.
+
+00:26:34 Speaker 3
+Det bare helt op til, så Vi har ja så.
+
+00:26:37 Team Lead
+Vi vi i Vores c beskriver vi.
+
+00:26:42 Team Lead
+Den overordnede proces fra det, vi kalder cradle 2 grave af et nyt projekt. Ikke så så fra ligesom kodeprojekt til hvordan går det igen?
+
+00:26:51 Team Lead
+Og finde ud af hvad er business grundene til, at vi gerne vil bygge det og hvad? Hvad kan det drive af af impact på Vores subscriptions?
+
+00:26:58 Team Lead
+Altid noget ikke alle de der Sådan business ting der ligger, så går man over i en design fase så går man over i en byggefase og så videre.
+
+00:27:04 Team Lead
+Ikke, og hvis Det er Sådan ret defineret, hvordan man gør det ikke, men men.
+
+00:27:09 Team Lead
+De hvis du.
+
+00:27:10 Team Lead
+Så klikker på en af de der faser, så for eksempel tager den med byggefase ikke og dobbelt kigger på den.
+
+00:27:15 Team Lead
+Jamen så så er det egentlig ret åben for teamet hvordan de vælger at gøre det, og Der er det op.
+
+00:27:19 Team Lead
+Til dem at finde ud af, hvordan de arbejder.
+
+00:27:23 Team Lead
+Og, og Det kan også komme med udfordringer, fordi det at der ikke er regler, man kan have mange folk som har forskellige.
+
+00:27:29 Team Lead
+Så Jeg har 6 mennesker i.
+
+00:27:30 Team Lead
+Mit team 3 af dem kommer fra en meget striks en baggrund hvor Det var meget Sådan.
+
+00:27:36 Team Lead
+Du ved, Vi har sprængt hver anden uge og planlægge alle Vores tankemønstre, og nogle kommer fra en meget mere åben.
+
+00:27:41 Team Lead
+Sådan kanban stil, og Det er klart, at så kræver det jo noget der i koordineringen i teamsene at finde ud af. Hvordan er det, der passer os bedst?
+
+00:27:50 Team Lead
+Men vi typisk så går vi ind og dikterer hvordan et hold specifikt arbejder dag til dag. Nej, Vi har den overordnede siger jamen, Der er nogle ting, Der er vigtige for os, Sådan at vi sikrer, at vi bygger det rigtige, ikke Sådan noget, som så Vi har Sådan en, der hedder fik jo mary, skal jeg meget tidligt i en proces, når vi siger, hvis nu siger jeg nu sender vi også holdt ud.
+
+00:28:08 Team Lead
+For at bygge systemet.
+
+00:28:10 Team Lead
+Det allerførste i jeres hold vil bruge tid på. Det er at gå ud og finde ud af hvad er postmarked? Fedt her ikke. Altså hvad? Hvad?
+
+00:28:15 Team Lead
+Men der skal. Hvad er det, der skal gøre den her service eller ting Vi er ved at bygge? Den kan tjene penge ind og og passer ind i markedet, og Det er det, Vores kunder efterspørger alle de her ting ikke, og der skriver man Sådan det vi kalder et figure of marit, som er Sådan et dokument, der beskriver siger jamen hey, hvorfor er?
+
+00:28:28 Team Lead
+Det vi gør.
+
+00:28:29 Team Lead
+Det vi gør nu, og som det næste og.
+
+00:28:32 Team Lead
+Den proces er.
+
+00:28:33 Team Lead
+Låst, og Der er der.
+
+00:28:34 Team Lead
+Sådan nogle enkelte key checkpoint 10 hvor?
+
+00:28:37 Team Lead
+Vi siger, Det er i orden det her det, det tror vi på det vil vi gerne, hvis Det er is.
+
+00:28:42 Team Lead
+Finde ud af.
+
+00:28:42 Team Lead
+At bygge det og så er det så op til holdet, selv om jeg.
+
+00:28:43 Speaker 3
+Okay.
+
+00:28:44 Speaker 3
+Ja, Der er åbnet, da de her brancher man skal igennem.
+
+00:28:47 Team Lead
+For at, Der er Sådan en fase og ikke hvor Der er Sådan et et punkt i typisk hvor man lige siger hey der hvor man lige står og kigger hinanden i øjnene og siger, at Vi er på vej i rigtige vej.
+
+00:29:00 Speaker 3
+Du har noget at lave med at vigtigt for jer at de godt kan ligesom kan tage folk ind og ud på forskellige steder. Men det lyder lidt som om at Det var.
+
+00:29:07 Speaker 3
+Jeg føler det godt kunne potentielt skabe problem at det her med processerne er så åbne, at jeg godt kan komme fra en en anden helt anden proces og så komme ind i et sted, hvor der ikke reelt er dokumenteret, hvordan processen er, og Sådan er der noget. Er det bare Sådan lederen i den der skal hjælpe dig eller hvordan man kunne håndtere Sådan det?
+
+00:29:23 Team Lead
+Typisk være ikke så så, så vi vi driver jo meget den her.
+
+00:29:28 Team Lead
+Vi, vi tror meget på menneskene, ikke og og som led i det, så så har vi nok også lidt mere følelsesbaseret samtaler med Vores folk end mange firmaer har et II form af at jamen hey vi, Vi skal også forstå, og det tror jeg, det går på tværs alle sammen, at Vi er forskellige mennesker fra forskellige kulturer og forskellige baggrunde. Alt muligt som som som har en indflydelse på, hvordan vi vi arbejder og der handler det jo selvfølgelig om at finde den måde, der arbejder bedst, og det vil også sige, at hvis jeg tager en ny person i mit hold, og Jeg kan se, Der er ting der trives, jamen, så gør vi lige præcis det, som som jeg egentlig har. I dag er hele mit hold er blevet samlet her i. I Aalborg ikke, og så sætter vi os ned og snakker ting igennem og finde ud af, hvordan har vi tænkt os at arbejde det næste halve år, ikke? 
+Så så så en af grundene til mit hold er her i dag fløjet ind fra Polen og så videre det. Det er faktisk fordi Vi har ansat en ny person, og vi vil gerne sikre at hvem personen kommer godt ind i holdet for at forstået og vi får snakket om. Sådan har vi gjort tingene for at det. Er også det, vi gør fremadrettet, så alle de der Sådan lidt. Snakkede som godt kan være Sådan lidt sværere at tage nogle gange ikke som som tit i mange, så firmaer bare defineret lige kører camperen og vi gør Sådan her.
+
+00:30:30 Team Lead
+Vi mødes de her dage og så videre, ikke? Men men Vi er også mange forskellige personer, så Jeg har småbørn 2, 3 personer dem jeg arbejder sammen med i mit hold, har småbørn ikke, og det betyder nogle gange, at så solen skinner er mine børn. De er hjemmegående, for eksempel min kone og hjemmegående. Ikke og jeg. Er hjemme med børnene, og det betyder nogle gange, så skal solen, og så klokken 12 vil man gerne gå på legepladsen, og Det er jo så den frihed, man så også får. Ved ikke at have. Den er meget låst fast. Proces og og ting i det. Og ja, Det er helt rigtigt. Nogle folk kan så blive flyttet over i hold, hvor de måske ikke trives med. Så er det op. Til det så 10 19 så opgaver. Fundet ud af at få det til at virke.
+
+00:31:06 Speaker 3
+Melder sig i hvert fald som et problem, Der er mennesket grund af. Jeg har de her mindre hold i stedet for. Jeg har Sådan altså i. De her folk føler jo.
+
+00:31:13 Team Lead
+Ja ja lige præcis. Altså det det og Jeg tror også Sådan generelt hvis du går ud og spørger på tværs af alle Vores hold, så vil du også se at mange af de der daglige rytmer kan du give dem ikke så vikaren Sådan ikke mange af dem vil være det samme eller til de samme på tværs af de fleste har et dagligt standup de fleste er.
+
+00:31:27 Speaker 3
+Da de lander man er ikke?
+
+00:31:32 Team Lead
+Nå mødes hver 14. Dag har en eller anden form for retro. Hvordan man laver retrospekt kan være forskelligt, men men Der er nok Sådan lyder en proces for det. Så Det er. Sådan jeg. Jeg tror egentlig, at mange af Sådan. Ret legende omkring det, ikke?
+
+00:31:48 Speaker 3
+Hvordan servede min tid endnu?
+Endelig er det hvornår parter?
+
+00:31:51 Team Lead
+Den er den er 1.45 1.45.
+
+00:31:55 Speaker 3
+Ja hvornår er den er?
+
+00:31:57 Speaker 4
+Hvor skal jeg lige gå halv time? 
+Så Vi har en halv time her.
+
+00:32:00 Speaker 3
+Hedder det, ja, så kan vi se at lære den her techradar i har. Ja, Det er det helt præcis. Vi har alle fået kigget lidt på den og den er så. Når lidt forvirrende.
+
+00:32:13 Team Lead
+Ja OK jamen det nej, men Det er en god feedback fordi Det er altid Sådan lidt når man.Har siddet med. I lang tid. Ikke sammen med et andet forhold, som Det er.
+
+00:32:19 Speaker 3 
+Altså man kommer udefra. Jeg tror bare fordi Der er.
+
+00:32:22 Team Lead
+Så så hvad tænker i så hvad tænker i Der er forvirrende?
+
+00:32:25 Speaker 3
+Med at være hver zone sådan helt præcist gør ja okay.
+
+00:32:30 Team Lead
+Nej, Det kan vi nok en gang. Jeg ved ikke engang. Hvordan jeg starter den der så så det. Er selvfølgelig ikke lige har set Det er jo. Dokumentationen, der ligger bagved til grateren. Og der ligger der faktisk en beskrivelse af alle ting. Nu skal lige prøve at se om Jeg kan ramme internettet her. Så de 4 eller 5 faser der ligger i et så varer Sådan en holdte access triller og adobt. Så så Det er den egentlig betyder, hvis Vi skal tage den helt fra. Starten af så hold. Jamen hold Det er de ting nu giver vi. Engang haft af en eller anden grund har vi ikke lyst til at bruge den mere.
+
+00:33:03 Team Lead
+Det kan for eksempel være bare fungere et eksempel tilbage, dengang vi byggede Vores første platform, som er det, vi kalder. Der har vi brugt Microsoft sql som database og der har vi opbygget Sådan en stor mono lift database som Sådan ret typisk ting man gjorde. Engang ikke det skal det ikke særlig godt, så er vi nået til et punkt, hvor Vi har sagt, Vi har det her. Vi er godt klar over at det skal leve fordi. Vi har det. Her Classic miljøet. Skal leve i nogle år endnu, ikke? Alle Vores kunder er flyttet over på Vores nye platform. Men Vi har jo så videreudviklet og lave ny. Udvikling, der bruger den her jeg skulle. Så der ville den for eksempel ligge i holte. Access skal prøve at tage. Er også godt lige sende. Jer det ikke linket hertil, men men Vi har faktisk en beskrivelse her. For hver ting. Men at ses er egentlig de de teknologier, hvor vi går ind og siger, hey, vi kan se, at Der er noget udvikling, der sker her. Det betyder Sådan et godt eksempel på Det er for et par år siden, der kom det her. Graph Query komme ud ikke så så mange folk begyndte ligesom at skifte op der og der der når vi til Sådan et eller andet punkt hvor vi.
+
+00:34:09 Team Lead
+Okay vi kan se Der er en eller anden. Teknologi, der bevæger sig her som. Nok har noget potentiale i sig. Det kunne vi godt tænke os at gå ind og prøve så typisk når vi går i os s. Inden så har vi et enkelt. Team der har en use case der. Passer på det, og så vil de gå ind og sige, Det er jo en per, sikrer man sige. Vi kunne godt tænke os at have teknologi og flyttede her. Ses prøve den af se om den kan vi ikke løse Vores udfordringer der nu er og så samtidig så går man ind i Sådan en platform også lige kigger på hvordan bliver det vedligehold og Sådan nogle ting er bare Sådan helt naturligt opensource svært, men for eksempel ikke lige bruger rigtig meget open source. Jamen, Der er der bare Sådan en procentdel af projekter, der kommer op, og så bliver de. Af banen, ikke? Altså Det er bare Sådan Jeg er ikke så så Der er Sådan nogle ting vi ligesom kigger på der, men Det er Sådan noget som hvordan er sikkerhed. Hvordan bliver det? Med til enighed og alt Sådan noget, hvis vi ser Det kan Sådan det giver mening, så kan vi finde på at opgradere dem op til trial trial. Det er der, hvor Vi har set nu det her. Det kan jeg godt løse de use cases, Vi har måske også på.
+
+00:35:05 Team Lead
+Et bredere basis. Ikke måske Der er flere hold der giver mening, for når vi flytter dem i trives, så begynder vi egentlig på det der hedder operaen. Synes ser dem ikke altså det der med. Nu af, hvordan drifter vi det? Hvordan har vi monitoring på det backup alt Sådan noget der bare Sådan skal være i Sådan et space, ikke? Og hvordan passer vi en generelt i Vores tekster? Så når Vi er der i trial, ikke jamen, så er det egentlig at nu. Er der nogle generes der? Faktisk har brugt the walking altså de. Har taget den her service og. Hvad? Det er til produktion? Vi har noget viden inde i firmaet, men Det er ikke et eller andet. Der er virkelig. Bredt brugt ude i hele. Fjerner ikke og de ting der ligger i at døbt jamen Det er simpelthen de ting, Der er veldokumenteret. Altså det det ville være ting som de fleste af Vores fiat. Nu tror jeg så, så det kunne. For eksempel være Sådan noget som. Jada ikke altså vi vi stort set alt hvad? Vi laver ID. P er så. Udvikler java spring boot. Det vil du finde i. Den der dom. Og det andet der så er man sikret, og Det er jo Sådan at sorteret i Sådan en. 4 triangler ikke. Så der har du teknologi som tøse infrastructure, landbrugets data storage, og Det er egentlig bare for at symbolisere Sådan en fordeling af. At sige jamen Der er. Der er datastorage, så kigger. Du herop i den her fra, den ikke så ligger deroppe og der der har vi så. Indenfor hvem har du så været der 4 ikke.
+
+00:36:18 Speaker 3
+Giver det mening? Ja det tror.
+
+00:36:19 Team Lead
+Jeg Jeg kan godt prøve at sende jer. Den der beskrivelse også. Så kan i se den. Ja, jeg sender den lige til john simpelthen for fint.
+
+00:36:29 Speaker 3
+Ja, det tror Jeg er.
+
+00:36:39 Speaker 3
+Yes slogan der står million gange.
+
+00:36:43 Speaker 3
+Virkelig har mig det?
+
+00:36:44 Team Lead
+Jamen Det er Det er meget.
+
+00:36:45 Team Lead
+At alle folk skal vide præcis.
+
+00:36:53 Speaker 3
+Hvorfor føler i Sådan en de har et fordi det virker?
+
+00:36:55 Speaker 3
+Som en ting der Sådan tager.
+
+00:36:57 Speaker 3
+Hvad tid at lave? Men føler jeg Sådan at Der er?
+
+00:36:59 Speaker 3
+Et reelt behov for at have den her tag retter.
+
+00:37:02 Team Lead
+Ja så så.
+
+00:37:07 Team Lead
+Ja det Det er jo.
+
+00:37:09 Team Lead
+Det det nej vi vi snakkede om før det her med at.
+
+00:37:12 Team Lead
+Kunne tage folk ud og putte over i andre hold og uden den her tak retter, så ville det jo betyde, at vi ikke havde den der liniment omkring. Hvad for en cool til vor for noget. Hvordan vi opbevarer data altså.
+
+00:37:23 Team Lead
+Så så Det er en ret stor del af det der puslespil omkring element, at vi kan gå ind og sige det. Det er vi alle sammen på en eller anden måde giver hinanden i øjnene og siger.
+
+00:37:31 Team Lead
+Det er egentlig.
+
+00:37:32 Team Lead
+Det her, vi gør ikke IT branchen er jo kæmpestor altså Der er jo alle mulige forskellige programmeringssprog. Der er jo.
+
+00:37:38 Team Lead
+Alle mulige måder at gøre tingene på.
+
+00:37:41 Team Lead
+Og hvis Vi skal kunne skalere, som vi gerne vil lægge dem, så så kræver det bare utrolig meget velegnet omkring, hvordan vi gør det Sådan, at vi ikke har de der.
+
+00:37:48 Speaker 3
+Ja OK.
+
+00:37:50 Team Lead
+Bruger alt muligt tid.
+
+00:37:51 Team Lead
+På at snakke om, at det her det bedste programmeringssprog måde. Det har jeg ikke, men han er lidt mere Sådan samlet omkring.
+
+00:37:55 Team Lead
+Det er faktisk næsten aldrig hjemme i ja.
+
+00:37:56 Speaker 3
+Ja ellers har en igen til at hjælpe.
+
+00:37:58 Speaker 3
+Alle med det. Det er der vi.
+
+00:37:59 Speaker 3
+Arbejder på, Det er meningen.
+
+00:38:00 Team Lead
+Lige præcis, og Det er igen. Det er også dermed også sagt, at tættere processen er jo er jo meningen skal være flydende.
+
+00:38:07 Team Lead
+Det er jo meningen, at hvis du kommer og siger hey, Der er den her nye teknologi, den har jeg lidt med derhjemme eller hvad man nu har i ikke har set den her på youtube eller på nettet og hvad konference whatever og det kunne vi ikke tænke mig at jamen så sagt så giver vi rigtig meget muligheden for at komme ind i den der fase.
+
+00:38:21 Team Lead
+Det er først når du egentlig skal bevæge dig.
+
+00:38:22 Team Lead
+Ned i den der trial at du Sådan virkelig der der skal den være mod teknologien ikke?
+
+00:38:28 Team Lead
+Så så så og det. Det er jo det Der er hele tiden det der trade off imellem hvornår vi vil gerne have regler for noget som gør det super robust og linet kontra.
+
+00:38:38 Team Lead
+Hvornår vil vi gerne have noget, Der er ret åben og Sådan lidt?
+
+00:38:40 Team Lead
+Mere startup hvor?
+
+00:38:41 Team Lead
+Man kan bevæge sig hurtigt og innovativt ikke og der det det. Det er der, Vi har fundet ud af, at teknikerne ligesom passer ind ja.
+
+00:38:50 Team Lead
+Fordi den giver den, da den giver stadig noget flydende flydende udvikling, selvom at man har noget at lege med dem omkring.
+
+00:38:56 Team Lead
+Hvordan man gør tingene, ikke?
+
+00:38:59 Team Lead
+Og Det er heller.
+
+00:38:59 Team Lead
+Ikke tit, at vi ændrer Vores sikre der altså det r.
+
+00:39:02 Team Lead
+Der skal virkelig være en ny teknologi, der der virkelig rykker et.
+
+00:39:05 Team Lead
+Eller andet altså.
+
+00:39:07 Team Lead
+For at at at folk gerne drøfter ikke.
+
+00:39:11 Team Lead
+Ja så så igen, Det er jo det der med hele tiden at have for øje er det. Er det fordi Det er sjovt at lege med enten lige der.
+
+00:39:16 Team Lead
+Det synes vi jo alle sammen kontra hvornår illuminator vi downtime altså hvornår arbejder vi rent faktisk imod Vores?
+
+00:39:23 Team Lead
+Mål ikke hvornår det?
+
+00:39:27 Speaker 3
+Hvad er Sådan det seneste Jeg har fået inkluderet i den her retter som rent faktisk?
+
+00:39:32 Team Lead
+Ikke set alt Sådan noget gang i.
+
+00:39:34 Speaker 3
+Som i tænker at køre videre på.
+
+00:39:37
+Skal vi prøve selv?
+
+00:39:46
+9 2 sekunder.
+
+00:40:09 Team Lead
+Og det sidste, Der er blevet adopteret ind i.
+
+00:40:13 Team Lead
+Er pre commit hooks som er Sådan en.
+
+00:40:18 Team Lead
+Når du kom ind.
+
+00:40:18 Team Lead
+Og noget så kører du nogle checks mod det.
+
+00:40:21 Team Lead
+Kunne for eksempel linning og så.
+
+00:40:22 Team Lead
+Videre, Det er det allersidste.
+
+00:40:24 Team Lead
+Man kom, Der er kommet ind i.
+
+00:40:27 Team Lead
+Så Det er kommet til.
+
+00:40:31 Team Lead
+Adopt fasen, så Det er det sidste der ligesom har rykket sig så bare lige at give en lige for det så har vi Sådan noget som det her actions den blev det meget, fordi vi allerede har en anden standardiseret måde at bygge software på.
+
+00:40:45 Team Lead
+For eksempel, så er der en anden, Der er kommet og sagt, hey, i mit tidligere arbejde har jeg brugt her bacons. Det synes jeg bare er mega fedt.
+
+00:40:51 Team Lead
+Det gør det.
+
+00:40:52 Team Lead
+Og så har vi haft en samtale om det og sagt det, det passer.
+
+00:40:55 Team Lead
+Måske ikke ind vi?
+
+00:40:55 Team Lead
+Vi er meget store besøget til at have meget centraliseret omkring det.
+
+00:40:58 Team Lead
+Så Der er nogle grunde til, at vi måske.
+
+00:40:59 Speaker 2
+Har gået lidt omkring, måske at kigge ind.
+
+00:41:01 Team Lead
+I specifikke men men det ville være der så.
+
+00:41:04 Team Lead
+Det er Sådan.
+
+00:41:04 Team Lead
+Den proces, der ligger ikke, så Det er derfor at få den der flydende samtale med folk også bliver hele tiden. Nye folk kommer ind og gøre tingene anderledes måde. Det vil jo super gerne.
+
+00:41:13 Team Lead
+Både understøtte, men Det kan jo være med til, at man nogle gange ikke når man arbejder i firmaet lang tid.
+
+00:41:17 Team Lead
+Så sætter man tager jo sin.
+
+00:41:18 Team Lead
+Gang med veje.
+
+00:41:18 Team Lead
+Og nu er det fint nok at de skubbet til så så Det er Sådan nogle ting som lidt.
+
+00:41:24 Speaker 4
+Hvem er det, der bestemmer om den her software? Kan godt altså.
+
+00:41:27 Team Lead
+Yes, så Vi har nogle arkitektur leeds, så jeg sidder sammen med en i mit hold i omkring instrukturen, så der var de her forskellige varianter ikke, og der har vi nogle på hver, som har et speciale, som er en eller anden grund.
+
+00:41:39 Team Lead
+Har et specielt inden for verden, så for eksempel ind på data. Jamen, der har vi Michael rune, som i mødte tidligere.
+
+00:41:46 Team Lead
+Han sidder som en af Vores softwarearkitektur inde på data og har Sådan et generelt større overblik over trackunit som helhed i hvordan vi opbevarer Vores data og Sådan ikke, og derfor har han en masse input omkring det.
+
+00:41:58 Team Lead
+Når det så er sagt, så er det ikke Sådan at folk kommer til mig, og så er prop og Jeg vil sige ja eller nej, Det er faktisk mere, at så så driver jeg samtalen omkring og få fundet ud af og sagt, jamen hey, er det her måden nok til, at Det er noget, vi kan dog alle de her ting.
+
+00:42:11 Team Lead
+Ikke fordi igen det det.
+
+00:42:12 Team Lead
+Er rigtig farligt at lave de der ivory towers.
+
+00:42:15 Team Lead
+Ikke kalder man det typisk altså det her med, at Der er en enkelt person, der sidder og styrer.
+
+00:42:19 Team Lead
+En beslutning ikke et eller andet sted skal der være en beslutning, men Det er typisk Sådan en samling af folk og det hele.
+
+00:42:24 Team Lead
+Det foregår i giver bacon eller i et hop pulver quests ikke så det vil også sige, at Det er ikke Sådan et eller andet med, at nu skal du ind og du.
+
+00:42:30 Team Lead
+Skoleret Indien og sige.
+
+00:42:32 Team Lead
+Hey, kan jeg få det her proof play?
+
+00:42:34 Team Lead
+Please ikke, men Det er egentlig mere at at Der er en der foregår en åben diskussion i det her pulver kost.
+
+00:42:41 Team Lead
+Og med det betyder også, at hvem som helst andre i firmaet kan hoppe ind og sige, Jeg synes faktisk Det er en god ide.
+
+00:42:45 Team Lead
+Jeg har også været ude og rode med det her tool eller hvad det nu er har brugt det førhen.
+
+00:42:49 Team Lead
+Det er mega godt eller andet ikke. Altså så Det er Sådan Det er lidt mere flydende samtale vi går efter ikke så Det er drevet af de her communities.
+
+00:42:56 Team Lead
+Og og det.
+
+00:42:58 Team Lead
+Så typisk, hvis Det er, hvis de tænker, hvis ikke Vi har et community omkring, så ville vi typisk, så ville jeg være den der orkestrere og sørge for.
+
+00:43:05 Team Lead
+At dække community der tager beslutningen om det.
+
+00:43:09 Team Lead
+Men, men jeg ville bare være orkestrerede i det tilfælde i de ting, hvor vi ikke har community. Jamen, der sætter vi os typisk ned på 3 personer og snakker det igennem med den person der udøver det.
+
+00:43:21 Speaker 3
+Ja hele det.
+
+00:43:21 Speaker 3
+Her, det skal man sige, der har mindst i har med med med edderkoppe med spider med hvordan i har hvordan hvornår er det sket? Er det Sådan lige når i begynder?
+
+00:43:31 Speaker 3
+At skælle og skal lave eller?
+
+00:43:32 Team Lead
+Nej, så så Det er noget der har.
+
+00:43:33 Team Lead
+Været undervejs det sidste år.
+
+00:43:35 Team Lead
+Vil jeg tro så så ja, så så det.
+
+00:43:38 Team Lead
+Bygger jo faktisk en ret interessant bog, der hedder.
+
+00:43:44 Team Lead
+Nej anden chill out in orange world så vi snakkede meget kort om det.
+
+00:43:49 Team Lead
+Imens Vi er.
+
+00:43:49 Team Lead
+Ude ved at så der findes de her.
+
+00:43:52 Team Lead
+Der findes masse professorer arkiv på her virksomhedskultur og sætte en farve på dem. Ikke tværs noget som at orange.
+
+00:43:58 Team Lead
+Det er Sådan en lille maskine det.
+
+00:43:59 Team Lead
+Er Sådan en typisk de?
+
+00:44:00 Team Lead
+Her meget store korporationer ikke du ser hvor Der er processer for alting.
+
+00:44:04 Team Lead
+Jeg traf en beslutning, så en bestemt måde du gør det på. Der er de grønne som er Sådan lidt mere Sådan Det er som en familie, ikke det Der er mange firmaer der trives med en vis størrelse ikke Det er typisk Sådan mange startups.
+
+00:44:14 Team Lead
+Det giver ikke at man er en familie, og man kender alle sammen hinanden og Sådan noget. Der er problemstillinger og.
+
+00:44:21 Team Lead
+Og og gode ting ved alle de forskellige, og så har den her til dot, som er det her lidt mere end det man ser som lidt Sådan den nye upcoming måde struktur rejsefirma på, som er meget Sådan et levende spindelvæv ikke af af af af beslutninger, der der flyder ude ved beslutning, der hvor det giver mening ikke og og alle de her ting den er skrevet af en dansker der hedder erik den er faktisk ret spændende.
+
+00:44:45 Team Lead
+Sådan, hvis man gerne vil forstå det med.
+
+00:44:47 Team Lead
+Virksomhedskultur lidt mere, men.
+
+00:44:48 Team Lead
+Så hvis i bare gå ind på hjemmesiden, hvis du bare søger det der tæller.
+
+00:44:52 Team Lead
+Så vil i kunne se Sådan et overblik over det, og hvis man kigger på dem.
+
+00:44:57 Team Lead
+Og kigger på nogle af de slides Vi har lavet, så er det hemmelige. Altså Vi er meget inspireret ud fra det framework. Det har vi implementeret ham, og Det er derfor Vi har meget selve autonomi eller teams.
+
+00:45:09 Team Lead
+Men Vi har også bygget videre på det så hele den her.
+
+00:45:11 Team Lead
+Portfolie måde at sortere Vores hold på.
+
+00:45:14 Team Lead
+Der er noget vi.
+
+00:45:14 Team Lead
+Selv har bygget.
+
+00:45:15 Speaker 3
+På og det.
+
+00:45:16 Team Lead
+Er sket indenfor tror selve porteføljerne det. Det var noget, vi etablerede.
+
+00:45:20 Team Lead
+Tilbage i september, så Det er Sådan lidt et halvt år gammelt og Sådan noget.
+
+00:45:25 Team Lead
+Så, men Det er Sådan en rejse, vi.
+
+00:45:26 Team Lead
+Har været igennem et år eller Sådan noget.
+
+00:45:29 Speaker 3
+Men Jeg synes bare fordi Det var meget hurtigt i Sådan jeg skal lave op og Det er Sådan en virkelig måde på at unge på eskalerer. Jo kan man sige.
+
+00:45:38 Team Lead
+Så ja og det, og Det er jo derfor, at Vi har grunden til, at Vi har gjort det så hurtigt er fordi vi kunne se.
+
+00:45:44 Team Lead
+Dengang havde vi.
+
+00:45:45 Team Lead
+Bare forholde os passivt og ikke gjort noget og og blev i den her trekant af beslutningstagere. Og Sådan stod på toppen af det.
+
+00:45:52 Team Lead
+Jamen så kunne vi bare godt se ret hurtigt, at vi var bare vokset til en størrelse, hvor man ikke længere havde det der dynamiske, som man typisk har en starter med.
+
+00:46:01 Team Lead
+At hey vi kan fikse alting fordi jeg kender lige ham der ham der ham der og hvis vi lige sætter os sammen i et møderum og lige bruger.
+
+00:46:06 Team Lead
+3 timer og whatever 3 dage så kan vi.
+
+00:46:09 Team Lead
+Fikse alting i verden og og når man når man skalerer så hurtigt, som vi gør sig, når man var på et eller andet tidspunkt, hvor jeg kender ikke længere.
+
+00:46:16 Team Lead
+Altså nu jeg sidder remote.
+
+00:46:17 Team Lead
+Så Det er ikke så tit Jeg er heroppe, men men jeg ville kunne gå igennem bygningen og sige, jeg aner ikke, hvem han er.
+
+00:46:22 Team Lead
+Ikke og og Det er bare Sådan Det er, når man bliver en større virksomhed, ikke? Altså så så kommer man bare til Sådan et andet punkt, hvor man ikke kender alle for.
+
+00:46:29 Team Lead
+Og det gør ting svært, fordi det gør ting svært og influere. Ikke fordi Sådan en som mig jamen som team lige nu ikke. Jeg har nogle agendaer jeg gerne vil drive omkring, så det her og alle de her ting. Men Det er.
+
+00:46:39 Team Lead
+Rigtig svært for.
+
+00:46:39 Team Lead
+Mig at gå ud til en anden. Jeg kender og så sige du skal lige hjælpe mig med XYZ fordi han har så sin egen agenda og sin egen mål og Sådan. Og Det er jo derfor at at at at for at bryde den der lidt skæve måde man kommer i hvor Det er så skal man sætte folk til mødet og så beslutninger og alle de der ting.
+
+00:46:57 Team Lead
+Og det skabte ledere og distribueres ud, ikke?
+
+00:46:59 Team Lead
+For at bryde den, så er det jo, at Vi har valgt at tage den her lidt mere.
+
+00:47:04 Team Lead
+Portfolio tilgang og hvis den har lidt mere af de der kompakte hold, der arbejder tæt sammen og.
+
+00:47:08 Team Lead
+Så har vi Sådan lidt, der går på tværs af.
+
+00:47:10 Speaker 3
+Tak for ligesom at beholde den Der er familie den der.
+
+00:47:13 Team Lead
+Grønne ja så ja på en eller anden måde ikke så så Det er jo Sådan lidt den der med at have en familie i portfolio og så er det din dine venner familie eller hvad man kan sige ikke som sidder et.
+
+00:47:21 Team Lead
+Andet sted, ikke?
+
+00:47:22 Team Lead
+Som som også har deres eget forhold sammen på en eller anden måde ikke og deres egne mål de driver imod og så så handler det jo om at.
+
+00:47:27 Team Lead
+Få alting til at passe på toppen.
+
+00:47:28 Team Lead
+Og det her whitespace mastery.
+
+00:47:30 Team Lead
+Som som vi snakkede lidt om. Ikke ja så.
+
+00:47:34 Team Lead
+Tror Det er en god måde at tage, tror jeg.
+
+00:47:38 Speaker 3
+Ja, så tror vi at man.
+
+00:47:40 Speaker 3
+Kan mere omkring Sådan hvordan i.
+
+00:47:42 Speaker 3
+Kongressen er jo valgt, at en af grupperne er eller en teamsene er så når i Sådan du sagde jo allerede nu, at Der er mange af holdene der de her rains at de minder meget om hinanden. Men hvad med Sådan? Hvad med? Hvad skal man sige selve udviklingsmodellen? Hvad altså Det har med waterfall eller scrum er Sådan. Hvordan er det II vælger det inden for holdene?
+
+00:48:02 Team Lead
+Altså igen det. Det er meget forskelligt fra hold som.
+
+00:48:04 Team Lead
+Mit hold specifikt jeg.
+
+00:48:07 Team Lead
+Jeg plejer at smide dem alle sammen i det samme hold eller i det samme rum, og så sætter vi os ned og snakke om det.
+
+00:48:12 Team Lead
+Hvad? Hvad giver mening ikke? Og Det er ikke altid vi når til enighed. Sådan er det bare ikke. Altså man man er bare forskellige ikke og på et eller andet tidspunkt, så når vi så også et punkt, typisk hvor vi kan se en vej igennem det for alle, ikke.
+
+00:48:24 Team Lead
+Det er meget.
+
+00:48:25 Team Lead
+Værre med at tage de svære samtaler.
+
+00:48:27 Team Lead
+Ikke ja, Det er ikke altid de fedeste ting.
+
+00:48:29 Team Lead
+Eller at gøre, fordi Det er bare Sådan at alle kommer jo på forskellige baggrunde er super følelsesladet og min.
+
+00:48:34 Team Lead
+Måde altid er.
+
+00:48:34 Team Lead
+Det bedste nok altså Det er bare Sådan Vi er som mennesker ikke men men det tror jeg også er rigtig mange folk i.
+
+00:48:39 Team Lead
+Trykken har en forståelse fordi.
+
+00:48:41 Team Lead
+Vi vi vi Vi er et af Vores som de her ting, vi lever efter i så de her www.later og alle de her forskellige ting, som ligesom er er.
+
+00:48:49 Team Lead
+Vores måde at.
+
+00:48:50 Team Lead
+Leve ikke og en af dem Det er jo den her show.
+
+00:48:53 Team Lead
+Og og Det er det her med at tage den svære samtale op for for snakkede om de ting, som går en på ikke og dermed også får snakket om.
+
+00:49:01 Team Lead
+Jamen hey hvordan?
+
+00:49:02 Team Lead
+Den her proces synes.
+
+00:49:03 Team Lead
+Jeg ikke er den fede måde at gøre ting på den her planlægnings måde. Hvor det.
+
+00:49:06 Team Lead
+Nu kunne være.
+
+00:49:07 Team Lead
+Jamen, så må man tage den.
+
+00:49:08 Team Lead
+Samtale i holdet så.
+
+00:49:09 Team Lead
+Det er Det er Sådan lidt som hvis ikke Det er meget op til holdet og hvordan de håndterer det, men de fleste de hvem der fungerer det på den her måde.
+
+00:49:17 Team Lead
+De sætter sig ned, når de bliver stiftet som et hold eller andet. Det er, og så har de Sådan en hel dag.
+
+00:49:22 Team Lead
+Hvor de bare siger okay dag skal vi snakke lidt om mig.
+
+00:49:24 Team Lead
+Så hvordan gør vi ikke? Altså hvad? Hvor tit skal vi holde retro? Ikke? Hvor tit skal vi sidde ned? Hvordan skal det format være?
+
+00:49:33 Team Lead
+Og det for mig er det meget noget jeg skulle ud til mit hold, så fordi Jeg har det også Sådan. Jeg har det meget Sådan at.
+
+00:49:38 Team Lead
+Det er ikke mig der skal sidde og leve i de der daglige rytmer.
+
+00:49:41 Team Lead
+Det er dem så.
+
+00:49:42 Team Lead
+Derfor har det også op til.
+
+00:49:43 Team Lead
+Dem og det bliver der.
+
+00:49:46 Team Lead
+De bliver gladest, at Det er dem der definerer dem ikke altså ja og har 1 1 1 impact på de ting ikke hvordan Der er således ud.
+
+00:49:54 Speaker 3
+Han har udgangspunkt i dine i dit team. Hvordan er det så hvad Der er nuværende Sådan metode?
+
+00:50:00 Team Lead
+Så Vi har hver dansk.
+
+00:50:04 Team Lead
+Wonders i dansk tid der 9 der bliver alle penge ud over slack med fra.
+
+00:50:09 Team Lead
+Min bot der siger, hey, fortæl mig lige hvad du lavede i går, i dag og i morgen eller i går i dag og hvad du blokerer af.
+
+00:50:17 Team Lead
+Det filter ind i Sådan en overordnet tråd. Vi har en kanal og så derigennem der koordinerer vi ligesom det ser okay.
+
+00:50:23 Team Lead
+Jeg kan se at Carsten er. Han sidder lige fast nu.
+
+00:50:26 Team Lead
+Og Der er vi noget der?
+
+00:50:27 Team Lead
+Jeg skal hjælpe med, så Det er Sådan.
+
+00:50:29 Team Lead
+Den den overordnede daglige konklusion.
+
+00:50:31 Team Lead
+Der har vi så en person, der sidder i Canada ender i Polen. Polen er så samtidskunst, der kommer også før klokken 9 har med Canada.
+
+00:50:38 Team Lead
+Han når han vågner op der. Det plejer at være at vinde en 2 tiden. Jamen så udfylder han jo det når han.
+
+00:50:42 Team Lead
+Kommer på arbejde ikke, og så har.
+
+00:50:43 Team Lead
+Vi Sådan lige.
+
+00:50:44 Team Lead
+Nogle timers roller der så.
+
+00:50:46 Team Lead
+Har vi hver 14. Dag hver 14. mandag der har vi et retro.
+
+00:50:52 Team Lead
+Hvor vi sætter os ned, og så har vi en time, hvor vi snakker igennem. Hvad har vi gjort i løbet af de sidste 2 uger?
+
+00:50:57 Team Lead
+Hvad har været godt? Hvad har været skidt? Hvad kan vi forbedre? Og er der nogle gutters rundt i holdet?
+
+00:51:02 Team Lead
+Så så Det er lidt mere Sådan hey Jeg synes det her. Det var bare mega fedt på fikset det her og den her var mega fedt og der tager vi typisk også bliver lidt mindre problemer, så hvis hvis Der er et eller andet knas ikke hvad det nu kunne være som vi lige har brug for at snakke igennem vi Vi har brug for at ændre en proces lidt eller Sådan noget. Det er jo typisk også være på retro vi gør det.
+
+00:51:23 Speaker 3
+Det er Sådan.
+
+00:51:23 Team Lead
+En meget drevet, bare at Vi har Sådan et miro bord.
+
+00:51:27 Team Lead
+Ikke så Sådan.
+
+00:51:28 Team Lead
+Et et tool, hvor man ligesom bare kan smide lapper på og man kan ikke se hvem Der er smidt bad og.
+
+00:51:31 Team Lead
+Så tager vi bare med, så har vi mit hold er lidt specielt for Jeg har Sådan 3 superhold inde i mit hold. Faktisk fordi vi arbejder med sikkerhed, infrastruktur og det options, men Vi har en planlægningsfunktion.
+
+00:51:44 Team Lead
+For hver af.
+
+00:51:45 Team Lead
+Dem, som er forskellige folk fra holdet, der deltager i dem hver især og det.
+
+00:51:50 Team Lead
+Er typisk en gang om.
+
+00:51:51 Team Lead
+Ugen og Det er mere.
+
+00:51:53 Team Lead
+Det er ikke så meget planlægning, som realiserer os og siger okay, de næste 3 uger skal du appellerer.
+
+00:51:58 Team Lead
+Det er mere som man sige. Hey, hvor er vi lige nu?
+
+00:52:00 Team Lead
+Hvor lige Vi skal hen af Sådan inde på det næste kort stykke tid. Og er der nogle ting, hvor Vi skal have ekstra fokus på så engang imellem for eksempel nogle sikkerhed er et rigtig godt eksempel.
+
+00:52:09 Team Lead
+Ikke. Vi kan desværre ikke styre verden og lige pludselig så kommer der bare Sådan en eller anden høj kritisk volatility remote exploit, som gør at Vores service skal konfronteres.
+
+00:52:20 Team Lead
+Ikke, så er det klart, så er det jo noget med at droppe alt hvad Vi har i hænderne og få fikset.
+
+00:52:23 Team Lead
+Det ikke så så vi.
+
+00:52:25 Team Lead
+Opnår den der fleksibilitet og agilitet uden at have den der faste. Det er meget sjovt.
+
+00:52:29 Team Lead
+Og Vi har en flaske.
+
+00:52:30 Team Lead
+Plan, og så har vi.
+
+00:52:33 Team Lead
+Hver tredje måned har vi en okay, og det foregår egentlig på et fagligt niveau, og der har man Sådan et.
+
+00:52:40 Team Lead
+Nogle schools typisk ikke så så.
+
+00:52:43 Team Lead
+Mål, der godt kan nås men er.
+
+00:52:45 Team Lead
+Sværere at opnå.
+
+00:52:47 Team Lead
+De bliver sat hver kvartal og siger hen over det næste kvartal. Der har vi en ide om, at vi vil nå de her mål.
+
+00:52:53 Team Lead
+Det er typisk nogle ret.
+
+00:52:54 Team Lead
+Overordnede mål så lige nu, for eksempel.
+
+00:52:57 Team Lead
+Der hedder Vores.
+
+00:52:59 Team Lead
+Lige nu er.
+
+00:53:00 Team Lead
+Vi ved at arbejde på en opgave omkring Kafka setup, som er Sådan en teknologi, vi bruger.
+
+00:53:06 Team Lead
+Og der har vi brug for reklame dem, så Det er Sådan et af Vores okay afsted.
+
+00:53:12 Team Lead
+I hvert fald. Der har vi så en cowboy, hvor vi går ind og sidder og snakker om, har vi opnået de her mål hver?
+
+00:53:16 Team Lead
+Vi lært som vi.
+
+00:53:17 Team Lead
+Hvis vi ikke blev opnået, hvad har vi faktisk lært videre det og Sådan noget?
+
+00:53:22 Team Lead
+Ja så så og Det er Sådan den måde de her okay copy eller de her cowboy og som vi holder det holder vi i portfolio, så vil alle få portfolio.
+
+00:53:29 Team Lead
+Der går ind og snakker om det, så alle.
+
+00:53:31 Team Lead
+Alle team members er også med og så hver leder med forholdene går ind og præsentere og siger.
+
+00:53:36 Team Lead
+Hvad er Vores mål og hvad er vi nået og hvad vi ikke nok?
+
+00:53:39 Team Lead
+Og Det er faktisk åbent for alle, så Jeg kan have den i hvilken som helst kunne jeg gerne vil se, så hvis Jeg har en vis stake i team apps whatever, så kan jeg jo på at se hvad.
+
+00:53:48 Team Lead
+Hvad har vi faktisk nået mål, det her portal og Sådan noget igen. Vi driver meget, der åbner igen og ikke omkring.
+
+00:53:54 Team Lead
+At sørge for at folk.
+
+00:53:56 Team Lead
+Typisk så vil de have.
+
+00:53:57 Team Lead
+Optaget, og det ville så blive.
+
+00:53:59 Team Lead
+Lavet tilgængelige, som er tilbage.
+
+00:54:01 Team Lead
+Jeg tror Det er Sådan er, så har vi udover det i mit hold specifikt som mit lederskabs hold ikke så jeg sidder jo sammen med som ingeniøren lige i portfolien, og der har vi så på tværs af de 10 minutter sidder i porteføljen der mødes vi så én gang om ugen og bare lige tjekke ind og siger, hey, har jeg brug for hjælp fra?
+
+00:54:17 Team Lead
+Dig på mit hold brug for hjælp her, som på den måde.
+
+00:54:19
+Okay.
+
+00:54:21 Team Lead
+Det er Sådan de rytmer tror jeg. Vi har en altså så bruger vi bare ikke så så Vi har en masse task som vi flytter rundt på.
+
+00:54:28 Team Lead
+Et par år.
+
+00:54:29 Team Lead
+Men Det er mere Sådan en.
+
+00:54:30 Speaker 3
+Kampstil men Der er, men Der er ikke Sådan en. Hvad skal man sige Sådan en normal?
+
+00:54:35 Speaker 3
+Sådan tankegang som vi Sådan følger. Nej.
+
+00:54:38 Team Lead
+Nej, Vi har ikke Sådan en blanding.
+
+00:54:40 Speaker 3
+Når du har den?
+
+00:54:41 Team Lead
+Og alt det her vel? Altså hvor man sætter Sådan noget. Kigger takket specifikke ting, så lave ting. Det er meget op til til dig som for eksempel som ingeniør og sige, jamen, i dag arbejder jeg på det her så går jeg ind og laver en ting og sørger for at få.
+
+00:54:51 Team Lead
+Flyttet den ind i de rigtige kolonner, om jeg blokeret og så videre.
+
+00:54:55 Speaker 3
+Ja fordi du har haft et andet og især til virksomheder, som er det Sådan, så Vi har. Vi har jo alt jeg med nogle af de her elementer her, men det.
+
+00:55:01 Speaker 3
+Er som at Det er super åben for jer.
+
+00:55:03 Team Lead
+Ja og jeg ved ikke om Det er specifikke for Vores hold faktisk, men men men.
+
+00:55:07 Team Lead
+Grunden til at Vi har valgt det, Det er.
+
+00:55:10 Team Lead
+Det det det det Det er for at minimere den her møde agenda så så så man kommer rigtig hurtigt bare til at beslutte op i at hvis man skal mødes om team hver uge, ikke for at planlægge for eksempel Sådan et hårdt ned i detaljen marketing.
+
+00:55:26 Team Lead
+Jamen det tager måske en time, 2 timer.
+
+00:55:28 Team Lead
+Jeg er 7 mennesker i.
+
+00:55:29 Team Lead
+Mit hold så så.
+
+00:55:31 Team Lead
+Du kan godt hurtigt gange deroppe ikke og så sige jamen det.
+
+00:55:33 Team Lead
+Det er jo.
+
+00:55:33 Team Lead
+Faktisk en hel dag der går til spilde bare med det ikke så for mig og mit hold har vi en af de ting vi.
+
+00:55:39 Team Lead
+Har snakket meget om det her. Vi vil hellere have tid til at fokusere på teknikken.
+
+00:55:42 Team Lead
+En tid til at sidde.
+
+00:55:43 Speaker 3
+Og snakke møder ikke?
+
+00:55:45 Team Lead
+Men Det er forskellige.
+
+00:55:46 Speaker 3
+Forhold tror jeg, har det ændret sig over tid, været solgt din.
+
+00:55:49 Team Lead
+Ja helt sikkert, så så tilbage dengang jeg overtog mit hold blev teamet for det. Der var vi 3 mennesker, der havde vi jo en helt anden dynamik i holdet.
+
+00:55:59 Team Lead
+Vi har nu når Vi er 7 mennesker og med det processerne og så står tid, og Det er Sådan noget, vi kommer tilbage til hver kvartal. Nok ikke hvor man lige slår op. Vi kigger på
+
+00:56:08 Team Lead
+Hinanden og siger, gør tingene på en.
+
+00:56:09 Team Lead
+På den måde.
+
+00:56:10 Team Lead
+Fungerer det for os senest, der fik vi en med i Canada, ikke? Det giver nogle helt andre udfordringer lige pludselig II den her dynamik ikke førhen der mødtes vi faktisk online hver morgen klokken 9 på et video kan du sagde hey hvordan går det lige? Du ved alt det der det det bliver man jo nødt til at ændre, når man lige pludselig bliver globalt hold med folk.
+
+00:56:30 Speaker 3
+Ja ja præcis.
+
+00:56:32 Team Lead
+Så så Det er noget.
+
+00:56:33 Team Lead
+Vi stopper op engang imellem at betale tjek.
+
+00:56:35 Team Lead
+Os lige ja tak.
+
+00:56:37 Team Lead
+Hvordan går det?
+
+00:56:43 Speaker 3
+Det er sandt.
+
+00:56:45 Speaker 3
+Jeg tror vi snakker også helt i starten interviewet, men det her med skallering.
+
+00:56:52 Speaker 3
+At nogen rammer.
+
+00:56:54 Speaker 3
+For jeg føler den her måde end på ferie på, at den godt kan ramme et problem, når i.
+
+00:56:57 Speaker 3
+Som bliver skal lave for stort på en måde, for så ender det med, at så er der for mange partier der laver Sådan.
+
+00:57:02 Speaker 3
+Hvad skal man sige Sådan?
+
+00:57:03 Speaker 3
+For små detaljer og så bliver det og så ender du lidt det samme problem jo.
+
+00:57:06 Team Lead
+Det er meget muligt.
+
+00:57:08 Team Lead
+Ja men men Jeg tror også, Det er vigtigt at have tilgang der hedder. Ja, Det er meget muligt det. Det er jo det her med at vi.
+
+00:57:15 Team Lead
+Kommer ikke til.
+
+00:57:15 Team Lead
+At så lige nu er vi 450 og.
+
+00:57:19 Team Lead
+60 medarbejdere når Vi er 1000 medarbejdere.
+
+00:57:22 Team Lead
+Lad os sige vi bliver.
+
+00:57:23 Team Lead
+Det ikke jamen så er det klart så er det 1 1 1 anden.
+
+00:57:26 Team Lead
+Organisationstype, Vi har brug for.
+
+00:57:27 Team Lead
+Ikke og Det er jo det Der er super vigtigt i så for udviklingsbank.
+
+00:57:32 Team Lead
+Ikke at man.
+
+00:57:32 Team Lead
+Man er villig til at at sige, jamen, Der er ikke noget der passer, ikke?
+
+00:57:37 Team Lead
+Jeg tror dog at at.
+
+00:57:39 Team Lead
+Måden, vi gør tingene på nu portfolier ideen omkring portfolier skalere ret godt, fordi vi kan se, Vi er blandt andet de opkøbte firmaet Tyskland.
+
+00:57:51 Team Lead
+Og da vi opkøbte dem. De har en meget speciel software føring, som som Vi er interesserede.
+
+00:57:54 Team Lead
+I at at få ind i.
+
+00:57:55 Team Lead
+Vores platform ikke og og den måde, de agerer på.
+
+00:57:58 Team Lead
+Det er jo.
+
+00:57:58 Team Lead
+Jamen den software offering den står de jo så for i.
+
+00:58:00 Team Lead
+Deres profil det specifikt ikke og.
+
+00:58:03 Team Lead
+Der har de jo så lidt, hvordan de vælger at sørge for at den når deres mål.
+
+00:58:07 Team Lead
+Det er jo så op til dem.
+
+00:58:07 Team Lead
+At finde ud af ikke fordelen i.
+
+00:58:10 Team Lead
+Det er jo at det skader så.
+
+00:58:12 Team Lead
+Tennis problem men Det er klart, Det er, der vil altid være en eller anden opgave i at få den der alignement til at køre.
+
+00:58:19 Speaker 3
+Ja, men Det er fordi i hænger fast i os med vand og metoder.
+
+00:58:22 Team Lead
+Nej nej og det. Det tror jeg også, at Det er også er. Det er også det man kan se, hvis man kigger tværs historikere.
+
+00:58:27 Team Lead
+Vi starter ud på den her tid nok rejse og fandt hurtigt ud af jamen det virker, men Der er bare nogle ting der skal være lidt anderledes valgt at sortere tingene på podiet og Det er Sådan en rejse man hele tiden er på, og Jeg tror hvis man taber det der blæk omkring at Det er en rejse og siger nu er vi et firma Der er Sådan her der opererer Sådan her.
+
+00:58:43 Team Lead
+Jamen så bliver du låst fast hos hjertet.
+
+00:58:45 Team Lead
+At du bliver overhalet af konkurrenter, fordi de er mere fleksible og involverende og så.
+
+00:58:50 Team Lead
+Så Det er jo Det er.
+
+00:58:51 Team Lead
+Jo med at.
+
+00:58:51 Team Lead
+Være altså at være hele tiden at være respekterende overfor jamen hey, Vi er på en.
+
+00:58:56 Team Lead
+Skærings rejse og.
+
+00:58:57 Team Lead
+Vi har ikke fundet ud af alting, altså.
+
+00:59:00 Team Lead
+Vi har masser af.
+
+00:59:00 Team Lead
+Problemer vi i Vores virksomhedskultur er Sådan generelt ikke II, hvordan vi godt tænkt, men Det er jo så op til os at finde ud af, hvordan får vi og det det som ledernes job er i det her?
+
+00:59:10 Team Lead
+Det er at finde.
+
+00:59:11 Team Lead
+Ud af, hvordan får vi en æblet?
+
+00:59:13 Team Lead
+Vores folk til at lave det, der giver mening.
+
+00:59:16 Team Lead
+Sådan at at Det er dem, der tager beslutningerne. Det er dem der der fylder ikke. Og så skal vi jo finde ud af at koordinere alt det her ind imellem af kulturen og alle de her ting.
+
+00:59:25
+Og Det er svært at.
+
+00:59:26 Team Lead
+Jeg tror ikke Der er særlig mange firmaer.
+
+00:59:27 Team Lead
+Der hedder det altså en generel.
+
+00:59:30 Team Lead
+Og det tror jeg ikke, vi gør.
+
+00:59:31 Speaker 3
+Nødvendigvis nej, men så længe man er mindful.
+
+00:59:34 Speaker 3
+Af det, så er det altid.
+
+00:59:34 Team Lead
+Jeg tror Det er det. Det er i hvert fald meget det mindset Vores Vores ceo og sit hoved og Sådan hele Vores større lederskab har.
+
+00:59:42 Team Lead
+Jamen Det er bare vi er det her human OS der er imellem trænger til opgradering og Det er Det er bare Sådan.
+
+00:59:47 Team Lead
+Lidt Sådan Det er ikke.
+
+00:59:51 Speaker 3
+Jeg tror ikke den er hernede.
+
+00:59:57 Speaker 4
+Det er i hvert fald at fordi vi snakker om over tilbage til det der dokumentation, Vi har snakket meget om, altså i et dokumenterer også noget processen, men ved vi, hvis vi nu tager et eksempel?
+
+01:00:10 Speaker 4
+At Jeg er ny udvikler er kommet ind, og han skal lave alle mulige dokumentation for at komme ind og Sådan.
+
+01:00:17 Speaker 4
+Hvor meget gå i detaljer med jeres dokumentation, så man kan rigtig sætte i gang. Er det Sådan en step by step?
+
+01:00:23 Speaker 4
+Man skal bare følge den eller der bare Sådan en guideline Sådan ja den vej vil gå app.
+
+01:00:29 Speaker 4
+Og du skal ikke.
+
+01:00:32 Team Lead
+Det kommer lidt an på omstændighederne, tror jeg.
+
+01:00:34 Team Lead
+Så så der.
+
+01:00:34 Team Lead
+Er Sådan nogle forskellige måder, man kan komme ind.
+
+01:00:36 Team Lead
+I tracking på.
+
+01:00:37 Team Lead
+Ikke så den ene måde det.
+
+01:00:38 Team Lead
+Er, at du kommer ind i?
+
+01:00:38 Team Lead
+Et etableret hold det.
+
+01:00:39 Team Lead
+Er nok den nemmeste måde. Ikke fordi der har du selvfølgelig en masse andre folk at læne dig opad.
+
+01:00:45 Team Lead
+Vi har noget, der hedder engineering handbook.
+
+01:00:47 Team Lead
+Den beskriver. Generelt er det for nogle produkter Vi har. Hvordan gør vi ting? Hvad er det for nogle sider, Der er vigtige for dig at vide blandt andet den her? LC Vi har snakket om nogle gange ikke, og den er Sådan en ting, man giver til til til nye folk for at de kan have.
+
+01:01:01 Team Lead
+Den her lidt mere.
+
+01:01:02 Team Lead
+Opslagsværk omkring hej Jeg har det her problem er Sebastian men så hvis du.
+
+01:01:07 Team Lead
+Kommer ned til dit specifikke services.
+
+01:01:09 Team Lead
+Altså vi prøver gerne i Vores hold specifikt der der der skriver vi ikke hous altså Vi skal jo ikke step by step by step by step.
+
+01:01:18 Team Lead
+Vi tror meget på lønningen by doing ikke så så vi. Vi tror også meget på det her koncept om teach your man to fish, altså det her med hvordan en naboer vi andre folk til at kunne gøre det her. Selv ikke så så Vi har.
+
+01:01:32 Team Lead
+Vi har ikke i dybden dokumentation. Vi har dokumentation omkring, hvordan systemet er sat sammen, men ikke om hvordan nødvendigvis at du opererer det.
+
+01:01:39 Team Lead
+Så hvordan patcher du vil herinde eller laver en specifik kode tjene på det her en.
+
+01:01:43 Team Lead
+Og Det har vi også set som et problem.
+
+01:01:46 Team Lead
+Det, Det er svært at vokse med det, for eksempel når man nu opkøber et firma i Canada med en helt anden Kultur og alle de her ting, ikke?
+
+01:01:51 Team Lead
+Altså hvor alle folk bare ny ikke så når man ansætter en person over i Canada, men så kommer de jo ind i et hold der ikke er etableret og der har vi en masse tribal Norge som som ligesom lever i hold og Det er en af de udfordringer, vi lige i øjeblikket er prøver at finde ud af. Hvordan skal vi håndtere?
+
+01:02:08 Team Lead
+Så så jeg så.
+
+01:02:10 Team Lead
+Jeg var i Canada i sidste måned skal der i næste måned ikke på grund af den her agenda og det.
+
+01:02:14 Team Lead
+Det er mega svært at drive Sådan en Sådan agenda ikke og Det er mega svært at nævne det når man dokumentation fordi problemet er også hvis du skriver meget dokumentation så bliver det hurtigt gammelt ikke? Og hvem vedligeholder det hvis du sidder hvis nu at du har arbejdet på energi?
+
+01:02:28 Team Lead
+Har du rykket videre over på den næste? Hvordan bliver det så vedligeholdt ikke og Det er mega svært igen når Det er og Der er.
+
+01:02:35 Team Lead
+Jeg tror ikke.
+
+01:02:35 Team Lead
+Der er særlig mange, der der rammer det rigtige vel. Altså hvad er det rigtige niveau?
+
+01:02:42 Speaker 3
+Det tror jeg det. Jeg tror Vi har tid så.
+
+
+
+
+
