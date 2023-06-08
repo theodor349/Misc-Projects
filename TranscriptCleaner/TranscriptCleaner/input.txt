@@ -1,2381 +1,2508 @@
 Audio file
-Team_lead.WMA
+Senior_frontend_developer.MP3
 Transcript
 
-00:00:00 Team Lead
-600 vi snakker om et par gange, mens Vi er ude, som har været dem og det her. Det er Vores access control platform, man bruger mit hotel og så kan man låse.
+00:00:00 Speaker 1
+Så jeg starter optagelse nu.
 
-00:00:06 Team Lead
-En pin kode.
+00:00:04 Speaker 1
+Det gør Sådan der Sådan en fase.
 
-00:00:08 Team Lead
-Den op ikke.
+00:00:08 Speaker 1
+Men Kasper tænker Sådan set til at begynde med.
 
-00:00:08 Team Lead
-Det så ud i store trucks og Sådan noget.
+00:00:10 Speaker 1
+At vi bare introducerer os.
 
-00:00:11 Speaker 3
-Ikke selvfølgelig ikke lavet til skalering.
+00:00:12 Speaker 1
+Hvis du lige.
 
-00:00:17 Speaker 3
-Han kunne stadig.
+00:00:12 Speaker 1
+Tager en runde i dine ting og sager, og jeg står der gerne ville jeg havde til mig.
 
-00:00:21 Speaker 3
-Ja nu ved jeg godt nok ikke glad, men alt det der med Samsø og Sådan er.
+00:00:18 Speaker 1
+Og hvad kan man sige altså?
 
-00:00:25 Speaker 3
-Det bare Sådan implicit, eller?
+00:00:20 Speaker 1
+Vi har jo selvfølgelig det her undervisning, men Vi er Sådan lidt nogle forskellige.
 
-00:00:26 Team Lead
-Det gør jeg gør det.
+00:00:23 Speaker 1
+Uddannelser i den.
 
-00:00:29 Speaker 3
-Fordi en vej, så skal vi have underskrifter.
+00:00:24 Speaker 1
+Her undervisning så jeg læser det der hedder action.
 
-00:00:30 Speaker 3
-Alt muligt ja men så.
+00:00:27 Speaker 1
+Det vi gør på interaktionsdesign. Det er, at vi forsøger at kombinere som programmering med at lave design og både enten som ja et program eller fysisk design og Sådan ting og sager det han så meget Sådan med i menneske maskine, interaktion og Sådan noget.
 
-00:00:33 Speaker 3
-Jamen Jeg tror også det ja.
+00:00:46 Speaker 1
+Man kan sige i.
 
-00:00:34 Team Lead
-Med Johnny Vi har.
+00:00:46 Speaker 1
+Min for mig er min fritid. Der har jeg.
 
-00:00:36 Team Lead
-Nej nej nej, Jeg tror Det er nu.
+00:00:49 Speaker 1
+Et studiejob hos nibe.
 
-00:00:39 Speaker 3
-Ja yes ja i kan lide lidt for depoterne op, for Vi er der. Men ja, mit navn er Tommy.
+00:00:51 Speaker 1
+Hvor vi laver en masse research så.
 
-00:00:44 Speaker 3
-Jeg kommer til at være hovedserveren, så er vi kommet til at være supplerende, og så har vi altså.
+00:00:52 Speaker 1
+Tænker jeg, og det gør.
 
-00:00:48 Speaker 3
-Der tager nøglerne bare ja.
+00:00:53 Speaker 1
+Vi også meget som en del af uddannelsen og Sådan.
 
-00:00:51 Team Lead
-Skal lige vente.
+00:00:57 Speaker 1
+Det er som mig.
 
-00:00:59 Speaker 3
-Af alle væk med den der maling eller det kun Sådan har jeg Sådan specifikke væk kun møderummene.
+00:00:58 Speaker 3
+OK ja.
 
-00:01:02 Team Lead
-Nej, Jeg tror det det.
+00:01:00 Speaker 4
+Vi havde så Kenneth og Jeg er også med i interaktionsdesign på kandidaten her, som Vi er i morgen, og Jeg har en baggrund som som software, så Jeg har en software baseret software, som jeg så godt kunne tænke mig at overbygge med noget lidt mere interaktivt og udvikling af software, for Jeg synes, at det bliver.
 
-00:01:05 Team Lead
-Af alle dem der.
+00:01:15 Speaker 4
+Meget, meget enten med arkitekturen eller i hvert fald meget med fokus på sproget og ikke så meget inde på udviklingen af sproget. Og Der er ting, der taler interaktionsdesign mere for det.
 
-00:01:06 Team Lead
-Sådan møderum og kontorer.
+00:01:25 Speaker 4
+Der med at der.
 
-00:01:08 Speaker 3
-På begge sider.
+00:01:29 Speaker 3
+Det hedder Silas.
 
-00:01:10 Team Lead
-Nej, Det er derovre, ikke?
+00:01:31 Speaker 3
+Jeg har brugt med Frederik derovre og er fra dato lig kandidaten også dataloger. Vi laver alt det tunge når jeg kommer til matematik og Sådan noget Vi er.
 
-00:01:11 Speaker 3
-OK så.
+00:01:41 Speaker 3
+På dhl front.
 
-00:01:14 Speaker 3
-Det var meget klokken.
+00:01:44 Speaker 3
+Af alt alt det teknologi teknologiske. Jeg ved ikke hvordan man ellers skal beskrive det, men altså skal man bruge en algoritme til at finde ud af hvor man er på Google maps, så er det nok også man skal have fat II min fritid så træner jeg og gamer og det eneste jeg.
 
-00:01:19 Speaker 3
-Hey heroppe så lad os begynde ja du hedder Simon ja hvad er din rolle?
+00:02:00 Speaker 3
+Har brug for.
 
-00:01:25 Team Lead
-Så jeg sidder som team lead for det, vi kalder SE holdet som hedder cykler, ingeniør og Det er Vores ansvar. Egentlig ligger eller mit hold har ansvaret for Det er Vores det, vi kalder iris platformen, som er Vores hovedprodukt ud til kunder, så Det er alle de her unito de her ting. Især Det er Sådan noget data i skyen, den platform, den står vi.
+00:02:04 Speaker 5
+Datalogi og ja Jeg har også studiejob i fritiden.
 
-00:01:46 Team Lead
-Nå sammen med sikkerhed så sikre at vi bliver hacket og alle de her ting og så har vi så.
+00:02:10 Speaker 1
+Interessen for noget maling Sådan så ***** godt. Jeg tænker eventuelt også lige kørt ind lige kort, at Sådan man kan sige Sådan en sammenhæng mellem det som vi laver som interaktionsdesigner og det som de laver detgiver undskyld jeg skulle lige software datalogi og Sådan noget.
 
-00:01:54 Team Lead
-Har vi det, det område, vi kalder det som er. Hvordan sørger vi for at alle de her folk, der sidder herude og udvikler, hvordan sørger vi for, at de effektive ikke skal bruge en masse tid på at sidde og tænke infrastruktur?
+00:02:27 Speaker 1
+Det vil Sådan dynamikken i en virksomhed bliver i samme virksomhed. For eksempel. Det er nok meget værre, at Vi er Sådan Vi skal prøve at have.
 
-00:02:06 Team Lead
-Og hvordan bygger jeg min kode og alt Sådan noget?
+00:02:33 Speaker 1
+Lavet noget af det her, og så går vi til jer og dem og siger kunne i prøve det? Og så fordi.
 
-00:02:09 Team Lead
-Men sørg for at de egentlig kan gå ud og levere features, så.
+00:02:38 Speaker 1
+At Vi er. Vi er ikke så teknisk dyr nede.
 
-00:02:12 Team Lead
-Det der jo så er Vores overordnede mål.
+00:02:40 Speaker 1
+I koderne, men Sådan tænker, så Jeg vil ikke kalde.
 
-00:02:14 Team Lead
-Det er jo det her eliminate downtime, så Vores fineste rolle er at sikre og en æble dem til at kunne eliminere dagsregn.
+00:02:42 Speaker 1
+Mig selv for det for eksempel?
 
-00:02:20 Speaker 3
-Ja jeres it Sådan meget svært for den for selve platformen, så.
+00:02:46 Speaker 1
+Jeg er sgu til dig Kasper vil.
 
-00:02:25 Team Lead
-Ja ja så så.
+00:02:48 Speaker 1
+Du fortælle lidt om, hvem du er, og.
 
-00:02:28 Team Lead
-Den operationelle del af Vores hold er er selve platformen. Den kører, den er over, Der er nok kapacitet, og hvad der nu ellers kunne være udfordringer ikke den anden del af mit hold er.
+00:02:49 Speaker 1
+Hvad du laver og?
 
-00:02:33 Speaker 3
-Alt fungerer der.
+00:02:50 Speaker 1
+Eventuelt også din rolle her i livet.
 
-00:02:38 Team Lead
-Så også udviklingen på på at sikre, at Vores udvikler effektivt.
+00:02:51 Senior Frontend Developer
+Yes så Kasper Laursen og senior software engineer kalder det det her. Jeg arbejder hovedsageligt med front end delen.
 
-00:02:43 Speaker 3
-Så laver vi både backend og frontend for platformen.
+00:03:01 Senior Frontend Developer
+Og sidder de sidste par år har siddet på det team, som vi kalder for iris foundation herinde. Det fungerer lidt som som Sådan en slags platform team for Vores front end i hvert fald.
 
-00:02:47 Team Lead
-Så vi så du skal nok mere se det som at der ligger Sådan nogle forskellige lag platformen, ikke hvor det alleryderste er ligesom det her lag som som er der kunder, ligesom det det kunderne interagerer med at serie, der ligger der begge indslag under neden og Vores job er egentlig de lag, der ligger under middel. Det så selve platformen. Hvordan sørger vi for at vi?
+00:03:11 Senior Frontend Developer
+Hvor vi hvor vi arbejder lidt på, hvad er det vi? Hvordan arbejder vi med den her forbindelse? Vi har en webapplikation, nogle mobile apps, men hovedsageligt webapplikationen, som er et produkt, som jeg rigtig, rigtig mange teams der.
 
-00:03:07 Team Lead
-150 piger hvordan sørger vi for at alle 150 piger har et sted at køre Sådan helt lavpraktisk en server og i klosteret de kan?
+00:03:22 Senior Frontend Developer
+Arbejder på og.
 
-00:03:14 Speaker 2
-OKOK.
+00:03:23 Senior Frontend Developer
+Bygger på, og det skal ligesom have.
 
-00:03:14
-Køre på Sådan.
+00:03:24 Senior Frontend Developer
+Til at fungere.
 
-00:03:15 Team Lead
-Nogle ting og sikkerheden, der ligger omkring det.
+00:03:26 Senior Frontend Developer
+Udover det, så har vi så arbejdet med det her i recess, dk de har fortalt lidt om det dengang i eu, men i hvert fald Det er at arbejde med, hvordan vi kan få fra tredjepart folk ind og udvidet Vores platform. Vi vil gerne have at Vores Vores manager som den hedder Vores applikation. Det er.
 
-00:03:19 Team Lead
-Så så Det er mit, og Jeg vil sige, vi vi arbejder rigtig tæt med backend udvikler Holland udvikler, fordi vi også laver meget testning og Sådan nogle ting og Sådan nogle ting, så Det er at skrive teksten til med Sådan en integration test og tester en api.
+00:03:42 Senior Frontend Developer
+Det er den nye iPhone Det er jo s.
 
-00:03:31 Team Lead
-Det gør jeg udvikler.
+00:03:44 Senior Frontend Developer
+Og så skal jeg hvem som helst i princippet kunne gå ind og udvide den menu funktionalitet og apps, hvor vi sørger for at al den data vi får ind igennem.
 
-00:03:31 Team Lead
-Mig selv men.
+00:03:50 Senior Frontend Developer
+De har jo 10 systemer.
 
-00:03:32 Team Lead
-Den platform, der ligesom kører det Sådan, at de ikke skal tænke på at sige, jamen, hvordan får jeg den til at køre og Sådan noget? Det bygger det.
+00:03:52 Senior Frontend Developer
+Det kommer ind og Det kan.
 
-00:03:39 Team Lead
-Lag bygger vi i Nordjylland.
+00:03:52 Senior Frontend Developer
+Man så interagere med at lave eller skabe værdi for kunden.
 
-00:03:40 Speaker 3
+00:03:55 Senior Frontend Developer
+En af grundene til Det er jo blandt andet, at vi kan godt se, Der er store kunder, der kommer og siger, Vi skal bruge den her feature, og så sidder vi nogle udvikler herinde, der sidder og siger fedt, Det har vi ikke tid til, og så er der nogen, der siger, den er så stort.
+
+00:04:05 Senior Frontend Developer
+Det har tid til nu og så noget der blev tabt på gulvet er det meget federe yousee super vi kender de her 7 konsulenthuse eller i har Sådan en intern udvikler har en donation i kan bare prøve det selv præcis som i vil have.
+
+00:04:17 Senior Frontend Developer
+Der har jeg så været med på det team fra starten af, hvor Vi har prøvet på at udvikle den her.
+
+00:04:20 Senior Frontend Developer
+Sådan den tekniske del af hvordan gør man det her på en?
+
+00:04:24 Senior Frontend Developer
+På en webplatform og hvad?
+
+00:04:25 Speaker 4
+Hedder det siger du igen?
+
+00:04:27 Senior Frontend Developer
+Vi kaldte det for Vores iris apk det tekniske ting, du ligesom bruger til at bygge på, og Det er bygget oven på nogle af de teknologier, vi selv bruger med monograph.
+
+00:04:37 Senior Frontend Developer
+Under react og hvis du kan det, så kan du også udvide Vores platform.
+
+00:04:42 Senior Frontend Developer
+Det er så ikke offentligt. Nu skal lige siges, men Vi har snakket om allerede der kommer et marketplace og.
+
+00:04:46 Senior Frontend Developer
+Alle mulige ting.
+
+00:04:46 Senior Frontend Developer
+Og PT er det noget vi?
+
+00:04:47 Senior Frontend Developer
+Internt bruger til Vores egne ting, vi bygger.
+
+00:04:51 Senior Frontend Developer
+Men nu blev vi meget.
+
+00:04:52 Speaker 1
+Teknisk og Jeg vil bare byde ind i forhold til.
+
+00:04:58 Speaker 1
+Nu siger vi også, at det ikke er noget, der nødvendigvis er på markedet nu.
+
+00:05:00 Speaker 1
+Og Sådan noget.
+
+00:05:01 Speaker 1
+Så Det er jo også bare lige for at være gennemsigtig i forhold til hvad vi kommer til at bruge.
+
+00:05:04 Speaker 1
+Dertil har vi sagt, Vi skal bruge.
+
+00:05:06 Speaker 1
+Til Vores undervisning her.
+
+00:05:07 Senior Frontend Developer
+Ja, Der er ikke noget.
+
+00:05:08 Senior Frontend Developer
+Jeg siger, som i ikke godt kan fortælle folk om. Altså Det er også underligt.
+
+00:05:11 Speaker 1
+Okay fair nok ellers så ja altså det vi kommer til at bruge dem. Det er at vi bare.
+
+00:05:14 Speaker 1
+Har en opgave Vi skal skrive, som Vi skal bruge til eksamen.
+
+00:05:17 Senior Frontend Developer
+Ja Det er også når vi snakker om Vi har Sådan nogle. Vi har nogle meetups, vi holder et par gange om året, hvor hvor folk udefra kommer ind, hvor vi også snakker om det her tekniske. Hvordan bygger vi den her platform og Sådan spilles allerede på youtube. Det er ikke fordi Det er.
+
+00:05:18 Speaker 1
+OK godt.
+
+00:05:25 Speaker 2
 Okay.
 
-00:03:45 Speaker 3
-Ja så har du været lidt under.
+00:05:26 Speaker 1
+Det var bare. Det var bare i forhold til.
 
-00:03:47 Team Lead
-Så har jeg været her i august har været i 3 år, så Det er det 2 2 1 halvt år Sådan et eller andet.
+00:05:27 Speaker 1
+Hvis Det var noget, som vi ikke.
 
-00:03:54 Speaker 3
-Så du er alligevel godt integreret i.
+00:05:28 Speaker 4
+Nå okay godt nok.
 
-00:03:57 Team Lead
-Helle det r Jeg tror II tracking er et hurtigt voksende firma, så Jeg er nok ved at være en af de ældre tror jeg fordi at.
+00:05:29 Speaker 4
+Godt nok, siger han.
 
-00:04:06 Team Lead
-Altså Sådan helt automatisk ikke. Vi hyrer så mange folk. Ja så så dengang jeg startede for lige at give lidt perspektiv til ikke dengang jeg startede der var vi 70 udviklere. Jeg tror nu, Der er vi lige omkring 250 udviklere ikke så så, så Det er Sådan den fart vi.
+00:05:31 Senior Frontend Developer
+Ja Det er det. Det er bare at sige, Vi har ikke. Vi har i tredje par udvikler på endnu over nogle.
 
-00:04:22 Team Lead
-Vokser med litteraturen.
+00:05:36 Senior Frontend Developer
+Interne konsulenter og så videre.
 
-00:04:22 Speaker 3
-Ja nej projekt.
-
-00:04:23 Team Lead
-Så der kommer hele tiden nye mange nye folk til.
-
-00:04:26 Speaker 3
-Skrevet den der graf her du er med Det var ok.
-
-00:04:33 Speaker 4
-Må jeg spørge om noget Sådan? Hvordan er det dengang når du joine track you? Det er Sådan for 3 år siden er det lige så meget struktur Sådan den her gang eller eller?
-
-00:04:41 Team Lead
-Som nu nej ja nej det så Jeg tror det det nu har jeg været i andre firmaer også ikke som er større skat og Sådan som IB og Sådan nogle ting, hvor Det er meget struktureret meget Sådan corporate Der er regler og processer for alting og Der er der skiller tracking til lidt ud, så dengang jeg startede var det jo det man nok vil kalde et skilt op.
-
-00:05:01 Team Lead
-Ikke så så ja det det start up.
-
-00:05:03 Team Lead
-Der ligesom har fået.
-
-00:05:04 Team Lead
-Noget kapital spottet i Ishøj hvor?
-
-00:05:05 Team Lead
-Vi har vokset ret.
-
-00:05:06 Team Lead
-Det er det ikke det Vi har gjort anderledes tror jeg Det er, at Vi har. Vi har anerkendt, at Der er Sådan 1 1 1 fiction point i når softwarevirksomheder vokser så store, så det plejer at ligge omkring det der med når ens engineering afdeling, herunder de 100 folk, så begynder det at være svært.
-
-00:05:22 Team Lead
-Det der med at sige, jamen jeg ved at john han står lige for databaserne, og vi fik så lige alt det her på tværs, fordi vi kender hinanden ikke så man her typisk starter man.
-
-00:05:33 Team Lead
-Og det, Vi har gjort meget for at beholde den der følelse. Det er jo, at Vi har sorteret lidt på.
-
-00:05:37 Team Lead
-Den der måde portfolio.
-
-00:05:38 Team Lead
-Det gør lidt at at de teams jeg arbejder sammen med, men dem kender jeg rigtig godt og har stadig den her startup følelse med.
-
-00:05:45 Team Lead
-Men, men Vi har en orkestrering på tværs af hele Vores firma om, hvordan vi leverer features, som stadigvæk har dem, så Vi har Sådan lidt af begge det. Det bedste af begge veje, eller i hvert fald det vi.
-
-00:05:56 Team Lead
-Derimod ikke så ja, men ja selvfølgelig er der nogle flere regler og nogle ting nu ikke som som kommer helt automatisk også noget som sikkerhedsarbejde er rigtig meget med ikke og Der er klart, Det er jo nogle helt andre krav Der er nu, når vi sidder som verdensledende inde på hvad vi gør.
-
-00:06:11 Team Lead
-Være klart den den markedsledende ikke en for 2 år siden. For eksempel ikke hvor, hvor vi var en anden størrelse.
-
-00:06:17 Team Lead
-Ikke så ja.
-
-00:06:20 Speaker 3
-De der portfolier Det var Sådan ligesom man skal man sige nærmest om i et stort firma, der har en masse små firmaer inde i landet, så på tværs af porteføljerne. Hvor meget snakker i så Sådan sammen?
-
-00:06:31 Team Lead
-Ja så i hvert.
-
-00:06:31 Team Lead
-Portfolie der sidder, der sidder de her 3 nøglepersoner eller hvad skal man?
-
-00:06:36 Team Lead
-Sige ikke op i.
-
-00:06:37 Team Lead
-Som ligesom leder et portfolio et portfolio er jo x antal teams ikke, og der sidder der en engineering lead, en design lead og en produktfeed, og Det er lidt ligesom op til de 3 personer og koordinere på tværs af portfolio, så det sker hver hver anden uge.
-
-00:06:38 Speaker 3
-Jeg fandt en ansvarlig.
-
-00:06:55 Team Lead
-Der har vi egentlig et møde, hvor så jeg sidder.
-
-00:06:56 Team Lead
-Som ingeniør lige på Vores.
-
-00:06:58 Team Lead
-Pulje og der har vi et møde på tværs af alle porteføljerne.
-
-00:07:01 Team Lead
-Så man ligesom kan bringe ting op, ikke, men men.
-
-00:07:04 Team Lead
-Det er svært at skalere ikke så hvis vi gerne vil ud og lave det vi gerne vil ud i verden, så kræver det jo, at Vi har mange portfolier, ikke?
-
-00:07:13 Team Lead
-Altså, ja, hånden som vi vokser ikke, så vil der komme ny portfolier og på et eller andet tidspunkt, så når man det der punkt, hvor Det kan lade sig gøre at kommunikere på toilettet, så det andet, vi gør det.
-
-00:07:22 Team Lead
-Er, at vi bruger tool der hedder sana som er Sådan et åbent hul hvori du kan faktisk egentlig gå ind og se alle Vores mål, så alle de mål i så på virksomheden vi havde Søren han viste det her.
-
-00:07:31 Team Lead
-Lidt forvirrende side, hvor der stod den øverst oppe i himlen af downtime, så stod Sådan en masse undermål under neden ikke de er noteret inde i det her tool og så alle Vores projekter Vi har på en eller anden måde køre tilbage til et af de her mål, og Det kan man følge derigennem.
-
-00:07:46 Team Lead
-Og det svarer så også til at at hvis Jeg har jo mit specifikt mit portfolie har meget stræk i mange af de andre, fordi Vi er naboer, så hvis Jeg har brug for at vide hvad.
-
-00:07:56 Team Lead
-Portfolio team SP laver lige nu så kan jeg faktisk gå ind i det her og se alle deres projekter, hvor jeg også kan.
-
-00:08:02 Team Lead
-Se alle deres opdateringer og.
-
-00:08:03 Team Lead
-Så videre, og Det er måden, hvorpå vi prøver at ramme den der balance mellem. Hvad har jeg brug for at vide for at udføre mit arbejde og for.
-
-00:08:10 Team Lead
-At vi kan.
-
-00:08:11 Team Lead
-Kan gøre Vores ting til at være i stedet for det her 4 out hvor man hvor man hele tiden skal være. Jeg skal hele tiden holde mig til alting har muligheden for at gå ud.
-
-00:08:19 Team Lead
-Og hente information efterhånden som man har brug for det.
-
-00:08:21 Speaker 3
-Ja i stedet for det bare bliver overloaded Sådan et.
-
-00:08:23 Team Lead
-Noget eller ja fordi det Det er jo det, Der er udfordringen i at skalere ligesom dansk størrelse. Vi gør ikke. Det er jo det der med hvordan hvordan rammer man?
-
-00:08:31 Team Lead
-Det der punkt, hvor man ved Justin off til.
-
-00:08:33 Team Lead
-At kunne agere.
-
-00:08:35 Speaker 3
-Ideelt så kan du vide så lidt.
-
-00:08:36 Speaker 3
-Som muligt for.
-
-00:08:36 Team Lead
-At kunne gøre dit arbejde ja lige præcis og og Det er også og det handler også.
-
-00:08:40 Team Lead
-Meget om at lave.
-
-00:08:41 Team Lead
-Visibilitet til både mine medarbejdere, men også alle andre medarbejdere skyld.
-
-00:08:45 Team Lead
-Så så mine medarbejdere kan også hvis de har brug for af en eller anden grund at vide hvad nogle andre arbejde, så kan de faktisk gå ind i og sagde nej set det her igennem og Det er meget Sådan så så Vi har meget drevet den der åbne struktur.
-
-00:08:57 Team Lead
-Det er ikke alle firmaer der.
-
-00:08:57 Team Lead
-Gør det altså mange. Mange kan godt finde på at bygge Sådan noget og der der Det er jo.
-
-00:09:02 Team Lead
-Hvis hvis Vi skal vokse med den fart, vi gerne vil, så bliver vi nødt til at have lidt mere åbne struktur, hvor det også er op til dig, for eksempel som en udvikler, eller hvad det nu er, og så sige jamen Jeg har.
-
-00:09:11 Team Lead
-Jeg har også brug for.
-
-00:09:12 Team Lead
-At vide ting jamen så driver jeg også den.
-
-00:09:13 Team Lead
-Agenda selv Det er lidt anderledes fra nogle firmaer.
-
-00:09:14
-Ja OK.
-
-00:09:15 Speaker 3
-Så Det var som så som udvikler eller arbejder sammen faktisk meget selv som den der mindre arrangerede. De er stadig Sådan.
-
-00:09:22 Speaker 3
-Frihed Det er Sådan.
-
-00:09:23 Team Lead
-Rigtig meget for det. Ja så så så Det er meget sjældent i mit hold, at jeg går ind og dikterer hvad de laver.
-
-00:09:24 Speaker 3
-Burde de vel også have?
-
-00:09:30 Team Lead
-Det er det, Det er op til holdet.
-
-00:09:33 Team Lead
-Selv at drive.
-
-00:09:34 Team Lead
-De beslutninger vi, vi kører meget med.
-
-00:09:35 Team Lead
-Sådan en distributør de.
-
-00:09:36 Team Lead
-Det siger vi ikke fordi tanken er jo.
-
-00:09:38 Team Lead
-Selvfølgelig at Vores c 2.
-
-00:09:40 Team Lead
-Ved ikke nødvendigvis, hvad den nyeste bedste sikkerhedsfeature er, og der giver mening på hvor.
-
-00:09:43 Team Lead
-Vi er lige nu.
-
-00:09:44 Team Lead
-Nej, så den beslutning skal ligge så tæt nede ved ingeniøren eller eller udvikleren, eller hvad det nu er som muligt, ikke?
-
-00:09:51 Team Lead
-Så så mange af dem der.
-
-00:09:53 Team Lead
-Sidder i mit hold.
-
-00:09:54 Team Lead
-Er er også beslutningstagerne på, hvad de laver II dag til dag. Vi har.
-
-00:09:59 Team Lead
-Møder hvor vi.
-
-00:10:00 Team Lead
-Mødes alle sammen i Vores hold specifikt og snakker om. Jamen hey, hvad er Vores prioriteter og hvad kommer der af udefra? Men hvordan kommer der jo bare nogle krav op fra hvad det nu kunne være? Men men Det er altid op.
-
-00:10:09 Team Lead
-Til os at finde løsningen sammen i.
-
-00:10:12 Speaker 3
-I teamet væk, så har de der 10 måneder.
-
-00:10:15 Team Lead
-Så Det er lidt forskelligt fra time til time, og Det er baseret på den her tanke om at at at igen at hver time er meget autonomt, så er det op til dem at bestemme hvordan de gør det, så de fleste fik teams har daglige standup hvor?
-
-00:10:29 Team Lead
-De mødes klokken 9.
-
-00:10:30 Team Lead
-Typisk ikke og så lige har bare lige og kigger hinanden i øjnene og.
-
-00:10:32 Team Lead
-Siger det her.
-
-00:10:32 Team Lead
-Det arbejder jeg på mit hold er så distribueret på tværs af Danmark, Polen og Canada, så Det er ret besværligt at finde tid der lige passer alle ikke. Så Vi har et virtuelt setup.
-
-00:10:42 Team Lead
-Hvor man Vi har et program der hedder status quo hvor man kan gå ind og skrive lige hvad arbejder vi på i dag? Hvad arbejder på? Hvad har jeg arbejdet på i går? Er der noget siddet fast?
-
-00:10:51 Team Lead
-Og så har vi typisk en retro vane nu hvor vi ligesom lige mødes alle sammen på video ikke og så siger hey hvad er det godt?
-
-00:10:58 Team Lead
-Hvad er skidt? Hvad skal?
-
-00:11:00 Team Lead
-Vi ændre på Sådan på på den person, ikke?
-
-00:11:02 Team Lead
-Men men hvor stats?
-
-00:11:03 Team Lead
-I dag. Det foregår chat og og tools.
-
-00:11:08 Speaker 3
-Er du tilbage, så det vil sige, at hvis vi nu i det her profilerede og Sådan endnu længere ud over den endelige organiserer eller portfolie hold eller, og så er der næsten ingen kommunikation, der ikke vil dø Sådan gå fra portfolie hele deres produktion til profit organisation.
-
-00:11:22 Team Lead
-Altså man kan sige, Vi har jo Sådan et lag der.
-
-00:11:24 Team Lead
-Ligger over det ikke som?
-
-00:11:24 Team Lead
-Et lederskab er det ikke?
-
-00:11:27 Team Lead
-Og der har vi selvfølgelig kommunikation på tværs mænd, men Det er jo en, Det er jo, Det er jo Sådan en en ret fin hårfin balance mellem hvad?
-
-00:11:33 Team Lead
-Hvad for eksempel, hvis du ser på Sådan en som Vores CEO, som jo ellers så ejerskab for de her portfolier ikke? Hvor meget skal han vide, hvad den enkelte detalje nede i hver enkelt portfolie er kontra?
-
-00:11:44 Team Lead
-Hvad ellers han har opgaver ikke, så Der er jo en form for kommunikation. Vi kalder det whitespace mastery.
-
-00:11:53 Team Lead
-Det er Det er Sådan defineret som den her. Lidt svær på ting imellem. Jamen hej hvordan flyder kommunikationen i organisationen og hvordan master man det, og Det er utrolig svært at gøre i Sådan en virksomhed, som skalerer så hurtigt som vi kan.
-
-00:12:07 Team Lead
-Men men Sådan noget som det her sagde naturens man nævnte ikke hvor at at Vores video han ville kunne.
-
-00:12:13 Team Lead
-Hvis han har brug for det?
-
-00:12:14 Team Lead
-Så kan han gå ind helt specifikt ned i Vores team.
-
-00:12:17 Team Lead
-På Vores projekter og se hvad?
-
-00:12:18 Team Lead
-Er præcis status på det.
-
-00:12:21 Team Lead
-Men han kan også tage lidt tilbage til hans mål. Ikke fordi at at Vi har alle Vores projekter ligesom.
-
-00:12:25 Team Lead
-Bare til mål.
-
-00:12:26 Team Lead
-Så det vil sige, det vil være det lag han typisk.
-
-00:12:28 Team Lead
-Kigger i ikke og?
-
-00:12:30 Team Lead
-Det tror Jeg er meget anderledes for mange virksomheder, fordi man man vil se mange virksomheder, der har man den der tjene of command, hvor man ligesom rapporterer opad hele tiden og rapportering op og de ting der rent faktisk bobler op i Vores organisation op på de her niveauer er er ting, Vi har brug for at håndtere Sådan mere som en skalering agenda end et specifikt projekt eller issue typisk.
-
-00:12:48 Speaker 3
-Ja, det lyder meget som i stedet for de har den der tjener commander og så lave bruger de har.
-
-00:12:52 Speaker 3
-Jeg glæder mig hvad hedder, men de har programmer til ligesom at vise det i stedet for som en kan gå ind og kigge.
-
-00:12:57 Team Lead
-Ja vi vil jo gerne. Jeg tror det vil. Det vil jo gerne vil ikke. Det er jo at vi vil jo hellere se virksomheder.
-
-00:13:03 Team Lead
-Naturen, som er Sådan lidt et spindelvæv ikke 1, 1 1 1 pyramide som er det typisk ikke hvor der sidder i den anden hoved og.
-
-00:13:10 Team Lead
-Ja så har vi lidt mere det her spindelvæv, hvor Jeg kan sige jamen nogle af de ting, mit hold har arbejdet på, har en influere andre hold væk uden for Vores bord.
-
-00:13:19 Team Lead
-Så hvordan sikrer vi, at vi ligesom har vi med kommunikationen flydende imellem? Fordi det, som jeg det holder, jeg influerer.
-
-00:13:25 Team Lead
-Jamen Det kan have Sådan.
-
-00:13:26 Team Lead
-En impact det og hvis jeg blokerer.
-
-00:13:28 Team Lead
-Dem jamen så blokerer de jo Sådan nogle andre længere nede.
-
-00:13:31 Team Lead
-I tråden, ikke?
-
-00:13:32 Team Lead
-Og det bliver rigtig svært at skalere, hvis man har den her typiske pyramide, fordi så skal alting Sådan op og så ned igen. Man har undgået de der bottlenecks.
-
-00:13:41 Team Lead
-Ja præcis ikke så så det handler jo netop om at have de der åbne kommunikationer mellem holdet ikke og sige det, og Sådan er det ikke. Får opbygget de der traditionelle cd ord som man.
-
-00:13:49 Team Lead
-Man har i mange virksomheder.
-
-00:13:51 Team Lead
-Og Det er ikke noget, vi deler jo.
-
-00:13:52 Team Lead
-Altså Det er jo.
-
-00:13:53 Team Lead
-Super svært ikke altså at gøre men men men men Det er jo.
-
-00:13:56 Team Lead
-Det er det Der er visionen fordi.
-
-00:13:57 Speaker 3
-Ja ja det arbejder imod.
-
-00:13:59 Team Lead
-Og Det er også derfor det Det er super vigtigt for os at at hvis du spørger hvem som helst til mit hold og siger, hvad er Vores mål, at man så vil de sige, at han først vil sige Det er et downtime, og så ville de trække det ned i de mål.
-
-00:14:10 Team Lead
-Vi har ikke som som er de har så gode ting og og Det er super.
-
-00:14:11 Speaker 3
+00:05:38
 Okay.
 
-00:14:13 Team Lead
-Vigtigt for os at, at hver enkelt medarbejder egentlig forstår det, fordi Det er en del af det.
+00:05:39 Senior Frontend Developer
+Yes så ellers lidt om mig. Jeg bor i sæby flyttet dertil for nogle år siden og så er det fedt at arbejde på tracking nu det fordi at så kan jeg bare arbejde hjemmefra og.
 
-00:14:17 Team Lead
-At hvis man.
+00:05:47 Senior Frontend Developer
+Komme ind på kontoret, og Jeg har en god grund til det.
 
-00:14:18 Team Lead
-Gerne vil have super effektive medarbejdere, så skal de forstå, hvad Det er, de arbejder med ikke, og det får de igennem det her med, at vi.
+00:05:50 Senior Frontend Developer
+Som nu i dag ja præcis, eller hvis der fredagsbar eller hvis Der er en festival eller hvis Vi skal ud og have en øl bagefter flere nogen fra.
 
-00:14:24 Team Lead
-For de har målt.
+00:05:58 Senior Frontend Developer
+Kolding der kan.
 
-00:14:26 Team Lead
-Saturn hele vejen ned igennem organisationen, og ikke bare en.
+00:05:58 Senior Frontend Developer
+Besøge, eller hvad det nu er der?
 
-00:14:28 Team Lead
-Eller anden til 2 der.
+00:06:02 Speaker 3
+Yes, hvor lang tid har du?
 
-00:14:29 Team Lead
-Sidder og rapportere på.
+00:06:03 Senior Frontend Developer
+Arbejdet her, Jeg har arbejdet her i lige over 3 år. Det var hvad?
 
-00:14:30 Team Lead
-Jeg skal have.
+00:06:07 Senior Frontend Developer
+Var det april 2020. Jeg startede lige oven i corona. Det var fedt, mødte min ene kollega efter en uge, hvor jeg vendte min computer og så.
 
-00:14:31 Team Lead
-Et x budgetbesparelser i år ikke altså Sådan et.
+00:06:14 Senior Frontend Developer
+Mødte jeg ikke nogen i et år, eller?
 
-00:14:34 Speaker 3
-Eller andet, så jeg arbejder meget på, ligesom at undgå at mange.
+00:06:16 Senior Frontend Developer
+Sådan flyttes så.
 
-00:14:36 Speaker 3
-Af jeres godt af alle medarbejderne. Alle sammen er Sådan meget. Hvad skal man?
+00:06:19 Speaker 3
+Hvad med forskellige roller har du arbejdet som det samme folk den steder?
 
-00:14:41 Speaker 3
-Sige Sådan meget, for ligesom de tænker meget over det de gør, at det altid handler om det mellem målet mere end det bare Sådan er, at de.
+00:06:22 Senior Frontend Developer
+Ja, jeg startede som som fonden udvikler, og så tror jeg bare fået seniorbo her for.
 
-00:14:47 Speaker 3
-Får en opgave.
+00:06:26 Senior Frontend Developer
+Nylig, Det er Sådan set det.
 
-00:14:47 Speaker 3
-De bare laver opgaven?
+00:06:28 Senior Frontend Developer
+Man kan sige, jeg sad nogle andre teams og arbejdede med noget, da jeg startede, og jeg startede også meget færre udvikler der rørte ved, for der var vi måske egentlig 5 8 mand der rørte ved den og nu er det monopol Vi har til for den.
 
-00:14:49 Team Lead
-Ja og og det, og Det er super vigtigt.
+00:06:40 Senior Frontend Developer
+Der har vi slået mellem 30 og 50 mennesker, der ryger det hver uge den samme kodebase, så Det kan godt være en lille udfordring engang.
 
-00:14:51 Team Lead
-Fordi at at det der med.
+00:06:51 Speaker 1
+Nu talte du allerede om Sådan hvordan Det var da du blev ansat her Sådan, men alligevel godt tænke os at spørge dig Sådan. Hvordan har?
 
-00:14:54 Team Lead
-Der kan være uger.
+00:06:58 Speaker 1
+Onboarding processen været for dig, da du blev.
 
-00:14:55 Team Lead
-Eller måneder, hvor Jeg er væk på andre projekter for eksempel altså i forhold til mit hold, ikke?
+00:07:00 Senior Frontend Developer
+Ansat her jamen.
 
-00:14:59 Team Lead
-Altså hvor Jeg er. Jeg har en længere.
+00:07:02 Senior Frontend Developer
+For mig var det Sådan set meget nemt. Jeg kom ind i et team, hvor der var en time lige, der havde rimelig godt styr på tingene.
 
-00:15:01 Team Lead
-Distance, hvor mit hold end normalt?
+00:07:06 Senior Frontend Developer
+Hvis man skulle snakke med så jeg kunne skrive et team og sige.
 
-00:15:04 Team Lead
-Og derfor betyder det også, Det er super vigtigt for, at de kan drive deres agenda.
+00:07:09 Senior Frontend Developer
+Hey Jeg har brug for.
 
-00:15:08 Team Lead
-Daglig dag og agenda, og hvad vi arbejder på, at de kan. De kan skubbe det ud til målene, ikke og sige, jeg arbejder på det her, fordi at Det har den her.
+00:07:10 Senior Frontend Developer
+Det her, og så kunne han sende mig videre til den rigtigt, og så blev jeg.
 
-00:15:17 Team Lead
-Indflydelse på på Vores klienter som.
+00:07:14 Senior Frontend Developer
+Vi havde nogle konsulenter fra.
 
-00:15:20 Speaker 2
-OK vi.
+00:07:15 Senior Frontend Developer
+Trifork der sad og havde boet meget fronten på det tidspunkt, så nogle tager.
 
-00:15:20 Speaker 3
-Så igen, en hvad skal man sige en måde?
+00:07:20 Senior Frontend Developer
+Så blev jeg sat under en af dem, som var der noget.
 
-00:15:21 Speaker 3
-At undgå de her gutter.
+00:07:22 Senior Frontend Developer
+Teknisk jeg spørge.
 
-00:15:23 Team Lead
-Ja præcis ikke. Altså? Og og Det er jo ligner det det det handler om at undgå, at Der er en del folk som sidder og også fordi at at software er jo Sådan at når man udvikler software så har man en.
+00:07:23 Senior Frontend Developer
+Om og så komme i gang ligesom på den måde og stille spørgsmål ind til.
 
-00:15:33 Team Lead
-Masse antagelser, ikke?
+00:07:28 Senior Frontend Developer
+Til ham og.
 
-00:15:35 Speaker 3
-Ja så så.
+00:07:29 Senior Frontend Developer
+Tone opgaver sammen til at starte med for at finde ud af hvad?
 
-00:15:35 Team Lead
-Når man udvikler noget. Jamen det værste du kan gøre Det er at du kan.
+00:07:31 Senior Frontend Developer
+Hvad virker som en slags mentor forløbet? Og hvad skal kalde det de for at komme i gang med en, der har rørt lidt meget ved platformen?
 
-00:15:38 Team Lead
-Sidde og udvikle på noget.
+00:07:41 Speaker 5
+Ja det synes.
 
-00:15:39 Team Lead
-I 1 2 år og så skubbe det ud til folk ikke så Det er også derfor at Vores hvor hele Vores cyklus foregår rundt omkring.
+00:07:42 Senior Frontend Developer
+Jeg sige Det er så 3 år siden, så Der er jo sket.
 
-00:15:45 Team Lead
-De her biler, hvor vi bygger lidt skubber det ud til kunder.
+00:07:44 Senior Frontend Developer
+Noget siden Vi er?
 
-00:15:48 Team Lead
-Som måler vi.
+00:07:45 Senior Frontend Developer
+Jo kommet mange igennem så videre så.
 
-00:15:49 Team Lead
-På hvad de synes om med og så så tager vi Vores direktion efter det, fordi man tager næsten altid faktisk op.
+00:07:45 Speaker 1
+Jamen selvfølgelig, og Det er Sådan set også en meget god segway, indtil næste spørgsmål får vi også lidt interesseret i at høre om onboarding processen har ændret sig siden.
 
-00:15:54 Team Lead
-Og Det er jo derfor, Det er farligt det der med, at hvis Vi har en enkelt person eller 2 enkelte personer, der sidder og styrer det hele, så kan de have en masse undtagelser, og Det er jo bare Sådan, Vi er i menneskelige natur, ikke?
+00:07:53 Speaker 2
+Ja samtale for.
 
-00:16:04 Team Lead
-Så vil man have.
+00:07:54 Senior Frontend Developer
+Det vil jeg mene. Den har i hvert.
 
-00:16:05 Team Lead
-En masse indsats på. Hvad er vigtigt og.
+00:07:56 Senior Frontend Developer
+Fald, Der er i hvert fald lavet.
 
-00:16:06 Team Lead
-Hvad er vigtigt?
+00:07:58 Senior Frontend Developer
+Der er lavet meget om, at når du starter her nu, så er der en masse. Hvad hedder det intromøder du har, hvor du møder de forskellige teams?
 
-00:16:07 Team Lead
-Ud fra ens synspunkter, og hvad man nu er.
+00:08:04 Senior Frontend Developer
+Afdelinger Det var der lidt af da jeg startede. Det er blevet mere organiseret.
 
-00:16:10 Team Lead
-Og Det er jo også det, vi prøver lidt at eliminere med det her spider web eller hvad skal man kalde det af virksomhedsstruktur ikke, men Det er egentlig at få beslutningerne ned til dem, der har viden til rent faktisk at træffe.
+00:08:09 Senior Frontend Developer
+Nu i hvert fald.
 
-00:16:21 Team Lead
-Ja, og Det er svært, men men heldig.
+00:08:12 Senior Frontend Developer
+Altså Der er nogle meget specifikke møder hvor forskellige de her teams, så de har folk og de har den her præsentation, og Der er kommet noget dokumentation ind på Vores konto Sådan lidt mere Vores internet, de er lidt mere Sådan business.
 
-00:16:23 Speaker 3
-Meget tillid fra de øverste til de.
+00:08:27 Senior Frontend Developer
+Og så har vi så så prøver vi som udvikler hele tiden donation for det, vi laver. Den arbejder du med med Vores platform og Vores manager og Sådan noget.
 
-00:16:25 Team Lead
-Det kræver super meget til, men men det. Men det kommer så også med at Sådan få lidt mere personligt niveau, ikke?
+00:08:34 Senior Frontend Developer
+Problemet i dokumentation er jo, at det bliver opdateret hver dag, fordi.
 
-00:16:32 Team Lead
-Altså Jeg tror meget på at mine mine folk er glade og effektive, hvis de får meget tid at få mig så så så så så Det er jo den anden del der ligger i det. Det er jo det der med jamen hvordan hvordan får vi folk Der er effektive?
+00:08:36 Senior Frontend Developer
+Der kommer en ny.
 
-00:16:47 Team Lead
-Har et job de kan.
+00:08:37 Speaker 1
+Kode hver dag så ja hvordan?
 
-00:16:48 Team Lead
-Lide ikke det. Det er jo en ret stor del af Vores virksomhedskultur ikke? Altså altså det her human OSV som vi snakkede lidt om mens vi var.
+00:08:43 Speaker 1
+Kunne kommentere det på, hvordan i håndterer det nøje, så skal en dommer.
 
-00:16:55 Team Lead
-Ude ved altså hele det her med jamen vi.
+00:08:50 Senior Frontend Developer
+Jamen det Vi har gjort mit team har vi fået nyudvikler på, og så har vi jo sagt Det har jo sagt hvis de kan bygge nye sap og så skal det spørgsmål hver gang Der er noget der klart dokumentationen er noget der ikke virker eller der gav jamen og så er der en der sidder og klar på som Det er som mentor på det og Det er der den skal virke og så rammer man hurtigt de der ting, og Det er jo ikke Sådan det virker længere. Nej så kan de forklare det virker Sådan lidt til motionsplan.
 
-00:16:59 Team Lead
-Vi kunne tage Vores mest hen i verden og høre en masse udviklere, men Det er ikke det, der får os til at lykkes for det, der får os.
+00:09:12 Senior Frontend Developer
+I hvert fald det der har været i Vores fund. Man kan sige, Der er da også lidt stærkt når Vi har.
 
-00:17:04 Team Lead
-Til at lykkes.
+00:09:15 Senior Frontend Developer
+Så mange der rører ved det samme, så Der er mange ting, Der er gået i stykker meget hurtigt.
 
-00:17:04 Team Lead
-Det er at Vi har.
+00:09:19 Senior Frontend Developer
+I hvert fald ændret sig.
 
-00:17:05 Team Lead
-Vi har engagerede medarbejdere og måden, hvorpå man får det. Det er jo.
+00:09:20 Speaker 7
+Meget på det, ja.
 
-00:17:10 Team Lead
-Den anden vil give dem en masse frihed, så ja.
+00:09:23 Senior Frontend Developer
+Vi har set det her et mentorforløb. Alle de nye, der bliver sat ind. De har stadigvæk en eller anden, som er min kontaktperson i en rolle, Der er tilsvarende den de har for ligesom at have de.
 
-00:17:14 Speaker 3
-Ja så også ud fra at du snakker med det her speedway eller måden i laver på så vigtig.
+00:09:31 Senior Frontend Developer
+Kan spare på på de ting.
 
-00:17:18 Speaker 3
-Som alle lederne.
+00:09:35 Senior Frontend Developer
+Ja så ved jeg faktisk ikke så meget mere om Vores onboarding i dag, andet end at Jeg har været.
 
-00:17:20 Speaker 3
-Fra altså dem der øver dig er det ellers bare for en meget Sådan. Hvad skal man sige en meget Sådan en powering?
+00:09:38 Senior Frontend Developer
+Mentor for nogle nye i Vores team, og jeg ved, at Der er kommet lidt mere struktur på de der møder der.
 
-00:17:26 Speaker 3
-Strategi de har valgt ikke og prøve på at hjælpe, så de prøver på Sådan at kontrollere.
+00:09:49 Speaker 1
+Vi fik jo en præsentation af Simon og Søren og på universitetet omkring. Så giver vi reelt laver og Sådan noget, og i den her præsentation, der nævner Søren Simon noget, som vi kalder the Golden park, som i hvert fald.
 
-00:17:31 Team Lead
-Ja lige præcis lige præcis og og Det er det. Det kan godt være toilet skræmmende for mange ledere ikke som kommer fra en traditionel verden, for det handler rigtig meget om at give slip på på.
+00:10:00 Speaker 1
+Defineres som jeres kopier.
 
-00:17:41 Team Lead
-Hvad kan man sige på tøjlerne lidt? Ikke og og beslutninger flyde der hvor det giver mening.
+00:10:03 Speaker 1
+Har du har du hørt om den før som hos jer og Sådan noget? Siger det endnu.
 
-00:17:48 Team Lead
-Ja så så jeg ser jo min rolle som som teamlead ser jeg meget som supporterende rolle. Kontakt ledende rolle Det er selvfølgelig stadigvæk mig, der skal.
+00:10:08 Senior Frontend Developer
+Smiler han kalder det.
 
-00:17:57 Team Lead
-Lede dem til at forstå Vores mål og inspirere alle de.
+00:10:10 Senior Frontend Developer
+The open path han så hvad han.
 
-00:18:00 Team Lead
-Her ting men.
+00:10:11 Senior Frontend Developer
+Snakker om Vi har en der?
 
-00:18:00 Team Lead
-Men, men beslutninger og Sådan noget der har vi Sådan altså der ret meget, at det skulle være en i toget. Jeg vil rigtig gerne være.
+00:10:13 Senior Frontend Developer
+Masser af Sådan nogle tiltag business tiltag.
 
-00:18:10 Team Lead
-Det rådgivende ikke så så Det kan være de kommer til mig og siger Vi har de her 2 løsninger.
+00:10:17 Senior Frontend Developer
+Så nej, jeg kender ikke table the Golden park.
 
-00:18:14 Team Lead
-Vi foretrækker den her svære rigtig gang i mit input til det ikke, men Det er meget sjældent Der er gået og siger den her løsning og og det.
+00:10:19 Speaker 3
+Det kommer ikke prøve at.
 
-00:18:21 Team Lead
-Det er meget kulturen, tror jeg faktisk også.
+00:10:20 Senior Frontend Developer
+Forklare, Jeg er ikke lige uddybe det.
 
-00:18:23 Team Lead
-Når jeg ser på mine ledninger og.
+00:10:22 Senior Frontend Developer
+Uden at kende mere til det.
 
-00:18:24 Speaker 3
-Ja, Det er bare ikke det kommer helt fra toppen hele vejen.
+00:10:25 Speaker 1
+Men jeg forsøger. Ja.
 
-00:18:25 Speaker 2
-Hvordan de gør?
+00:10:27 Speaker 3
+Det er egentlig en the Golden path Sådan en hvis du skal bygge noget eller implementere noget nyt, så er der Sådan nogle directions du kan tage, hvori at du er garanteret dig nok infrastruktur altså andre har bygget rundt om den her.
 
-00:18:26 Speaker 3
-Ned uden at det bare er også ja.
+00:10:44 Speaker 3
+Hvad skal man sige Golden path? Ligesom så hvad er det du har nemt ved, ligesom at ændre dem til noget fordi der masse dokumentation Der er en masse p og du allerede kan bruge og så.
 
-00:18:30 Speaker 4
-Jeg har ingen tænkt nå at snakke om det der på folie og tænkt Sådan. Nå i er vi i forhold til jeres kommunikation, at man kan bare gå ind i den der dokumentation i har været rundt på siden, som man kan bare trække hvad hvor langt er man med den her produkt eller Sådan noget?
+00:10:53 Speaker 3
+Det er egentlig det goths er i stedet for normalt. Hvor hvis du skal invitere noget, så kan du være du skal implementere en masse rundt om det, for ligesom at få det.
 
-00:18:45 Speaker 4
-Men man har i har i og Sådan Det har i noget at leje man ved eller i kun på det?
+00:11:02 Speaker 3
+Op at køre.
 
-00:18:52 Team Lead
-Nej altså der der der.
+00:11:04 Senior Frontend Developer
+Jamen Jeg synes det det man kan sige fra mit folkene perspektiv er det jo at jamen Vi har jo en gode base og vi bruger noget react Vi har en Vi har nogle dimensioner. Hvad for en bier har? Vi har en kraft KL hvad for noget data er tilgængelige i den kraft?
 
-00:18:54 Team Lead
-Pågår jo masser rundt omkring. Ikke så man kan jo.
+00:11:04 Speaker 3
+Hvis det giver mening.
 
-00:18:56 Team Lead
-I et et.
+00:11:16 Senior Frontend Developer
+Så Det er jo det man.
 
-00:18:57 Team Lead
-Et specifikt på et pulje?
+00:11:17 Senior Frontend Developer
+Har arbejdet med, kan man sige.
 
-00:18:58 Team Lead
-Hvis vi ligesom starter der ikke jamen de de har jo typisk et eller andet område, de varetager.
+00:11:19 Senior Frontend Developer
+Den dom, jeg ville jeg ville se det.
 
-00:19:04 Team Lead
-Så så Vores er.
+00:11:21 Senior Frontend Developer
+Så hvis det.
 
-00:19:05 Team Lead
-Lidt specielle fordi Vi er platformen portfolios.
+00:11:21 Senior Frontend Developer
+Er dét tager man det, der grupperer for jeg så ikke lige informeret, men det vil jeg, men Det er jo det, Vi har.
 
-00:19:07 Team Lead
-Det vil sige, vi vi rører rigtig fedt, men hvis du kigger på mange af de andre portfolier, så er de jo baseret omkring en feature, der giver mening, så det kunne for eksempel.
+00:11:25 Senior Frontend Developer
+Vi har også 1 1 1 tech rater, men hvad er det egentlig for nogle teknologier, vi arbejder med her hos os?
 
-00:19:15 Team Lead
-Være sustainability, ikke?
+00:11:30 Senior Frontend Developer
+Og dem kan man så også.
 
-00:19:17 Team Lead
-Så inden for sustainability, der har vi måske flere teams, som arbejder på hver en specifik niche af sustainability, men Der er også overordnede mål og sustainability, og Der er klart, der foregår en masse kommunikation der og og en masse integrationer omkring.
+00:11:31 Senior Frontend Developer
+Selvfølgelig, så Der er ikke nogen steder, hvor der kommer og siger, at nu vil jeg lige pludselig ikke.
 
-00:19:29 Team Lead
-Hvordan gør vi tingene og sørge for at ting?
+00:11:38 Speaker 3
+Jamen det lyder også.
 
-00:19:31 Team Lead
-Til at springe ud og?
+00:11:39 Speaker 3
+Meget som det der blev snakket om nu.
 
-00:19:32 Team Lead
-Så videre ikke så er der jo på det her niveau over det mellem portfolioen. Jamen, der har vi det.
+00:11:43 Speaker 4
+Snakker du, om du bruger det som front end? Ja, Der er Sådan en slags samarbejde mellem i bruger den samme kodebase for eksempel som frontend som backend, så siger også, at Der er god der baggrundene dem for.
 
-00:19:37 Team Lead
-Der beige møde, hvor vi ligesom?
+00:11:54 Speaker 4
+Back end ved hvordan?
 
-00:19:40 Team Lead
-Og så har vi en masse communities som som vi italesat ikke så meget, men vi ved. Men men vi driver meget af den, der agenda omkring standardisering ikke så så jeg ved ikke om i kan huske jeg havde det der slide hvor der var Sådan en en graf på hvad der stod.
+00:11:56 Speaker 4
+De forskellige dele så sige eller bliver connected.
 
-00:19:54 Team Lead
-Og limet på den ene side, og så stod der.
+00:11:58 Senior Frontend Developer
+Ja ja, men altså vi. Vi arbejder jo altid et af de teams Vi har både for den der igen, og Det er ikke Sådan en der arbejder Center back, så Der er følgende banale time.
 
-00:19:59 Team Lead
-Lad mig lige.
+00:12:06 Senior Frontend Developer
+Og Vi har, Vi har jo Vores frontend som var en rabatkode, så har vi nogle bånd der ofte som java og den måde vi så limer det sammen med det igennem en gaffel gaffel og der har vi tidligt implementeret gaffel, og Det var ligesom Sådan en.
 
-00:19:59 Team Lead
-Finde den der.
+00:12:20 Senior Frontend Developer
+Det var også før jeg startede. Der var det et backerne de kode et eller andet sted, p men Det er det her data der skal være.
 
-00:20:00 Speaker 3
-Er en prik, og så bliver prikken leveret.
+00:12:26 Senior Frontend Developer
+Det er det her et rest api de kan, så kom der en gaffel og vi kunne så sige ude i fronten.
 
-00:20:06 Speaker 3
-Ja han tegner det helt for.
+00:12:29 Senior Frontend Developer
+Det skal se Sådan her ud, så kunne vi i grillen som front end der så ligesom Sådan front eller back end front tools.
 
-00:20:07 Speaker 3
-Dig hvordan kan du? Hvordan har du det?
+00:12:34 Senior Frontend Developer
+Som frontend selv kødet, så kan nogle Vestager formulerer data, som Vi har lyst og så smide den ned.
 
-00:20:10 Speaker 3
-Sikkert altså jeg.
+00:12:39 Speaker 1
+Kunne du kunne du kort forklare hvordan det her?
 
-00:20:10 Speaker 3
-Kan se lige.
+00:12:41 Speaker 1
+Grafikkort eller Sådan noget?
 
-00:20:13 Team Lead
-Den her autonomi og.
+00:12:42 Senior Frontend Developer
+Yes dracul er et en.
 
-00:20:17 Speaker 3
-En ting jeg lavede.
+00:12:45 Senior Frontend Developer
+Udover, at Vi har Vores sidste lille åbne mit op. Vi har haft her bare omkring dig selv, så Der er en halvanden time lang youtube video inde på Vores. Det kan lære lidt mere om det og hvordan vi gør det, men Det er Det er en måde hvor vi kan stille noget data sammen så du laver ligesom en en graf struktur i stedet for du har et stop hvor du normalt kalder jeg skal have maskiner med det her ID eller med de.
 
-00:20:20 Team Lead
-Så den her ikke?
+00:13:04 Senior Frontend Developer
+Her ideer, og på den maskine får du så bare x data som som er defineret hvad igennem så har du en quel der i stedet for at sige jamen du kan få en maskine og på en maskine der kan du få det og det og det og de data punkter og Der er det her datapunkt som måske.
 
-00:20:24 Team Lead
-Så så så Det er jo Det er jo den her liniment der sker her. Den den sker rigtig meget ud i det.
+00:13:16 Senior Frontend Developer
+Det kan se det nede i en anden.
 
-00:20:29 Team Lead
-Vi kalder communitys.
+00:13:17 Senior Frontend Developer
+Database men det koblet sammen i en stor grad.
 
-00:20:30 Team Lead
-Så så Vi har et så alle Vores backend udvikler for eksempel de udvikler API et framework, der hedder spring boot. Det er Sådan meget alene omkring.
+00:13:20 Senior Frontend Developer
+Så du kan få den?
 
-00:20:40 Team Lead
-Og den er ligament omkring, hvordan vi bruger spring boot og hvad for nogle features fra bruger vi altid noget ikke? Det sker ude i det, vi kalder community og community. Det er.
+00:13:21 Senior Frontend Developer
+Dag til du har brug for.
 
-00:20:50 Team Lead
-Hvem som helst i firmaet egentlig hop ind i det ikke så så Det er Sådan 1 1 1 åbent forum hvor man kan sige.
+00:13:22 Senior Frontend Developer
+Lige præcis. Det er Sådan du skal til at bygge uden du skal kontakte dem igen og sige hov jeg skal have den have den bil Jeg kan tage den data, den data fra databasen og samle det, for det bliver samlet i et andet lag, så Det er også bare et api, men Det er pi der samler det.
 
-00:20:55 Team Lead
-Jeg har en interesse.
+00:13:34 Senior Frontend Developer
+På en en graf struktur i Sådan en rest struktur, som ofte er meget Sådan.
 
-00:20:56 Team Lead
-Indenfor spring boot i det her tilfælde, og det vil jeg gerne med til at drive udvikle.
+00:13:39 Senior Frontend Developer
+Restriktion er ofte være microservice har den måde den den kan det den kan, hvor du får de data, du den kan give.
 
-00:21:01 Team Lead
-Så så på den måde har vi så langt omkring, og Det er ikke kun teknik, men Der er alle mulige forskellige communities, der ligesom kan kan bruges til at styre nogle af de der ting, som vi får den der limet på tværs af, fordi det. Det er jo det Der er nøglen lidt II den her måde. Vi gør tingene på ikke? Det er jamen, vi vil gerne give hvert portfolio hver time automatiseret til at kunne udvikle features og ting som hvad, men vi bliver også nødt til at en platform der ligner hinanden ikke. Og Det kan ikke nytte noget at man.
+00:13:47 Senior Frontend Developer
+Så må sige Det har været interface Der er, og Der er vi i gang med nu og få den ligesom lidt mere over på på backend siden også fordi Det er lidt åndssvagt.
 
-00:21:29 Team Lead
-I det ene hold der synes man er et rod betyder fejl og et andet der synes man er et blå betyder fejl.
+00:13:53 Senior Frontend Developer
+Vi har et et backend, vi hvor vi så har en funded.
 
-00:21:33 Team Lead
-Altså Der er Sådan nogle standardiseringer som.
+00:13:56 Senior Frontend Developer
+By der kalder backend fra dataen om for sig.
 
-00:21:35 Team Lead
-Bare helt automatisk.
+00:13:58 Senior Frontend Developer
+Selv, så Der er flere og flere.
 
-00:21:36 Team Lead
-Skal ske ikke, og de sker typisk i de communities.
+00:14:00 Senior Frontend Developer
+Bander der også koder Vores.
 
-00:21:41 Speaker 3
-Så Det er endnu et lag.
+00:14:02 Senior Frontend Developer
+Kraft i java nu og som så bliver stillet sammen til en man kan arbejde.
 
-00:21:42 Speaker 3
-Her Sådan ja og det og igen Det er.
+00:14:08 Senior Frontend Developer
+Så Det er faktisk der, Vi har det interfacen af imellem for en sparekassen teknisk. Ja, og man kan sige vi så samtidig har der har vi også kommunikation.
 
-00:21:44 Team Lead
-Jo Det er jo den der tværs.
+00:14:11 Speaker 4
+Det er Sådan lige separeret.
 
-00:21:47 Team Lead
-Tværs af af teams.
+00:14:15 Senior Frontend Developer
+Altså selvfølgelig kommer en opgave, så starter vi ud med en Der er en eller anden et eller andet sted har vi.
 
-00:21:49 Team Lead
-Ja der skal eller limen der skal ske.
+00:14:20 Senior Frontend Developer
+Fået at vide, at vi.
 
-00:21:53 Team Lead
-Ja, og Det har vi. Det har været noget, som Vi har igennem mange.
+00:14:21 Senior Frontend Developer
+Skal have noget, der kan det her og.
 
-00:21:57 Team Lead
-År har har skubbet ikke og sørget for.
+00:14:22 Senior Frontend Developer
+Så sætter vi.
 
-00:21:59 Team Lead
-At bygge op for det tager.
+00:14:23 Senior Frontend Developer
+Os ned i teamet for non.
 
-00:22:00 Team Lead
-Rigtig lang tid da.
+00:14:24 Senior Frontend Developer
+Hvordan gør vi det? Og Der er det jo både agent og front end mine børn skal bruge det data, for Det kan samle op i.
 
-00:22:02 Team Lead
-Med at have den der følelse af, at alle har et ejerskab for tænk ikke så så vi vi snakker meget Sådan om yousee et problem yoni altså hvis hvis hvis du opdager et eller andet Der er galt jamen så er det også op til dig og fikse det eller at tage ejerskabet.
+00:14:29 Senior Frontend Developer
+Super og så kan bage Det har vi allerede, eller der mangler vi en ny service eller et sted at gemme det eller en.
 
-00:22:17 Team Lead
-Og Det er en Kultur, der har svært ved, fordi det alle har forskellige projekter, og Sådan er det jo.
+00:14:36 Speaker 1
+Hvis vi, hvis vi trækker lidt tilbage til den her Golden par ting, som vi taler om nu, talte du selvfølgelig om, ja, hvad der Sådan lægger sig Sådan lidt op ad det.
 
-00:22:22 Team Lead
-Bare helt normalt.
+00:14:50 Speaker 1
+Så skal jeg lige.
 
-00:22:23 Team Lead
-Altså Sådan så, men men Det er Sådan.
+00:14:50 Speaker 1
+Se hvad jeg så som giver det mening at gå mere.
 
-00:22:26 Team Lead
-Meget styrtet ned i Vores.
+00:14:52 Speaker 1
+Ind i det spørger jeg mine kolleger.
 
-00:22:28 Team Lead
-De fleste af Vores folk ikke at at man har det der ejerskab på Altinget i.
+00:14:54 Speaker 4
+Nej Jeg har nej du har forklaret hvad du brugen af det og udviklingen af det. Det synes jeg Det er fint, så Det er også med hvad det bidrager. Selvfølgelig til alignement.
 
-00:22:31 Speaker 3
-Virksomhederne ikke på de her communities er det der i din slide, så er du spiller med.
+00:15:03 Speaker 4
+Af delen af det.
 
-00:22:37 Speaker 3
-Dokumentation og Sådan noget er Det er det fra mig?
+00:15:05 Speaker 4
+Der var sket.
 
-00:22:40 Team Lead
-Det ja, som for eksempel dokumentation er et godt eksempel. Det bliver også skrevet, og Der er Sådan en eller anden dokumentation standard, der bliver drevet ud fra et kommunens ikke.
+00:15:06 Speaker 1
+Ja Det er et.
 
-00:22:48 Team Lead
-De vil ikke gå ud og skrive det for den enkelte.
+00:15:07 Speaker 1
+Spørgsmål, man skal have Sådan hvis vi taler om alment Sådan hvordan forstår du det ord i sammenhæng med track? Er det Sådan en etape?
 
-00:22:49 Team Lead
-P men men.
+00:15:14 Speaker 1
+Bruger til noget bestemt for eksempel, eller?
 
-00:22:51 Team Lead
-De vil de vil ligesom standere på.
+00:15:23 Senior Frontend Developer
+Ja Det er jo et godt spørgsmål.
 
-00:22:52 Team Lead
-Hvad bliver der forventet det samme ting ikke? Der er en testning, community siger, men hey, når du bygger en ny avis, så skal du have de her klodser i forhold til testning. Hvis du skal have noget bestemt lyntest nu skal lave nogle små tests du skal lave noget handling kunne være i og så er det så op til holdet og den prøvede sig selv, men det det gør.
+00:15:24 Senior Frontend Developer
+Hvad du fisker efter?
 
-00:23:11 Team Lead
-Det er jo at at uanset om jeg.
+00:15:25 Senior Frontend Developer
+Men altså, man kan sige at for eksport.
 
-00:23:13 Team Lead
-Tager en udvikler fra et.
+00:15:29 Senior Frontend Developer
+Altså man kan sige Det er jo et, der skal jo være et element med Vores business mål og man sige de har Sådan en strategi.
 
-00:23:15 Team Lead
-Det var ham ud af det hold der sidder over i den. Ja så kan han ret hurtigt.
+00:15:34 Senior Frontend Developer
+Giver også nogle specifikke ting, som alt Vores alt hvad vi laver skal ligesom på en eller anden måde understøttes af de her titler, som jeg overhovedet ikke kan huske i hovedet med.
 
-00:23:18 Team Lead
-Gå i gang.
+00:15:42 Senior Frontend Developer
+Win win later og.
 
-00:23:18 Team Lead
-Med at lave arbejde derovre fordi det Det er de samme tools.
+00:15:44 Senior Frontend Developer
+Alle mulige andre ting blive halvt fuld og eller på youtube hvor den er og.
 
-00:23:21 Team Lead
-Det er de samme ting han.
+00:15:48 Senior Frontend Developer
+Sådan nogle ting.
 
-00:23:22 Team Lead
-Skal gøre, eller hun skal?
+00:15:49 Senior Frontend Developer
+Så der har vi lige.
 
-00:23:24 Team Lead
-Gøre ikke for at arbejde med det hold. Det er ikke en helt ny stærk og en.
+00:15:50 Senior Frontend Developer
+Med Vi har også nogle demoer, hvor vi går igennem som i. Jeg tror Det var anden uge eller andet sted. Hvad?
 
-00:23:28 Team Lead
-Helt ny måde at gøre tingene.
+00:15:55 Senior Frontend Developer
+Hvad arbejder de forskellige teams på? Hvad for en?
 
-00:23:29 Speaker 3
-Nej for Vi har.
+00:15:57 Senior Frontend Developer
+Hvad for et sted i Vores proces er, at vi.
 
-00:23:30 Team Lead
-De her standarder, og Det er ret mange nøglen for, at vi kan.
+00:15:59 Senior Frontend Developer
+Har Sådan en diagram Der er.
 
-00:23:33 Team Lead
-Skalere og og skubbe.
+00:16:00 Senior Frontend Developer
+Godt slidte, og hvorhenne er vi med det?
 
-00:23:34 Team Lead
-Nye portfolio ud hele tiden, ikke?
+00:16:02 Senior Frontend Developer
+Og hvad for nogle strategiske levers hører det her ind? For ligesom at ja, bare lige få folk ja måske lidt at lege med omkring.
 
-00:23:36 Team Lead
-Som vi vokser ikke.
+00:16:08 Senior Frontend Developer
+Hvad er det egentlig, der sker i de forskellige steder?
 
-00:23:37 Team Lead
-Eller nye teams så så lige nu. For eksempel er vi.
+00:16:17 Speaker 1
+Så kan vi også godt tænke os at gå.
 
-00:23:41 Team Lead
-Der kommer resten en gang imellem, så så kan vi se et par folie eller nogle teams har udfyldt deres.
+00:16:18 Speaker 1
+Lidt af det her teater og nu nævnte.
 
-00:23:46 Team Lead
-Mission, Det er Sådan en helt naturlig ting ikke? Og så på et eller andet tidspunkt. Jamen så skal de teams som nedlægges, og så kommer der Sådan nogle nye idræts sted, ikke?
+00:16:20 Speaker 1
+Du den også selv så så Det har vi jo god viden om.
 
-00:23:55 Team Lead
-Og for at vi kan have den der flydende overgang i det der, så er det ekstremt vigtigt, at Vi har alt den der liniment.
+00:16:24 Speaker 1
+Vi kunne godt tænke os at spørge som hvordan går en ny teknologi fra at være på det her on hold til at være dårligt?
 
-00:24:02 Speaker 3
-Havde nogle ulemper ved at have alle den her standardisering af den her detalje jeres dokumentation.
+00:16:34 Senior Frontend Developer
+Der er kun det indre det inde i graderne. Nej.
 
-00:24:10 Team Lead
-Det kræver rigtig meget, tror jeg den enkelte medarbejder ikke. At altså man skal man skal være.
+00:16:38 Speaker 2
+Hvad? Hvad kan det være for eksempel?
 
-00:24:17 Team Lead
-Man skal være villig til at drive forandringen.
+00:16:39 Senior Frontend Developer
+Præcis jeg jeg ved faktisk ikke specifikt hvad Der er nogle specifikke processer, men Vi har jo noget nogle designs, og Vi har et arkitektteams, så når du har en eller anden ting du skal lave og Det kan man sige.
 
-00:24:19 Team Lead
-Selv fordi det lige pludselig er en hel.
+00:16:51 Senior Frontend Developer
+Det er heldigvis ofte bagenden der rammer det. Så skal de lave den her designduo på, hvordan skal det fungere rent teknisk og når de laver design kan det jo også være at de der ikke kan sige jamen Der er faktisk også den teknologi der vil gøre det nemmere.
 
-00:24:23 Team Lead
-Standarden skal ind og drømme forandring i kontra man bare kunne lave et eller andet hurtigere, så så det kræver nok lidt andet af Vores medarbejdere vil jeg tro.
+00:17:03 Senior Frontend Developer
+Og der har vi et arkitektteams som kan lave interview på den og ligesom godkender og den og snakker kommer med.
 
-00:24:31 Team Lead
-En en hvis man var et startup, hvor man bare.
+00:17:09 Senior Frontend Developer
+Hvis nu du siger, vi vil gerne bruge god, men hvor vil du gerne det? Vi har allerede implementeret det i ave eller i rust eller whatever, så hvorfor skal vi skifte til det?
 
-00:24:34
-Hvor man bare gør.
+00:17:16 Senior Frontend Developer
+Og der kunne jeg forestille mig som en del af det her, når vi begynder at implementere finde ud af det.
 
-00:24:34 Team Lead
-Typisk bare kører hurtigt ind og fikse ting Sådan ikke og Der er der jo trods alt lidt mere ting der.
+00:17:19 Senior Frontend Developer
+Faktisk er en god ide at implementere.
 
-00:24:39 Team Lead
-Skal ske bagved.
+00:17:21 Senior Frontend Developer
+Noget, så kan den.
 
-00:24:41 Team Lead
-Ja, så Jeg tror Det er nok en af ulemperne. Ikke at Det er jo at det slipper en ned lidt.
+00:17:21 Senior Frontend Developer
+Blive skiftet videre i retten. Jeg plejer at bruge det der på graderne og så prøv lige at så nogle frø rundt omkring, så hvis Der er noget jeg gerne vil.
 
-00:24:46 Speaker 3
-Men forhåbentlig får tid, når.
+00:17:30 Senior Frontend Developer
+Ja som jeg gerne.
 
-00:24:47 Team Lead
-Senere ja, og Det er jo det Der er trade off lidt ikke. Det er jo man skal investere kun lige nok i det der liniment space til at man kan.
+00:17:31 Senior Frontend Developer
+Vil prøve at interessere.
 
-00:24:55 Team Lead
-Man kan sikre, at Vi er ens nok er nok det vi laver til at at man så også kan løbe hurtigt stadigvæk.
+00:17:32 Speaker 4
+Men Det er ikke kun på.
 
-00:25:01 Speaker 3
-I hvert fald.
+00:17:33 Speaker 4
+Timebasis Det er Sådan.
 
-00:25:05 Speaker 3
-Ja det lyder som den her dokumentation, i har det Sådan.
+00:17:34 Speaker 4
+Generelt for en lille afdeling, hedder det med.
 
-00:25:08 Speaker 3
-Sådan lidt en opskrift på en måde, så den er Sådan lidt. Hvad skal man sige man er Sådan lidt strikt med hvordan man skal sætte dokumentationen op? Ja.
-
-00:25:18 Team Lead
-Jeg ved ikke, om Jeg vil sige striks. Jeg vil sige, Der er et tempel det.
-
-00:25:21 Team Lead
-Følger man typisk.
-
-00:25:22 Team Lead
-Ikke, man kan have visse grunde til at gå udenfor. Det tænkte jeg. Det er lidt ligesom den her guld pap.
-
-00:25:26 Team Lead
-Jeg snakkede om, ikke?
-
-00:25:29 Team Lead
-Det kommer så bare med noget ansvar.
-
-00:25:31 Team Lead
-Blev lige hvis du, hvis du nu valgte at jeg gider ikke dokumentere min service. Lad os nu bare sige det ikke hvis du sad som medlem og sige her i dokumentdeling, det gider jeg ikke. Det er også fint nok, men så sidder du som nok også fast med den service resten af dit liv agtigt altså som udgangspunkt ikke så er det jo så, så er det jo den beslutning du tager som så gør at du afviger fra standarderne, men Det har så også nogle konsekvenser, så Det er også derfor, at.
-
-00:25:53 Team Lead
-Vi laver de der standarder meget.
-
-00:25:57 Team Lead
-Vi prøver i hvert fald på at lave.
-
-00:25:58 Team Lead
-Dem meget spiselig.
-
-00:26:00 Team Lead
-Fordi at det.
-
-00:26:00 Team Lead
-Gør, at folk følger dem, så de har en et arrangement til at følge.
-
-00:26:04 Team Lead
-Dem ikke også.
-
-00:26:04 Team Lead
-Grund til at følge ikke en bog.
-
-00:26:05 Team Lead
-Dem ja fordi de får jo en masse ting tilbage ved det. Blandt andet det, Jeg vil sige, jamen, hey når mit hold.
-
-00:26:10 Team Lead
-Er udført af.
-
-00:26:11 Team Lead
-Missioner, og så kan jeg måske få flyttet ind i den her specifikke p væk fra mig er nemt over i et andet hold, og så kan vi arbejde med noget.
-
-00:26:18 Team Lead
-Andet end spændende, for eksempel, hvis det nu var det ikke.
-
-00:26:24 Speaker 3
-Sådan med jeres processer Sådan Jeg tror du snakker om at i alle de agil og vandfald og Det var meget op til teamsene selv og man bestemmer Det har jeg Sådan dokumentation for det eller en template for det eller er.
-
-00:26:34 Speaker 3
-Det bare helt op til, så Vi har ja så.
-
-00:26:37 Team Lead
-Vi vi i Vores c beskriver vi.
-
-00:26:42 Team Lead
-Den overordnede proces fra det, vi kalder cradle 2 grave af et nyt projekt. Ikke så så fra ligesom kodeprojekt til hvordan går det igen?
-
-00:26:51 Team Lead
-Og finde ud af hvad er business grundene til, at vi gerne vil bygge det og hvad? Hvad kan det drive af af impact på Vores subscriptions?
-
-00:26:58 Team Lead
-Altid noget ikke alle de der Sådan business ting der ligger, så går man over i en design fase så går man over i en byggefase og så videre.
-
-00:27:04 Team Lead
-Ikke, og hvis Det er Sådan ret defineret, hvordan man gør det ikke, men men.
-
-00:27:09 Team Lead
-De hvis du.
-
-00:27:10 Team Lead
-Så klikker på en af de der faser, så for eksempel tager den med byggefase ikke og dobbelt kigger på den.
-
-00:27:15 Team Lead
-Jamen så så er det egentlig ret åben for teamet hvordan de vælger at gøre det, og Der er det op.
-
-00:27:19 Team Lead
-Til dem at finde ud af, hvordan de arbejder.
-
-00:27:23 Team Lead
-Og, og Det kan også komme med udfordringer, fordi det at der ikke er regler, man kan have mange folk som har forskellige.
-
-00:27:29 Team Lead
-Så Jeg har 6 mennesker i.
-
-00:27:30 Team Lead
-Mit team 3 af dem kommer fra en meget striks en baggrund hvor Det var meget Sådan.
-
-00:27:36 Team Lead
-Du ved, Vi har sprængt hver anden uge og planlægge alle Vores tankemønstre, og nogle kommer fra en meget mere åben.
-
-00:27:41 Team Lead
-Sådan kanban stil, og Det er klart, at så kræver det jo noget der i koordineringen i teamsene at finde ud af. Hvordan er det, der passer os bedst?
-
-00:27:50 Team Lead
-Men vi typisk så går vi ind og dikterer hvordan et hold specifikt arbejder dag til dag. Nej, Vi har den overordnede siger jamen, Der er nogle ting, Der er vigtige for os, Sådan at vi sikrer, at vi bygger det rigtige, ikke Sådan noget, som så Vi har Sådan en, der hedder fik jo mary, skal jeg meget tidligt i en proces, når vi siger, hvis nu siger jeg nu sender vi også holdt ud.
-
-00:28:08 Team Lead
-For at bygge systemet.
-
-00:28:10 Team Lead
-Det allerførste i jeres hold vil bruge tid på. Det er at gå ud og finde ud af hvad er postmarked? Fedt her ikke. Altså hvad? Hvad?
-
-00:28:15 Team Lead
-Men der skal. Hvad er det, der skal gøre den her service eller ting Vi er ved at bygge? Den kan tjene penge ind og og passer ind i markedet, og Det er det, Vores kunder efterspørger alle de her ting ikke, og der skriver man Sådan det vi kalder et figure of marit, som er Sådan et dokument, der beskriver siger jamen hey, hvorfor er?
-
-00:28:28 Team Lead
-Det vi gør.
-
-00:28:29 Team Lead
-Det vi gør nu, og som det næste og.
-
-00:28:32 Team Lead
-Den proces er.
-
-00:28:33 Team Lead
-Låst, og Der er der.
-
-00:28:34 Team Lead
-Sådan nogle enkelte key checkpoint 10 hvor?
-
-00:28:37 Team Lead
-Vi siger, Det er i orden det her det, det tror vi på det vil vi gerne, hvis Det er is.
-
-00:28:42 Team Lead
-Finde ud af.
-
-00:28:42 Team Lead
-At bygge det og så er det så op til holdet, selv om jeg.
-
-00:28:43 Speaker 3
-Okay.
-
-00:28:44 Speaker 3
-Ja, Der er åbnet, da de her brancher man skal igennem.
-
-00:28:47 Team Lead
-For at, Der er Sådan en fase og ikke hvor Der er Sådan et et punkt i typisk hvor man lige siger hey der hvor man lige står og kigger hinanden i øjnene og siger, at Vi er på vej i rigtige vej.
-
-00:29:00 Speaker 3
-Du har noget at lave med at vigtigt for jer at de godt kan ligesom kan tage folk ind og ud på forskellige steder. Men det lyder lidt som om at Det var.
-
-00:29:07 Speaker 3
-Jeg føler det godt kunne potentielt skabe problem at det her med processerne er så åbne, at jeg godt kan komme fra en en anden helt anden proces og så komme ind i et sted, hvor der ikke reelt er dokumenteret, hvordan processen er, og Sådan er der noget. Er det bare Sådan lederen i den der skal hjælpe dig eller hvordan man kunne håndtere Sådan det?
-
-00:29:23 Team Lead
-Typisk være ikke så så, så vi vi driver jo meget den her.
-
-00:29:28 Team Lead
-Vi, vi tror meget på menneskene, ikke og og som led i det, så så har vi nok også lidt mere følelsesbaseret samtaler med Vores folk end mange firmaer har et II form af at jamen hey vi, Vi skal også forstå, og det tror jeg, det går på tværs alle sammen, at Vi er forskellige mennesker fra forskellige kulturer og forskellige baggrunde. Alt muligt som som som har en indflydelse på, hvordan vi vi arbejder og der handler det jo selvfølgelig om at finde den måde, der arbejder bedst, og det vil også sige, at hvis jeg tager en ny person i mit hold, og Jeg kan se, Der er ting der trives, jamen, så gør vi lige præcis det, som som jeg egentlig har. I dag er hele mit hold er blevet samlet her i. I Aalborg ikke, og så sætter vi os ned og snakker ting igennem og finde ud af, hvordan har vi tænkt os at arbejde det næste halve år, ikke? 
-Så så så en af grundene til mit hold er her i dag fløjet ind fra Polen og så videre det. Det er faktisk fordi Vi har ansat en ny person, og vi vil gerne sikre at hvem personen kommer godt ind i holdet for at forstået og vi får snakket om. Sådan har vi gjort tingene for at det. Er også det, vi gør fremadrettet, så alle de der Sådan lidt. Snakkede som godt kan være Sådan lidt sværere at tage nogle gange ikke som som tit i mange, så firmaer bare defineret lige kører camperen og vi gør Sådan her.
-
-00:30:30 Team Lead
-Vi mødes de her dage og så videre, ikke? Men men Vi er også mange forskellige personer, så Jeg har småbørn 2, 3 personer dem jeg arbejder sammen med i mit hold, har småbørn ikke, og det betyder nogle gange, at så solen skinner er mine børn. De er hjemmegående, for eksempel min kone og hjemmegående. Ikke og jeg. Er hjemme med børnene, og det betyder nogle gange, så skal solen, og så klokken 12 vil man gerne gå på legepladsen, og Det er jo så den frihed, man så også får. Ved ikke at have. Den er meget låst fast. Proces og og ting i det. Og ja, Det er helt rigtigt. Nogle folk kan så blive flyttet over i hold, hvor de måske ikke trives med. Så er det op. Til det så 10 19 så opgaver. Fundet ud af at få det til at virke.
-
-00:31:06 Speaker 3
-Melder sig i hvert fald som et problem, Der er mennesket grund af. Jeg har de her mindre hold i stedet for. Jeg har Sådan altså i. De her folk føler jo.
-
-00:31:13 Team Lead
-Ja ja lige præcis. Altså det det og Jeg tror også Sådan generelt hvis du går ud og spørger på tværs af alle Vores hold, så vil du også se at mange af de der daglige rytmer kan du give dem ikke så vikaren Sådan ikke mange af dem vil være det samme eller til de samme på tværs af de fleste har et dagligt standup de fleste er.
-
-00:31:27 Speaker 3
-Da de lander man er ikke?
-
-00:31:32 Team Lead
-Nå mødes hver 14. Dag har en eller anden form for retro. Hvordan man laver retrospekt kan være forskelligt, men men Der er nok Sådan lyder en proces for det. Så Det er. Sådan jeg. Jeg tror egentlig, at mange af Sådan. Ret legende omkring det, ikke?
-
-00:31:48 Speaker 3
-Hvordan servede min tid endnu?
-Endelig er det hvornår parter?
-
-00:31:51 Team Lead
-Den er den er 1.45 1.45.
-
-00:31:55 Speaker 3
-Ja hvornår er den er?
-
-00:31:57 Speaker 4
-Hvor skal jeg lige gå halv time? 
-Så Vi har en halv time her.
-
-00:32:00 Speaker 3
-Hedder det, ja, så kan vi se at lære den her techradar i har. Ja, Det er det helt præcis. Vi har alle fået kigget lidt på den og den er så. Når lidt forvirrende.
-
-00:32:13 Team Lead
-Ja OK jamen det nej, men Det er en god feedback fordi Det er altid Sådan lidt når man.Har siddet med. I lang tid. Ikke sammen med et andet forhold, som Det er.
-
-00:32:19 Speaker 3 
-Altså man kommer udefra. Jeg tror bare fordi Der er.
-
-00:32:22 Team Lead
-Så så hvad tænker i så hvad tænker i Der er forvirrende?
-
-00:32:25 Speaker 3
-Med at være hver zone sådan helt præcist gør ja okay.
-
-00:32:30 Team Lead
-Nej, Det kan vi nok en gang. Jeg ved ikke engang. Hvordan jeg starter den der så så det. Er selvfølgelig ikke lige har set Det er jo. Dokumentationen, der ligger bagved til grateren. Og der ligger der faktisk en beskrivelse af alle ting. Nu skal lige prøve at se om Jeg kan ramme internettet her. Så de 4 eller 5 faser der ligger i et så varer Sådan en holdte access triller og adobt. Så så Det er den egentlig betyder, hvis Vi skal tage den helt fra. Starten af så hold. Jamen hold Det er de ting nu giver vi. Engang haft af en eller anden grund har vi ikke lyst til at bruge den mere.
-
-00:33:03 Team Lead
-Det kan for eksempel være bare fungere et eksempel tilbage, dengang vi byggede Vores første platform, som er det, vi kalder. Der har vi brugt Microsoft sql som database og der har vi opbygget Sådan en stor mono lift database som Sådan ret typisk ting man gjorde. Engang ikke det skal det ikke særlig godt, så er vi nået til et punkt, hvor Vi har sagt, Vi har det her. Vi er godt klar over at det skal leve fordi. Vi har det. Her Classic miljøet. Skal leve i nogle år endnu, ikke? Alle Vores kunder er flyttet over på Vores nye platform. Men Vi har jo så videreudviklet og lave ny. Udvikling, der bruger den her jeg skulle. Så der ville den for eksempel ligge i holte. Access skal prøve at tage. Er også godt lige sende. Jer det ikke linket hertil, men men Vi har faktisk en beskrivelse her. For hver ting. Men at ses er egentlig de de teknologier, hvor vi går ind og siger, hey, vi kan se, at Der er noget udvikling, der sker her. Det betyder Sådan et godt eksempel på Det er for et par år siden, der kom det her. Graph Query komme ud ikke så så mange folk begyndte ligesom at skifte op der og der der når vi til Sådan et eller andet punkt hvor vi.
-
-00:34:09 Team Lead
-Okay vi kan se Der er en eller anden. Teknologi, der bevæger sig her som. Nok har noget potentiale i sig. Det kunne vi godt tænke os at gå ind og prøve så typisk når vi går i os s. Inden så har vi et enkelt. Team der har en use case der. Passer på det, og så vil de gå ind og sige, Det er jo en per, sikrer man sige. Vi kunne godt tænke os at have teknologi og flyttede her. Ses prøve den af se om den kan vi ikke løse Vores udfordringer der nu er og så samtidig så går man ind i Sådan en platform også lige kigger på hvordan bliver det vedligehold og Sådan nogle ting er bare Sådan helt naturligt opensource svært, men for eksempel ikke lige bruger rigtig meget open source. Jamen, Der er der bare Sådan en procentdel af projekter, der kommer op, og så bliver de. Af banen, ikke? Altså Det er bare Sådan Jeg er ikke så så Der er Sådan nogle ting vi ligesom kigger på der, men Det er Sådan noget som hvordan er sikkerhed. Hvordan bliver det? Med til enighed og alt Sådan noget, hvis vi ser Det kan Sådan det giver mening, så kan vi finde på at opgradere dem op til trial trial. Det er der, hvor Vi har set nu det her. Det kan jeg godt løse de use cases, Vi har måske også på.
-
-00:35:05 Team Lead
-Et bredere basis. Ikke måske Der er flere hold der giver mening, for når vi flytter dem i trives, så begynder vi egentlig på det der hedder operaen. Synes ser dem ikke altså det der med. Nu af, hvordan drifter vi det? Hvordan har vi monitoring på det backup alt Sådan noget der bare Sådan skal være i Sådan et space, ikke? Og hvordan passer vi en generelt i Vores tekster? Så når Vi er der i trial, ikke jamen, så er det egentlig at nu. Er der nogle generes der? Faktisk har brugt the walking altså de. Har taget den her service og. Hvad? Det er til produktion? Vi har noget viden inde i firmaet, men Det er ikke et eller andet. Der er virkelig. Bredt brugt ude i hele. Fjerner ikke og de ting der ligger i at døbt jamen Det er simpelthen de ting, Der er veldokumenteret. Altså det det ville være ting som de fleste af Vores fiat. Nu tror jeg så, så det kunne. For eksempel være Sådan noget som. Jada ikke altså vi vi stort set alt hvad? Vi laver ID. P er så. Udvikler java spring boot. Det vil du finde i. Den der dom. Og det andet der så er man sikret, og Det er jo Sådan at sorteret i Sådan en. 4 triangler ikke. Så der har du teknologi som tøse infrastructure, landbrugets data storage, og Det er egentlig bare for at symbolisere Sådan en fordeling af. At sige jamen Der er. Der er datastorage, så kigger. Du herop i den her fra, den ikke så ligger deroppe og der der har vi så. Indenfor hvem har du så været der 4 ikke.
-
-00:36:18 Speaker 3
-Giver det mening? Ja det tror.
-
-00:36:19 Team Lead
-Jeg Jeg kan godt prøve at sende jer. Den der beskrivelse også. Så kan i se den. Ja, jeg sender den lige til john simpelthen for fint.
-
-00:36:29 Speaker 3
-Ja, det tror Jeg er.
-
-00:36:39 Speaker 3
-Yes slogan der står million gange.
-
-00:36:43 Speaker 3
-Virkelig har mig det?
-
-00:36:44 Team Lead
-Jamen Det er Det er meget.
-
-00:36:45 Team Lead
-At alle folk skal vide præcis.
-
-00:36:53 Speaker 3
-Hvorfor føler i Sådan en de har et fordi det virker?
-
-00:36:55 Speaker 3
-Som en ting der Sådan tager.
-
-00:36:57 Speaker 3
-Hvad tid at lave? Men føler jeg Sådan at Der er?
-
-00:36:59 Speaker 3
-Et reelt behov for at have den her tag retter.
-
-00:37:02 Team Lead
-Ja så så.
-
-00:37:07 Team Lead
-Ja det Det er jo.
-
-00:37:09 Team Lead
-Det det nej vi vi snakkede om før det her med at.
-
-00:37:12 Team Lead
-Kunne tage folk ud og putte over i andre hold og uden den her tak retter, så ville det jo betyde, at vi ikke havde den der liniment omkring. Hvad for en cool til vor for noget. Hvordan vi opbevarer data altså.
-
-00:37:23 Team Lead
-Så så Det er en ret stor del af det der puslespil omkring element, at vi kan gå ind og sige det. Det er vi alle sammen på en eller anden måde giver hinanden i øjnene og siger.
-
-00:37:31 Team Lead
-Det er egentlig.
-
-00:37:32 Team Lead
-Det her, vi gør ikke IT branchen er jo kæmpestor altså Der er jo alle mulige forskellige programmeringssprog. Der er jo.
-
-00:37:38 Team Lead
-Alle mulige måder at gøre tingene på.
-
-00:37:41 Team Lead
-Og hvis Vi skal kunne skalere, som vi gerne vil lægge dem, så så kræver det bare utrolig meget velegnet omkring, hvordan vi gør det Sådan, at vi ikke har de der.
-
-00:37:48 Speaker 3
-Ja OK.
-
-00:37:50 Team Lead
-Bruger alt muligt tid.
-
-00:37:51 Team Lead
-På at snakke om, at det her det bedste programmeringssprog måde. Det har jeg ikke, men han er lidt mere Sådan samlet omkring.
-
-00:37:55 Team Lead
-Det er faktisk næsten aldrig hjemme i ja.
-
-00:37:56 Speaker 3
-Ja ellers har en igen til at hjælpe.
-
-00:37:58 Speaker 3
-Alle med det. Det er der vi.
-
-00:37:59 Speaker 3
-Arbejder på, Det er meningen.
-
-00:38:00 Team Lead
-Lige præcis, og Det er igen. Det er også dermed også sagt, at tættere processen er jo er jo meningen skal være flydende.
-
-00:38:07 Team Lead
-Det er jo meningen, at hvis du kommer og siger hey, Der er den her nye teknologi, den har jeg lidt med derhjemme eller hvad man nu har i ikke har set den her på youtube eller på nettet og hvad konference whatever og det kunne vi ikke tænke mig at jamen så sagt så giver vi rigtig meget muligheden for at komme ind i den der fase.
-
-00:38:21 Team Lead
-Det er først når du egentlig skal bevæge dig.
-
-00:38:22 Team Lead
-Ned i den der trial at du Sådan virkelig der der skal den være mod teknologien ikke?
-
-00:38:28 Team Lead
-Så så så og det. Det er jo det Der er hele tiden det der trade off imellem hvornår vi vil gerne have regler for noget som gør det super robust og linet kontra.
-
-00:38:38 Team Lead
-Hvornår vil vi gerne have noget, Der er ret åben og Sådan lidt?
-
-00:38:40 Team Lead
-Mere startup hvor?
-
-00:38:41 Team Lead
-Man kan bevæge sig hurtigt og innovativt ikke og der det det. Det er der, Vi har fundet ud af, at teknikerne ligesom passer ind ja.
-
-00:38:50 Team Lead
-Fordi den giver den, da den giver stadig noget flydende flydende udvikling, selvom at man har noget at lege med dem omkring.
-
-00:38:56 Team Lead
-Hvordan man gør tingene, ikke?
-
-00:38:59 Team Lead
-Og Det er heller.
-
-00:38:59 Team Lead
-Ikke tit, at vi ændrer Vores sikre der altså det r.
-
-00:39:02 Team Lead
-Der skal virkelig være en ny teknologi, der der virkelig rykker et.
-
-00:39:05 Team Lead
-Eller andet altså.
-
-00:39:07 Team Lead
-For at at at folk gerne drøfter ikke.
-
-00:39:11 Team Lead
-Ja så så igen, Det er jo det der med hele tiden at have for øje er det. Er det fordi Det er sjovt at lege med enten lige der.
-
-00:39:16 Team Lead
-Det synes vi jo alle sammen kontra hvornår illuminator vi downtime altså hvornår arbejder vi rent faktisk imod Vores?
-
-00:39:23 Team Lead
-Mål ikke hvornår det?
-
-00:39:27 Speaker 3
-Hvad er Sådan det seneste Jeg har fået inkluderet i den her retter som rent faktisk?
-
-00:39:32 Team Lead
-Ikke set alt Sådan noget gang i.
-
-00:39:34 Speaker 3
-Som i tænker at køre videre på.
-
-00:39:37
-Skal vi prøve selv?
-
-00:39:46
-9 2 sekunder.
-
-00:40:09 Team Lead
-Og det sidste, Der er blevet adopteret ind i.
-
-00:40:13 Team Lead
-Er pre commit hooks som er Sådan en.
-
-00:40:18 Team Lead
-Når du kom ind.
-
-00:40:18 Team Lead
-Og noget så kører du nogle checks mod det.
-
-00:40:21 Team Lead
-Kunne for eksempel linning og så.
-
-00:40:22 Team Lead
-Videre, Det er det allersidste.
-
-00:40:24 Team Lead
-Man kom, Der er kommet ind i.
-
-00:40:27 Team Lead
-Så Det er kommet til.
-
-00:40:31 Team Lead
-Adopt fasen, så Det er det sidste der ligesom har rykket sig så bare lige at give en lige for det så har vi Sådan noget som det her actions den blev det meget, fordi vi allerede har en anden standardiseret måde at bygge software på.
-
-00:40:45 Team Lead
-For eksempel, så er der en anden, Der er kommet og sagt, hey, i mit tidligere arbejde har jeg brugt her bacons. Det synes jeg bare er mega fedt.
-
-00:40:51 Team Lead
-Det gør det.
-
-00:40:52 Team Lead
-Og så har vi haft en samtale om det og sagt det, det passer.
-
-00:40:55 Team Lead
-Måske ikke ind vi?
-
-00:40:55 Team Lead
-Vi er meget store besøget til at have meget centraliseret omkring det.
-
-00:40:58 Team Lead
-Så Der er nogle grunde til, at vi måske.
-
-00:40:59 Speaker 2
-Har gået lidt omkring, måske at kigge ind.
-
-00:41:01 Team Lead
-I specifikke men men det ville være der så.
-
-00:41:04 Team Lead
-Det er Sådan.
-
-00:41:04 Team Lead
-Den proces, der ligger ikke, så Det er derfor at få den der flydende samtale med folk også bliver hele tiden. Nye folk kommer ind og gøre tingene anderledes måde. Det vil jo super gerne.
-
-00:41:13 Team Lead
-Både understøtte, men Det kan jo være med til, at man nogle gange ikke når man arbejder i firmaet lang tid.
-
-00:41:17 Team Lead
-Så sætter man tager jo sin.
-
-00:41:18 Team Lead
-Gang med veje.
-
-00:41:18 Team Lead
-Og nu er det fint nok at de skubbet til så så Det er Sådan nogle ting som lidt.
-
-00:41:24 Speaker 4
-Hvem er det, der bestemmer om den her software? Kan godt altså.
-
-00:41:27 Team Lead
-Yes, så Vi har nogle arkitektur leeds, så jeg sidder sammen med en i mit hold i omkring instrukturen, så der var de her forskellige varianter ikke, og der har vi nogle på hver, som har et speciale, som er en eller anden grund.
-
-00:41:39 Team Lead
-Har et specielt inden for verden, så for eksempel ind på data. Jamen, der har vi Michael rune, som i mødte tidligere.
-
-00:41:46 Team Lead
-Han sidder som en af Vores softwarearkitektur inde på data og har Sådan et generelt større overblik over trackunit som helhed i hvordan vi opbevarer Vores data og Sådan ikke, og derfor har han en masse input omkring det.
-
-00:41:58 Team Lead
-Når det så er sagt, så er det ikke Sådan at folk kommer til mig, og så er prop og Jeg vil sige ja eller nej, Det er faktisk mere, at så så driver jeg samtalen omkring og få fundet ud af og sagt, jamen hey, er det her måden nok til, at Det er noget, vi kan dog alle de her ting.
-
-00:42:11 Team Lead
-Ikke fordi igen det det.
-
-00:42:12 Team Lead
-Er rigtig farligt at lave de der ivory towers.
-
-00:42:15 Team Lead
-Ikke kalder man det typisk altså det her med, at Der er en enkelt person, der sidder og styrer.
-
-00:42:19 Team Lead
-En beslutning ikke et eller andet sted skal der være en beslutning, men Det er typisk Sådan en samling af folk og det hele.
-
-00:42:24 Team Lead
-Det foregår i giver bacon eller i et hop pulver quests ikke så det vil også sige, at Det er ikke Sådan et eller andet med, at nu skal du ind og du.
-
-00:42:30 Team Lead
-Skoleret Indien og sige.
-
-00:42:32 Team Lead
-Hey, kan jeg få det her proof play?
-
-00:42:34 Team Lead
-Please ikke, men Det er egentlig mere at at Der er en der foregår en åben diskussion i det her pulver kost.
-
-00:42:41 Team Lead
-Og med det betyder også, at hvem som helst andre i firmaet kan hoppe ind og sige, Jeg synes faktisk Det er en god ide.
-
-00:42:45 Team Lead
-Jeg har også været ude og rode med det her tool eller hvad det nu er har brugt det førhen.
-
-00:42:49 Team Lead
-Det er mega godt eller andet ikke. Altså så Det er Sådan Det er lidt mere flydende samtale vi går efter ikke så Det er drevet af de her communities.
-
-00:42:56 Team Lead
-Og og det.
-
-00:42:58 Team Lead
-Så typisk, hvis Det er, hvis de tænker, hvis ikke Vi har et community omkring, så ville vi typisk, så ville jeg være den der orkestrere og sørge for.
-
-00:43:05 Team Lead
-At dække community der tager beslutningen om det.
-
-00:43:09 Team Lead
-Men, men jeg ville bare være orkestrerede i det tilfælde i de ting, hvor vi ikke har community. Jamen, der sætter vi os typisk ned på 3 personer og snakker det igennem med den person der udøver det.
-
-00:43:21 Speaker 3
-Ja hele det.
-
-00:43:21 Speaker 3
-Her, det skal man sige, der har mindst i har med med med edderkoppe med spider med hvordan i har hvordan hvornår er det sket? Er det Sådan lige når i begynder?
-
-00:43:31 Speaker 3
-At skælle og skal lave eller?
-
-00:43:32 Team Lead
-Nej, så så Det er noget der har.
-
-00:43:33 Team Lead
-Været undervejs det sidste år.
-
-00:43:35 Team Lead
-Vil jeg tro så så ja, så så det.
-
-00:43:38 Team Lead
-Bygger jo faktisk en ret interessant bog, der hedder.
-
-00:43:44 Team Lead
-Nej anden chill out in orange world så vi snakkede meget kort om det.
-
-00:43:49 Team Lead
-Imens Vi er.
-
-00:43:49 Team Lead
-Ude ved at så der findes de her.
-
-00:43:52 Team Lead
-Der findes masse professorer arkiv på her virksomhedskultur og sætte en farve på dem. Ikke tværs noget som at orange.
-
-00:43:58 Team Lead
-Det er Sådan en lille maskine det.
-
-00:43:59 Team Lead
-Er Sådan en typisk de?
-
-00:44:00 Team Lead
-Her meget store korporationer ikke du ser hvor Der er processer for alting.
-
-00:44:04 Team Lead
-Jeg traf en beslutning, så en bestemt måde du gør det på. Der er de grønne som er Sådan lidt mere Sådan Det er som en familie, ikke det Der er mange firmaer der trives med en vis størrelse ikke Det er typisk Sådan mange startups.
-
-00:44:14 Team Lead
-Det giver ikke at man er en familie, og man kender alle sammen hinanden og Sådan noget. Der er problemstillinger og.
-
-00:44:21 Team Lead
-Og og gode ting ved alle de forskellige, og så har den her til dot, som er det her lidt mere end det man ser som lidt Sådan den nye upcoming måde struktur rejsefirma på, som er meget Sådan et levende spindelvæv ikke af af af af beslutninger, der der flyder ude ved beslutning, der hvor det giver mening ikke og og alle de her ting den er skrevet af en dansker der hedder erik den er faktisk ret spændende.
-
-00:44:45 Team Lead
-Sådan, hvis man gerne vil forstå det med.
-
-00:44:47 Team Lead
-Virksomhedskultur lidt mere, men.
-
-00:44:48 Team Lead
-Så hvis i bare gå ind på hjemmesiden, hvis du bare søger det der tæller.
-
-00:44:52 Team Lead
-Så vil i kunne se Sådan et overblik over det, og hvis man kigger på dem.
-
-00:44:57 Team Lead
-Og kigger på nogle af de slides Vi har lavet, så er det hemmelige. Altså Vi er meget inspireret ud fra det framework. Det har vi implementeret ham, og Det er derfor Vi har meget selve autonomi eller teams.
-
-00:45:09 Team Lead
-Men Vi har også bygget videre på det så hele den her.
-
-00:45:11 Team Lead
-Portfolie måde at sortere Vores hold på.
-
-00:45:14 Team Lead
-Der er noget vi.
-
-00:45:14 Team Lead
-Selv har bygget.
-
-00:45:15 Speaker 3
-På og det.
-
-00:45:16 Team Lead
-Er sket indenfor tror selve porteføljerne det. Det var noget, vi etablerede.
-
-00:45:20 Team Lead
-Tilbage i september, så Det er Sådan lidt et halvt år gammelt og Sådan noget.
-
-00:45:25 Team Lead
-Så, men Det er Sådan en rejse, vi.
-
-00:45:26 Team Lead
-Har været igennem et år eller Sådan noget.
-
-00:45:29 Speaker 3
-Men Jeg synes bare fordi Det var meget hurtigt i Sådan jeg skal lave op og Det er Sådan en virkelig måde på at unge på eskalerer. Jo kan man sige.
-
-00:45:38 Team Lead
-Så ja og det, og Det er jo derfor, at Vi har grunden til, at Vi har gjort det så hurtigt er fordi vi kunne se.
-
-00:45:44 Team Lead
-Dengang havde vi.
-
-00:45:45 Team Lead
-Bare forholde os passivt og ikke gjort noget og og blev i den her trekant af beslutningstagere. Og Sådan stod på toppen af det.
-
-00:45:52 Team Lead
-Jamen så kunne vi bare godt se ret hurtigt, at vi var bare vokset til en størrelse, hvor man ikke længere havde det der dynamiske, som man typisk har en starter med.
-
-00:46:01 Team Lead
-At hey vi kan fikse alting fordi jeg kender lige ham der ham der ham der og hvis vi lige sætter os sammen i et møderum og lige bruger.
-
-00:46:06 Team Lead
-3 timer og whatever 3 dage så kan vi.
-
-00:46:09 Team Lead
-Fikse alting i verden og og når man når man skalerer så hurtigt, som vi gør sig, når man var på et eller andet tidspunkt, hvor jeg kender ikke længere.
-
-00:46:16 Team Lead
-Altså nu jeg sidder remote.
-
-00:46:17 Team Lead
-Så Det er ikke så tit Jeg er heroppe, men men jeg ville kunne gå igennem bygningen og sige, jeg aner ikke, hvem han er.
-
-00:46:22 Team Lead
-Ikke og og Det er bare Sådan Det er, når man bliver en større virksomhed, ikke? Altså så så kommer man bare til Sådan et andet punkt, hvor man ikke kender alle for.
-
-00:46:29 Team Lead
-Og det gør ting svært, fordi det gør ting svært og influere. Ikke fordi Sådan en som mig jamen som team lige nu ikke. Jeg har nogle agendaer jeg gerne vil drive omkring, så det her og alle de her ting. Men Det er.
-
-00:46:39 Team Lead
-Rigtig svært for.
-
-00:46:39 Team Lead
-Mig at gå ud til en anden. Jeg kender og så sige du skal lige hjælpe mig med XYZ fordi han har så sin egen agenda og sin egen mål og Sådan. Og Det er jo derfor at at at at for at bryde den der lidt skæve måde man kommer i hvor Det er så skal man sætte folk til mødet og så beslutninger og alle de der ting.
-
-00:46:57 Team Lead
-Og det skabte ledere og distribueres ud, ikke?
-
-00:46:59 Team Lead
-For at bryde den, så er det jo, at Vi har valgt at tage den her lidt mere.
-
-00:47:04 Team Lead
-Portfolio tilgang og hvis den har lidt mere af de der kompakte hold, der arbejder tæt sammen og.
-
-00:47:08 Team Lead
-Så har vi Sådan lidt, der går på tværs af.
-
-00:47:10 Speaker 3
-Tak for ligesom at beholde den Der er familie den der.
-
-00:47:13 Team Lead
-Grønne ja så ja på en eller anden måde ikke så så Det er jo Sådan lidt den der med at have en familie i portfolio og så er det din dine venner familie eller hvad man kan sige ikke som sidder et.
-
-00:47:21 Team Lead
-Andet sted, ikke?
-
-00:47:22 Team Lead
-Som som også har deres eget forhold sammen på en eller anden måde ikke og deres egne mål de driver imod og så så handler det jo om at.
-
-00:47:27 Team Lead
-Få alting til at passe på toppen.
-
-00:47:28 Team Lead
-Og det her whitespace mastery.
-
-00:47:30 Team Lead
-Som som vi snakkede lidt om. Ikke ja så.
-
-00:47:34 Team Lead
-Tror Det er en god måde at tage, tror jeg.
-
-00:47:38 Speaker 3
-Ja, så tror vi at man.
-
-00:47:40 Speaker 3
-Kan mere omkring Sådan hvordan i.
-
-00:47:42 Speaker 3
-Kongressen er jo valgt, at en af grupperne er eller en teamsene er så når i Sådan du sagde jo allerede nu, at Der er mange af holdene der de her rains at de minder meget om hinanden. Men hvad med Sådan? Hvad med? Hvad skal man sige selve udviklingsmodellen? Hvad altså Det har med waterfall eller scrum er Sådan. Hvordan er det II vælger det inden for holdene?
-
-00:48:02 Team Lead
-Altså igen det. Det er meget forskelligt fra hold som.
-
-00:48:04 Team Lead
-Mit hold specifikt jeg.
-
-00:48:07 Team Lead
-Jeg plejer at smide dem alle sammen i det samme hold eller i det samme rum, og så sætter vi os ned og snakke om det.
-
-00:48:12 Team Lead
-Hvad? Hvad giver mening ikke? Og Det er ikke altid vi når til enighed. Sådan er det bare ikke. Altså man man er bare forskellige ikke og på et eller andet tidspunkt, så når vi så også et punkt, typisk hvor vi kan se en vej igennem det for alle, ikke.
-
-00:48:24 Team Lead
-Det er meget.
-
-00:48:25 Team Lead
-Værre med at tage de svære samtaler.
-
-00:48:27 Team Lead
-Ikke ja, Det er ikke altid de fedeste ting.
-
-00:48:29 Team Lead
-Eller at gøre, fordi Det er bare Sådan at alle kommer jo på forskellige baggrunde er super følelsesladet og min.
-
-00:48:34 Team Lead
-Måde altid er.
-
-00:48:34 Team Lead
-Det bedste nok altså Det er bare Sådan Vi er som mennesker ikke men men det tror jeg også er rigtig mange folk i.
-
-00:48:39 Team Lead
-Trykken har en forståelse fordi.
-
-00:48:41 Team Lead
-Vi vi vi Vi er et af Vores som de her ting, vi lever efter i så de her www.later og alle de her forskellige ting, som ligesom er er.
-
-00:48:49 Team Lead
-Vores måde at.
-
-00:48:50 Team Lead
-Leve ikke og en af dem Det er jo den her show.
-
-00:48:53 Team Lead
-Og og Det er det her med at tage den svære samtale op for for snakkede om de ting, som går en på ikke og dermed også får snakket om.
-
-00:49:01 Team Lead
-Jamen hey hvordan?
-
-00:49:02 Team Lead
-Den her proces synes.
-
-00:49:03 Team Lead
-Jeg ikke er den fede måde at gøre ting på den her planlægnings måde. Hvor det.
-
-00:49:06 Team Lead
-Nu kunne være.
-
-00:49:07 Team Lead
-Jamen, så må man tage den.
-
-00:49:08 Team Lead
-Samtale i holdet så.
-
-00:49:09 Team Lead
-Det er Det er Sådan lidt som hvis ikke Det er meget op til holdet og hvordan de håndterer det, men de fleste de hvem der fungerer det på den her måde.
-
-00:49:17 Team Lead
-De sætter sig ned, når de bliver stiftet som et hold eller andet. Det er, og så har de Sådan en hel dag.
-
-00:49:22 Team Lead
-Hvor de bare siger okay dag skal vi snakke lidt om mig.
-
-00:49:24 Team Lead
-Så hvordan gør vi ikke? Altså hvad? Hvor tit skal vi holde retro? Ikke? Hvor tit skal vi sidde ned? Hvordan skal det format være?
-
-00:49:33 Team Lead
-Og det for mig er det meget noget jeg skulle ud til mit hold, så fordi Jeg har det også Sådan. Jeg har det meget Sådan at.
-
-00:49:38 Team Lead
-Det er ikke mig der skal sidde og leve i de der daglige rytmer.
-
-00:49:41 Team Lead
-Det er dem så.
-
-00:49:42 Team Lead
-Derfor har det også op til.
-
-00:49:43 Team Lead
-Dem og det bliver der.
-
-00:49:46 Team Lead
-De bliver gladest, at Det er dem der definerer dem ikke altså ja og har 1 1 1 impact på de ting ikke hvordan Der er således ud.
-
-00:49:54 Speaker 3
-Han har udgangspunkt i dine i dit team. Hvordan er det så hvad Der er nuværende Sådan metode?
-
-00:50:00 Team Lead
-Så Vi har hver dansk.
-
-00:50:04 Team Lead
-Wonders i dansk tid der 9 der bliver alle penge ud over slack med fra.
-
-00:50:09 Team Lead
-Min bot der siger, hey, fortæl mig lige hvad du lavede i går, i dag og i morgen eller i går i dag og hvad du blokerer af.
-
-00:50:17 Team Lead
-Det filter ind i Sådan en overordnet tråd. Vi har en kanal og så derigennem der koordinerer vi ligesom det ser okay.
-
-00:50:23 Team Lead
-Jeg kan se at Carsten er. Han sidder lige fast nu.
-
-00:50:26 Team Lead
-Og Der er vi noget der?
-
-00:50:27 Team Lead
-Jeg skal hjælpe med, så Det er Sådan.
-
-00:50:29 Team Lead
-Den den overordnede daglige konklusion.
-
-00:50:31 Team Lead
-Der har vi så en person, der sidder i Canada ender i Polen. Polen er så samtidskunst, der kommer også før klokken 9 har med Canada.
-
-00:50:38 Team Lead
-Han når han vågner op der. Det plejer at være at vinde en 2 tiden. Jamen så udfylder han jo det når han.
-
-00:50:42 Team Lead
-Kommer på arbejde ikke, og så har.
-
-00:50:43 Team Lead
-Vi Sådan lige.
-
-00:50:44 Team Lead
-Nogle timers roller der så.
-
-00:50:46 Team Lead
-Har vi hver 14. Dag hver 14. mandag der har vi et retro.
-
-00:50:52 Team Lead
-Hvor vi sætter os ned, og så har vi en time, hvor vi snakker igennem. Hvad har vi gjort i løbet af de sidste 2 uger?
-
-00:50:57 Team Lead
-Hvad har været godt? Hvad har været skidt? Hvad kan vi forbedre? Og er der nogle gutters rundt i holdet?
-
-00:51:02 Team Lead
-Så så Det er lidt mere Sådan hey Jeg synes det her. Det var bare mega fedt på fikset det her og den her var mega fedt og der tager vi typisk også bliver lidt mindre problemer, så hvis hvis Der er et eller andet knas ikke hvad det nu kunne være som vi lige har brug for at snakke igennem vi Vi har brug for at ændre en proces lidt eller Sådan noget. Det er jo typisk også være på retro vi gør det.
-
-00:51:23 Speaker 3
-Det er Sådan.
-
-00:51:23 Team Lead
-En meget drevet, bare at Vi har Sådan et miro bord.
-
-00:51:27 Team Lead
-Ikke så Sådan.
-
-00:51:28 Team Lead
-Et et tool, hvor man ligesom bare kan smide lapper på og man kan ikke se hvem Der er smidt bad og.
-
-00:51:31 Team Lead
-Så tager vi bare med, så har vi mit hold er lidt specielt for Jeg har Sådan 3 superhold inde i mit hold. Faktisk fordi vi arbejder med sikkerhed, infrastruktur og det options, men Vi har en planlægningsfunktion.
-
-00:51:44 Team Lead
-For hver af.
-
-00:51:45 Team Lead
-Dem, som er forskellige folk fra holdet, der deltager i dem hver især og det.
-
-00:51:50 Team Lead
-Er typisk en gang om.
-
-00:51:51 Team Lead
-Ugen og Det er mere.
-
-00:51:53 Team Lead
-Det er ikke så meget planlægning, som realiserer os og siger okay, de næste 3 uger skal du appellerer.
-
-00:51:58 Team Lead
-Det er mere som man sige. Hey, hvor er vi lige nu?
-
-00:52:00 Team Lead
-Hvor lige Vi skal hen af Sådan inde på det næste kort stykke tid. Og er der nogle ting, hvor Vi skal have ekstra fokus på så engang imellem for eksempel nogle sikkerhed er et rigtig godt eksempel.
-
-00:52:09 Team Lead
-Ikke. Vi kan desværre ikke styre verden og lige pludselig så kommer der bare Sådan en eller anden høj kritisk volatility remote exploit, som gør at Vores service skal konfronteres.
-
-00:52:20 Team Lead
-Ikke, så er det klart, så er det jo noget med at droppe alt hvad Vi har i hænderne og få fikset.
-
-00:52:23 Team Lead
-Det ikke så så vi.
-
-00:52:25 Team Lead
-Opnår den der fleksibilitet og agilitet uden at have den der faste. Det er meget sjovt.
-
-00:52:29 Team Lead
-Og Vi har en flaske.
-
-00:52:30 Team Lead
-Plan, og så har vi.
-
-00:52:33 Team Lead
-Hver tredje måned har vi en okay, og det foregår egentlig på et fagligt niveau, og der har man Sådan et.
-
-00:52:40 Team Lead
-Nogle schools typisk ikke så så.
-
-00:52:43 Team Lead
-Mål, der godt kan nås men er.
-
-00:52:45 Team Lead
-Sværere at opnå.
-
-00:52:47 Team Lead
-De bliver sat hver kvartal og siger hen over det næste kvartal. Der har vi en ide om, at vi vil nå de her mål.
-
-00:52:53 Team Lead
-Det er typisk nogle ret.
-
-00:52:54 Team Lead
-Overordnede mål så lige nu, for eksempel.
-
-00:52:57 Team Lead
-Der hedder Vores.
-
-00:52:59 Team Lead
-Lige nu er.
-
-00:53:00 Team Lead
-Vi ved at arbejde på en opgave omkring Kafka setup, som er Sådan en teknologi, vi bruger.
-
-00:53:06 Team Lead
-Og der har vi brug for reklame dem, så Det er Sådan et af Vores okay afsted.
-
-00:53:12 Team Lead
-I hvert fald. Der har vi så en cowboy, hvor vi går ind og sidder og snakker om, har vi opnået de her mål hver?
-
-00:53:16 Team Lead
-Vi lært som vi.
-
-00:53:17 Team Lead
-Hvis vi ikke blev opnået, hvad har vi faktisk lært videre det og Sådan noget?
-
-00:53:22 Team Lead
-Ja så så og Det er Sådan den måde de her okay copy eller de her cowboy og som vi holder det holder vi i portfolio, så vil alle få portfolio.
-
-00:53:29 Team Lead
-Der går ind og snakker om det, så alle.
-
-00:53:31 Team Lead
-Alle team members er også med og så hver leder med forholdene går ind og præsentere og siger.
-
-00:53:36 Team Lead
-Hvad er Vores mål og hvad er vi nået og hvad vi ikke nok?
-
-00:53:39 Team Lead
-Og Det er faktisk åbent for alle, så Jeg kan have den i hvilken som helst kunne jeg gerne vil se, så hvis Jeg har en vis stake i team apps whatever, så kan jeg jo på at se hvad.
-
-00:53:48 Team Lead
-Hvad har vi faktisk nået mål, det her portal og Sådan noget igen. Vi driver meget, der åbner igen og ikke omkring.
-
-00:53:54 Team Lead
-At sørge for at folk.
-
-00:53:56 Team Lead
-Typisk så vil de have.
-
-00:53:57 Team Lead
-Optaget, og det ville så blive.
-
-00:53:59 Team Lead
-Lavet tilgængelige, som er tilbage.
-
-00:54:01 Team Lead
-Jeg tror Det er Sådan er, så har vi udover det i mit hold specifikt som mit lederskabs hold ikke så jeg sidder jo sammen med som ingeniøren lige i portfolien, og der har vi så på tværs af de 10 minutter sidder i porteføljen der mødes vi så én gang om ugen og bare lige tjekke ind og siger, hey, har jeg brug for hjælp fra?
-
-00:54:17 Team Lead
-Dig på mit hold brug for hjælp her, som på den måde.
-
-00:54:19
-Okay.
-
-00:54:21 Team Lead
-Det er Sådan de rytmer tror jeg. Vi har en altså så bruger vi bare ikke så så Vi har en masse task som vi flytter rundt på.
-
-00:54:28 Team Lead
-Et par år.
-
-00:54:29 Team Lead
-Men Det er mere Sådan en.
-
-00:54:30 Speaker 3
-Kampstil men Der er, men Der er ikke Sådan en. Hvad skal man sige Sådan en normal?
-
-00:54:35 Speaker 3
-Sådan tankegang som vi Sådan følger. Nej.
-
-00:54:38 Team Lead
-Nej, Vi har ikke Sådan en blanding.
-
-00:54:40 Speaker 3
-Når du har den?
-
-00:54:41 Team Lead
-Og alt det her vel? Altså hvor man sætter Sådan noget. Kigger takket specifikke ting, så lave ting. Det er meget op til til dig som for eksempel som ingeniør og sige, jamen, i dag arbejder jeg på det her så går jeg ind og laver en ting og sørger for at få.
-
-00:54:51 Team Lead
-Flyttet den ind i de rigtige kolonner, om jeg blokeret og så videre.
-
-00:54:55 Speaker 3
-Ja fordi du har haft et andet og især til virksomheder, som er det Sådan, så Vi har. Vi har jo alt jeg med nogle af de her elementer her, men det.
-
-00:55:01 Speaker 3
-Er som at Det er super åben for jer.
-
-00:55:03 Team Lead
-Ja og jeg ved ikke om Det er specifikke for Vores hold faktisk, men men men.
-
-00:55:07 Team Lead
-Grunden til at Vi har valgt det, Det er.
-
-00:55:10 Team Lead
-Det det det det Det er for at minimere den her møde agenda så så så man kommer rigtig hurtigt bare til at beslutte op i at hvis man skal mødes om team hver uge, ikke for at planlægge for eksempel Sådan et hårdt ned i detaljen marketing.
-
-00:55:26 Team Lead
-Jamen det tager måske en time, 2 timer.
-
-00:55:28 Team Lead
-Jeg er 7 mennesker i.
-
-00:55:29 Team Lead
-Mit hold så så.
-
-00:55:31 Team Lead
-Du kan godt hurtigt gange deroppe ikke og så sige jamen det.
-
-00:55:33 Team Lead
-Det er jo.
-
-00:55:33 Team Lead
-Faktisk en hel dag der går til spilde bare med det ikke så for mig og mit hold har vi en af de ting vi.
-
-00:55:39 Team Lead
-Har snakket meget om det her. Vi vil hellere have tid til at fokusere på teknikken.
-
-00:55:42 Team Lead
-En tid til at sidde.
-
-00:55:43 Speaker 3
-Og snakke møder ikke?
-
-00:55:45 Team Lead
-Men Det er forskellige.
-
-00:55:46 Speaker 3
-Forhold tror jeg, har det ændret sig over tid, været solgt din.
-
-00:55:49 Team Lead
-Ja helt sikkert, så så tilbage dengang jeg overtog mit hold blev teamet for det. Der var vi 3 mennesker, der havde vi jo en helt anden dynamik i holdet.
-
-00:55:59 Team Lead
-Vi har nu når Vi er 7 mennesker og med det processerne og så står tid, og Det er Sådan noget, vi kommer tilbage til hver kvartal. Nok ikke hvor man lige slår op. Vi kigger på
-
-00:56:08 Team Lead
-Hinanden og siger, gør tingene på en.
-
-00:56:09 Team Lead
-På den måde.
-
-00:56:10 Team Lead
-Fungerer det for os senest, der fik vi en med i Canada, ikke? Det giver nogle helt andre udfordringer lige pludselig II den her dynamik ikke førhen der mødtes vi faktisk online hver morgen klokken 9 på et video kan du sagde hey hvordan går det lige? Du ved alt det der det det bliver man jo nødt til at ændre, når man lige pludselig bliver globalt hold med folk.
-
-00:56:30 Speaker 3
+00:17:35
 Ja ja præcis.
 
-00:56:32 Team Lead
-Så så Det er noget.
+00:17:37 Senior Frontend Developer
+Ja nu er det jo meget front end jeg tænker på, og der kan man sige, at der havde vi noget med på et tidspunkt, hvordan vi laver det her serveparti halløj, der skal have nogle komponenter, som folk kan bruge, kan også fedt hvis de ikke skulle bruge det react, men så fandt vi frem til, at hvis nu vi skifter væk fra noget start din bonus og vi skifter over til et element i stedet for, så har.
 
-00:56:33 Team Lead
-Vi stopper op engang imellem at betale tjek.
+00:17:53 Senior Frontend Developer
+Vi et design system vi kan vi kan hive fra, som ikke binder os til for eksempel materially, men i stedet bygge Vores eget.
 
-00:56:35 Team Lead
-Os lige ja tak.
+00:17:59 Senior Frontend Developer
+Men Vi har set design system. Vi kan referere til, hvad vi kan sige. Hey, vi bygger oven på talent, i kan få Vores telekom, så får i faktisk.
 
-00:56:37 Team Lead
-Hvordan går det?
+00:18:05 Senior Frontend Developer
+Design system Det er måske lidt. Det er bare noget Flemming der kommer i gang, så der kan vi sige, Det er jo så i transition lige nu, hvor vi næsten er væk fra starten på Vores år til det.
 
-00:56:43 Speaker 3
-Det er sandt.
+00:18:16 Speaker 7
+Se det, men det det med at community eller hvad man skal kalde det her for det de sidder ikke i samme team.
 
-00:56:45 Speaker 3
-Jeg tror vi snakker også helt i starten interviewet, men det her med skallering.
+00:18:17 Speaker 3
+Spændende. Har i kun et et arkitektteams? Så har i Sådan en central team organisation, der styrer teknologier ned på hele dagen?
 
-00:56:52 Speaker 3
-At nogen rammer.
+00:18:30 Senior Frontend Developer
+De sidder i forskellige teams, men.
 
-00:56:54 Speaker 3
-For jeg føler den her måde end på ferie på, at den godt kan ramme et problem, når i.
+00:18:31 Senior Frontend Developer
+Det er dem der.
 
-00:56:57 Speaker 3
-Som bliver skal lave for stort på en måde, for så ender det med, at så er der for mange partier der laver Sådan.
+00:18:32 Senior Frontend Developer
+Er arkitekter skal jeg sige dem der?
 
-00:57:02 Speaker 3
-Hvad skal man sige Sådan?
+00:18:35 Senior Frontend Developer
+Er en del.
 
-00:57:03 Speaker 3
-For små detaljer og så bliver det og så ender du lidt det samme problem jo.
+00:18:35 Senior Frontend Developer
+Af den gruppe, Der er tæt gruppen.
 
-00:57:06 Team Lead
-Det er meget muligt.
+00:18:38 Speaker 3
+Hvordan bliver de valgt?
 
-00:57:08 Team Lead
-Ja men men Jeg tror også, Det er vigtigt at have tilgang der hedder. Ja, Det er meget muligt det. Det er jo det her med at vi.
+00:18:40 Senior Frontend Developer
+Ja det ved.
 
-00:57:15 Team Lead
-Kommer ikke til.
+00:18:41 Senior Frontend Developer
+Jeg faktisk ikke. Hvordan bliver?
 
-00:57:15 Team Lead
-At så lige nu er vi 450 og.
+00:18:42 Speaker 3
+De smidt ud.
 
-00:57:19 Team Lead
-60 medarbejdere når Vi er 1000 medarbejdere.
+00:18:43 Senior Frontend Developer
+Spørgsmålet er, hvad skal et godt spørgsmål?
 
-00:57:22 Team Lead
-Lad os sige vi bliver.
+00:18:46 Speaker 2
+Okay.
 
-00:57:23 Team Lead
-Det ikke jamen så er det klart så er det 1 1 1 anden.
+00:18:46 Senior Frontend Developer
+Det, det ved jeg faktisk ikke umiddelbart har været. Da jeg startede, var det meget Sådan en Vi skal.
 
-00:57:26 Team Lead
-Organisationstype, Vi har brug for.
+00:18:51 Senior Frontend Developer
+Der var ikke rigtig noget struktur i det. Der var bare nogen, der satte sig ned og.
 
-00:57:27 Team Lead
-Ikke og Det er jo det Der er super vigtigt i så for udviklingsbank.
+00:18:54 Senior Frontend Developer
+Snakkede om mode mødtes omkring det.
 
-00:57:32 Team Lead
-Ikke at man.
+00:18:57 Senior Frontend Developer
+Det der var det der var nogle sagde.
 
-00:57:32 Team Lead
-Man er villig til at at sige, jamen, Der er ikke noget der passer, ikke?
+00:18:59 Senior Frontend Developer
+Det er bare.
 
-00:57:37 Team Lead
-Jeg tror dog at at.
+00:18:59 Senior Frontend Developer
+En kaffeklub for nu er det blevet meget mere officielt, og Der er et sted hvor du ligger design vokse op og Der er nogle ting der.
 
-00:57:39 Team Lead
-Måden, vi gør tingene på nu portfolier ideen omkring portfolier skalere ret godt, fordi vi kan se, Vi er blandt andet de opkøbte firmaet Tyskland.
+00:19:04 Senior Frontend Developer
+Er ligesom nogle processer, man går igennem nogle der tager nogle.
 
-00:57:51 Team Lead
-Og da vi opkøbte dem. De har en meget speciel software føring, som som Vi er interesserede.
+00:19:09 Senior Frontend Developer
+Jeg kender ikke processen for at blive. Det er med det det de betyder flere møder så det ikke noget for mig.
 
-00:57:54 Team Lead
-I at at få ind i.
+00:19:15 Speaker 3
+Er der noget?
 
-00:57:55 Team Lead
-Vores platform ikke og og den måde, de agerer på.
+00:19:15 Speaker 3
+Ja det lyder som om Det er stadig Sådan semi uformelt, men Det er blevet noget mere formelt.
 
-00:57:58 Team Lead
-Det er jo.
+00:19:20 Speaker 3
+End der har været.
 
-00:57:58 Team Lead
-Jamen den software offering den står de jo så for i.
+00:19:21 Senior Frontend Developer
+Det er i hvert fald. Nu kan man godt mærke som dem, der ikke sidder i det, at de laver noget.
 
-00:58:00 Team Lead
-Deres profil det specifikt ikke og.
+00:19:26 Senior Frontend Developer
+Det kunne man måske for 3 år siden det med den det altså. Men Det er jo ikke fordi Der er nogle.
 
-00:58:03 Team Lead
-Der har de jo så lidt, hvordan de vælger at sørge for at den når deres mål.
+00:19:31 Senior Frontend Developer
+Det er ikke fordi at man uannut en arkitekter man skal snakke med eller Det er jo bare Det er bare dem Der er på teamet er en myte som tilfældigvis også er den der Arena mener vil give hende.
 
-00:58:07 Team Lead
-Det er jo så op til dem.
+00:19:48 Speaker 1
+Stoppe 4 fået svar på alle spørgsmål godt er.
 
-00:58:07 Team Lead
-At finde ud af ikke fordelen i.
+00:19:55 Speaker 1
+Hvis vi siger ordet autonomi.
 
-00:58:10 Team Lead
-Det er jo at det skader så.
+00:20:00 Speaker 1
+Hvordan ser det ud for?
 
-00:58:12 Team Lead
-Tennis problem men Det er klart, Det er, der vil altid være en eller anden opgave i at få den der alignement til at køre.
+00:20:01 Speaker 1
+Dig i dit arbejde.
 
-00:58:19 Speaker 3
-Ja, men Det er fordi i hænger fast i os med vand og metoder.
+00:20:03 Speaker 7
+Jamen vi i Vores.
 
-00:58:22 Team Lead
-Nej nej og det. Det tror jeg også, at Det er også er. Det er også det man kan se, hvis man kigger tværs historikere.
+00:20:05 Senior Frontend Developer
+Team ikke behøver at spørge om.
 
-00:58:27 Team Lead
-Vi starter ud på den her tid nok rejse og fandt hurtigt ud af jamen det virker, men Der er bare nogle ting der skal være lidt anderledes valgt at sortere tingene på podiet og Det er Sådan en rejse man hele tiden er på, og Jeg tror hvis man taber det der blæk omkring at Det er en rejse og siger nu er vi et firma Der er Sådan her der opererer Sådan her.
+00:20:06 Senior Frontend Developer
+Hvad Vi skal lave nu?
 
-00:58:43 Team Lead
-Jamen så bliver du låst fast hos hjertet.
+00:20:07 Senior Frontend Developer
+Som i det sagt, så har vi også nogle design dog, som som har været en større ting, der skal ændres.
 
-00:58:45 Team Lead
-At du bliver overhalet af konkurrenter, fordi de er mere fleksible og involverende og så.
+00:20:10 Senior Frontend Developer
+Så skal de lægges ud, og så er.
 
-00:58:50 Team Lead
-Så Det er jo Det er.
+00:20:11 Senior Frontend Developer
+Der nogen der?
 
-00:58:51 Team Lead
-Jo med at.
+00:20:12 Senior Frontend Developer
+Siger, Det er bare i orden, men umiddelbart så kan blive løse opgaven på den måde, Vi har lyst til.
 
-00:58:51 Team Lead
-Være altså at være hele tiden at være respekterende overfor jamen hey, Vi er på en.
+00:20:18 Senior Frontend Developer
+Så længe vi overholder de her guidelines Vi har og ikke pludselig glemmer eller anden sindssyg, og Det kan vi så i princippet også. Så snart vi går igennem kogebog men.
 
-00:58:56 Team Lead
-Skærings rejse og.
+00:20:28 Senior Frontend Developer
+Det er ikke Det er ikke fordi hver beslutning behøver at gå igennem.
 
-00:58:57 Team Lead
-Vi har ikke fundet ud af alting, altså.
+00:20:32 Senior Frontend Developer
+En leder eller andet, Det er ofte dem, der kommer med en anden guideline om at.
 
-00:59:00 Team Lead
-Vi har masser af.
+00:20:35 Senior Frontend Developer
+Det er det her, vi gerne vil, og.
 
-00:59:00 Team Lead
-Problemer vi i Vores virksomhedskultur er Sådan generelt ikke II, hvordan vi godt tænkt, men Det er jo så op til os at finde ud af, hvordan får vi og det det som ledernes job er i det her?
+00:20:36 Senior Frontend Developer
+Så finder vi ud af, hvordan vi gør det.
 
-00:59:10 Team Lead
-Det er at finde.
+00:20:47 Speaker 1
+Simon og Søren. De introducerede os til.
 
-00:59:11 Team Lead
-Ud af, hvordan får vi en æblet?
+00:20:50 Speaker 2
+Sådan et koncept.
 
-00:59:13 Team Lead
-Vores folk til at lave det, der giver mening.
+00:20:52 Speaker 1
+Om først at udforske autonomi og så derefter ofre autonomi for at opnå alignment.
 
-00:59:16 Team Lead
-Sådan at at Det er dem, der tager beslutningerne. Det er dem der der fylder ikke. Og så skal vi jo finde ud af at koordinere alt det her ind imellem af kulturen og alle de her ting.
+00:20:59
+Som vi kalder.
 
-00:59:25
-Og Det er svært at.
+00:21:00 Speaker 1
+Og Sådan ting og sager du må sige til, hvis du.
 
-00:59:26 Team Lead
-Jeg tror ikke Der er særlig mange firmaer.
+00:21:02 Speaker 1
+Bliver lidt mærkeligt for Sådan noget.
 
-00:59:27 Team Lead
-Der hedder det altså en generel.
+00:21:06 Speaker 1
+Ved du så om hvordan det vil se ud i praksis? Eller hvordan ser du i praksis for dig?
 
-00:59:30 Team Lead
-Og det tror jeg ikke, vi gør.
+00:21:11 Speaker 1
+Sådan er der noget.
 
-00:59:31 Speaker 3
-Nødvendigvis nej, men så længe man er mindful.
+00:21:13 Speaker 1
+Hvor i udforsker og opnår en.
 
-00:59:34 Speaker 3
-Af det, så er det altid.
+00:21:15 Speaker 1
+Form for autonomi.
 
-00:59:34 Team Lead
-Jeg tror Det er det. Det er i hvert fald meget det mindset Vores Vores ceo og sit hoved og Sådan hele Vores større lederskab har.
+00:21:16 Speaker 1
+Og så er han også nødt til at ofre noget.
 
-00:59:42 Team Lead
-Jamen Det er bare vi er det her human OS der er imellem trænger til opgradering og Det er Det er bare Sådan.
+00:21:22 Senior Frontend Developer
+Vi har jo. Vi har jo stadig, Vi har de her guidelines et med hvordan hvordan er det vi vi arbejder med tingene? Hvad er det for mange teknologier, vi bruger og så videre? Og Det er jo meget.
 
-00:59:47 Team Lead
-Lidt Sådan Det er ikke.
+00:21:33 Senior Frontend Developer
+Det vil jeg sige, så har du nogen der kan sige der kan du ikke bare lave lige det du lyster?
 
-00:59:51 Speaker 3
-Jeg tror ikke den er hernede.
+00:21:36 Senior Frontend Developer
+Du kan ikke bare købe det med det nye.
 
-00:59:57 Speaker 4
-Det er i hvert fald at fordi vi snakker om over tilbage til det der dokumentation, Vi har snakket meget om, altså i et dokumenterer også noget processen, men ved vi, hvis vi nu tager et eksempel?
+00:21:38 Senior Frontend Developer
+Fans i Danmark, du har lyst til at gå med, fordi vi følger den tekst Vi har.
 
-01:00:10 Speaker 4
-At Jeg er ny udvikler er kommet ind, og han skal lave alle mulige dokumentation for at komme ind og Sådan.
+00:21:43 Senior Frontend Developer
+Jeg ved ikke, Jeg kan se noget hvor der kommer.
 
-01:00:17 Speaker 4
-Hvor meget gå i detaljer med jeres dokumentation, så man kan rigtig sætte i gang. Er det Sådan en step by step?
+00:21:44 Senior Frontend Developer
+Mere økonomi, og så er det Sådan.
 
-01:00:23 Speaker 4
-Man skal bare følge den eller der bare Sådan en guideline Sådan ja den vej vil gå app.
+00:21:46 Senior Frontend Developer
+Så forsvinder igen.
 
-01:00:29 Speaker 4
-Og du skal ikke.
+00:21:49 Senior Frontend Developer
+Specifikt Sådan lige case kan være. Det er Sådan nogle andre teams.
 
-01:00:32 Team Lead
-Det kommer lidt an på omstændighederne, tror jeg.
+00:21:53 Senior Frontend Developer
+At der bliver.
 
-01:00:34 Team Lead
-Så så der.
+00:21:54 Senior Frontend Developer
+Taget noget fra dem, eller hvad man skal sige.
 
-01:00:34 Team Lead
-Er Sådan nogle forskellige måder, man kan komme ind.
+00:21:56 Speaker 3
+Men hvad med gælder det også, Sådan som individ er i? Kan i også som individer få lov til at gøre eller bare teamet der kan få lov til måske at føle de her design docs, men også lave noget selv?
 
-01:00:36 Team Lead
-I tracking på.
+00:22:11 Speaker 3
+Eller stoler i de også på jer som individer nok til i egentlig selv kan beslutte det. Det er Sådan.
 
-01:00:37 Team Lead
-Ikke så den ene måde det.
+00:22:17 Speaker 3
+Her, Jeg vil implementere det.
 
-01:00:38 Team Lead
-Er, at du kommer ind i?
+00:22:19 Speaker 3
+Hvis Det kan.
 
-01:00:38 Team Lead
-Et etableret hold det.
+00:22:19 Senior Frontend Developer
+Jeg. Jeg tror ikke Der er nogen her der bare vil sidde og sige, nu er der en feature og så kører jeg bare lige den. Så smider jeg den så release jeg den.
 
-01:00:39 Team Lead
-Er nok den nemmeste måde. Ikke fordi der har du selvfølgelig en masse andre folk at læne dig opad.
+00:22:25 Senior Frontend Developer
+Det er jo noget man gør sammen. Altså Det er noget man gør som en time før Det er noget hvor man snakker med en designer eller.
 
-01:00:45 Team Lead
-Vi har noget, der hedder engineering handbook.
+00:22:30 Senior Frontend Developer
+Man, man snakker lige.
 
-01:00:47 Team Lead
-Den beskriver. Generelt er det for nogle produkter Vi har. Hvordan gør vi ting? Hvad er det for nogle sider, Der er vigtige for dig at vide blandt andet den her? LC Vi har snakket om nogle gange ikke, og den er Sådan en ting, man giver til til til nye folk for at de kan have.
+00:22:31 Senior Frontend Developer
+Med en man.
 
-01:01:01 Team Lead
-Den her lidt mere.
+00:22:31 Senior Frontend Developer
+Ved der hov du ved lidt mere om det herovre, som jeg skal til at arbejde med, så det vil jeg sige. Det kommer jo bare Sådan. Naturligt vil jeg mene, at man man er sammen om ting.
 
-01:01:02 Team Lead
-Opslagsværk omkring hej Jeg har det her problem er Sebastian men så hvis du.
+00:22:40 Senior Frontend Developer
+Når man fordi man er folk ved godt at de ikke selv altid kan lave den bedste løsning alene, men man får det bedste ud af det hvis man er hvis man snakker.
 
-01:01:07 Team Lead
-Kommer ned til dit specifikke services.
+00:22:48 Senior Frontend Developer
+Lidt omkring det og finder frem til hvad?
 
-01:01:09 Team Lead
-Altså vi prøver gerne i Vores hold specifikt der der der skriver vi ikke hous altså Vi skal jo ikke step by step by step by step.
+00:22:50 Senior Frontend Developer
+Hvad har folk af erfaringer med de med de ting?
 
-01:01:18 Team Lead
-Vi tror meget på lønningen by doing ikke så så vi. Vi tror også meget på det her koncept om teach your man to fish, altså det her med hvordan en naboer vi andre folk til at kunne gøre det her. Selv ikke så så Vi har.
+00:23:00 Speaker 1
+Har du nogensinde oplevet, at Der er opstået konflikter?
 
-01:01:32 Team Lead
-Vi har ikke i dybden dokumentation. Vi har dokumentation omkring, hvordan systemet er sat sammen, men ikke om hvordan nødvendigvis at du opererer det.
+00:23:03 Speaker 1
+Vedrørende og vedrørende alle vegne.
 
-01:01:39 Team Lead
-Så hvordan patcher du vil herinde eller laver en specifik kode tjene på det her en.
+00:23:11 Senior Frontend Developer
+Jamen. Det har da været i et.
 
-01:01:43 Team Lead
-Og Det har vi også set som et problem.
+00:23:12 Speaker 7
+Team på et.
 
-01:01:46 Team Lead
-Det, Det er svært at vokse med det, for eksempel når man nu opkøber et firma i Canada med en helt anden Kultur og alle de her ting, ikke?
+00:23:12 Senior Frontend Developer
+Tidspunkt, hvor der var nogle der mediet skulle på banen, hvor nogle af mest gøres på en anden måde og der når Der er nogen Der er lidt hårdnakket omkring.
 
-01:01:51 Team Lead
-Altså hvor alle folk bare ny ikke så når man ansætter en person over i Canada, men så kommer de jo ind i et hold der ikke er etableret og der har vi en masse tribal Norge som som ligesom lever i hold og Det er en af de udfordringer, vi lige i øjeblikket er prøver at finde ud af. Hvordan skal vi håndtere?
+00:23:18 Senior Frontend Developer
+De skal ******.
 
-01:02:08 Team Lead
-Så så jeg så.
+00:23:18 Senior Frontend Developer
+Gøre Sådan her. Eller det her det?
 
-01:02:10 Team Lead
-Jeg var i Canada i sidste måned skal der i næste måned ikke på grund af den her agenda og det.
+00:23:19 Senior Frontend Developer
+Er godt nok, Det er færdigt endnu. Så er der jo, så er det jo om at være på den side hvor.
 
-01:02:14 Team Lead
-Det er mega svært at drive Sådan en Sådan agenda ikke og Det er mega svært at nævne det når man dokumentation fordi problemet er også hvis du skriver meget dokumentation så bliver det hurtigt gammelt ikke? Og hvem vedligeholder det hvis du sidder hvis nu at du har arbejdet på energi?
+00:23:24 Senior Frontend Developer
+Hvor Der er flest, der synes at det giver mere gøre det på en anden måde, eller hvad man skal sige, ikke det.
 
-01:02:28 Team Lead
-Har du rykket videre over på den næste? Hvordan bliver det så vedligeholdt ikke og Det er mega svært igen når Det er og Der er.
+00:23:28 Senior Frontend Developer
+Jeg tror Det er det, vi kom frem til. Der var en bagen, men den måde at gøre det her på.
 
-01:02:35 Team Lead
-Jeg tror ikke.
+00:23:31 Senior Frontend Developer
+Det er jo fint.
 
-01:02:35 Team Lead
-Der er særlig mange, der der rammer det rigtige vel. Altså hvad er det rigtige niveau?
+00:23:31 Senior Frontend Developer
+Nok i foreningen det det det synes vi ikke helt og så så blev vi så må blive, så måtte vi lige.
 
-01:02:42 Speaker 3
-Det tror jeg det. Jeg tror Vi har tid så.
+00:23:37 Senior Frontend Developer
+Snakke med at man snakker med dem.
 
+00:23:39 Senior Frontend Developer
+Jeg tror faktisk Det er svært for arkitekttegnet vi lige skulle hen. Hvad synes du i.
 
+00:23:42 Senior Frontend Developer
+Det her tilfælde, Jeg har ikke prøvet det der med, at Det har været eller formelt skulle.
 
+00:23:45 Senior Frontend Developer
+Findes en proces for at høre om Det har bare været.
 
+00:23:48 Senior Frontend Developer
+Vi er uenige. Hvem er lige i nærheden er det jo fattet og sige, hey hvad? Hvad er din mening?
 
+00:23:53 Senior Frontend Developer
+Og så kunne man ligesom komme frem til enormt. Der var der nok ikke nogen der havde ret af den og den grund, når der var en ekstra med i det, så det kunne være ja, den sorte og hvide der var lige pludselig lidt om det her. Det er derfor Det er smart, og derfor Jeg synes Vi skal gå med det der fordi.
+
+00:24:08 Speaker 4
+Så Der er stadigvæk professionelle argumenter, der ligger til grund ikke kun erfaringer og en siger Jeg synes Der er ikke Sådan en der kommer ned og siger ikke også, men det skal være her fordi at det.
+
+00:24:14 Senior Frontend Developer
+Ja lige præcis.
+
+00:24:17 Speaker 4
+Har vi fået at?
+
+00:24:18 Speaker 4
+Vide Det er det Der er smart lige.
+
+00:24:19 Speaker 2
+Nu nej nej nej godt nok.
+
+00:24:19 Senior Frontend Developer
+Ja præcis, det synes jeg ikke der.
+
+00:24:20 Senior Frontend Developer
+Har været har været.
+
+00:24:21 Senior Frontend Developer
+Noget af her faktisk.
+
+00:24:25 Senior Frontend Developer
+Man kan sige, når vi sidder i fonden og snakkede og så, så refererer man jo også bare til, hvad folk de siger, Der er best practice rundt omkring, ikke hvis man sidder med en anden type script halløj, men så ved vi også godt Der er nogle type nørder som som følger på Twitter og så jamen, de har lige sagt at Det er dumt at bruge enums og 15 hvad vi skulle overveje at se hvorfor siger det du vil bruge enums?
+
+00:24:41 Senior Frontend Developer
+Det er jo derfor. Det problem har jeg også på en måned som vi skulle lave om til det her.
+
+00:24:46 Senior Frontend Developer
+Jeg synes mere Det er en faglig begrundelse og.
+
+00:24:50 Senior Frontend Developer
+Argumentation, så bliver lidt klogere.
+
+00:24:51 Speaker 4
+Af Det kan man sige ja, Det er jo så en del af udviklingen kan.
+
+00:24:53 Speaker 3
+Så er det Sådan lidt nogle sharing.
+
+00:24:54 Speaker 1
+Man så sige.
+
+00:24:55 Senior Frontend Developer
+Ja Det er lige med nogle sange der har vi jo i fonden hver 14. Dag har vi et møde hvor alle fonde der kan joine, hvor vi lige hurtigt siger alle teams hvad hvad er det lige vi arbejder på fordi vi ser på samme gode base.
+
+00:25:06 Senior Frontend Developer
+Det er meget fedt at vide at Der er nogle arbejder på det her, så jeg skal lade være med at lave et kæmpe publikum til refactor det i næste uge.
+
+00:25:15 Senior Frontend Developer
+Og der, der går vi så igennem det her, hvor vi også har nogle Sådan nogle delte opgaver på. Hvordan kunne vi godt tænke os at lave lave front improvement, hvordan vi godt tænke os, at det Vi har i det her post, hvordan kan vi gøre det bedre? Og så er der nogle opgaver, som folk Sådan lidt frivilligt kan hoppe på, som ikke nødvendigvis opstår i teamet. Men det opstår fra det her trend med OK Vi skal invitere. Vi skal have nogle bedre lindring regler, fordi Jeg har stødt på det her problem. Flere steder kunne samling, jamen, så laver vi en en ny lint link master en v 2 eller next linding, og så begynder vi lige så stille at skifte libraries.
+
+00:25:46 Senior Frontend Developer
+Over til den.
+
+00:25:47 Speaker 1
+Nu har jeg lige spørge hvad?
+
+00:25:50 Senior Frontend Developer
+Det er et værktøj du kører i på din.
+
+00:25:52 Senior Frontend Developer
+Kode der ligesom.
+
+00:25:53 Senior Frontend Developer
+Tjekker op på, at du følger nogle guidelines, og så får du en rød linje, hvis du følger en linje.
+
+00:25:59 Senior Frontend Developer
+Hvis Det er.
+
+00:25:59 Senior Frontend Developer
+Noget du lige skal være opmærksom på, så det.
+
+00:26:01 Senior Frontend Developer
+Er en måde, vi sikrer, at der ikke kommer.
+
+00:26:04 Senior Frontend Developer
+Simple fejl i produktionen, og man kan sige med alle de Der er jo masser forskel i værktøjslinjen, blandt andet lindinger. Dit eksempel, Vi har her i den her.
+
+00:26:13 Speaker 3
+Hvad med i forhold til refaktorisering er det noget i gør løbende? Det lød lidt som om i havde en en proces til at okay der vi kan gøre det her, den her kundebase.
+
+00:26:24 Speaker 3
+Der kunne være nogle improvements, men Det er Sådan lidt mere formelt. Der er jo nogen, der foretrækker at de refaktorisering løbende som vi ændrer.
+
+00:26:30 Senior Frontend Developer
+Jamen det altså det. Den er helt klart hvis du hvis du rører en fil eller rører i et område i Vores hovedbase, og du ser at Det er dumt det der, så skal du da gøre det bedre.
+
+00:26:38 Senior Frontend Developer
+Det er ikke en undskyldning, at du ikke lige gør det lidt bedre end at du da du kom til det, hvis Det kan gøres lidt.
+
+00:26:44 Senior Frontend Developer
+Men udover det, så har vi nogle lidt.
+
+00:26:45 Senior Frontend Developer
+Mere Sådan nogle.
+
+00:26:46 Senior Frontend Developer
+Lidt større ting, som vi arbejder på.
+
+00:26:48 Senior Frontend Developer
+Det er blandt andet sørger for at.
+
+00:26:51 Senior Frontend Developer
+Spille med i The script på hele Vores kodebase.
+
+00:26:53 Senior Frontend Developer
+Det er et monopol, så det delt op i livet og så tager man, så kan man tage et library i gangen og sige hey det her libero, det kører script motor, og så har vi nogle koder steges i de forskellige byer, de forskellige teams, Der er sat på.
+
+00:27:04 Senior Frontend Developer
+Jamen det her team ejer den her del af manageren Sådan løs. Det er ikke fordi at de ejer dem som andre rører den. Det er bare det, Det er dem der ligesom skal måske sørge for at følge de.
+
+00:27:12 Senior Frontend Developer
+Her lave det til et møde, når de har, når de har tid.
+
+00:27:15 Senior Frontend Developer
+Ikke at Det er et pres på det, men Det er Sådan en anden ting, vi gerne vil fordi med The strip mall jamen så igen, så er der.
+
+00:27:21 Senior Frontend Developer
+Nogle dumme fejl, vi kommer udenom.
+
+00:27:23 Senior Frontend Developer
+Når folk laver en ændring et andet sted, der har eller med det her at.
+
+00:27:25 Senior Frontend Developer
+Gøre så kan.
+
+00:27:25 Senior Frontend Developer
+Det være det bliver fanget, og så kan det være, vi får en farlig produktion.
+
+00:27:30 Senior Frontend Developer
+Men Det er ikke. Det er ikke Sådan en Formel proces proces. Det er med de her store ting her. Jeg kunne godt tænke mig at lave ligningen eller hey, vi bruger moment AS til date, Det er rimelig dumt. Det skriver det selv, at man skal lade være med, fordi Det er særlig performance. Men hvad er alternativerne, så er der en, der vil undersøge det til næste gang, så næste gang okay fedt Vi har fundet frem til de her alternativer lad os lad os forlade en Der er nogen der vil tage første telte på at implementere det, og så kan vi dele ud i.
+
+00:27:53 Senior Frontend Developer
+Timerne bagefter og blive faktureret II alle liberace baseret på kommunens.
+
+00:28:09 Speaker 1
+Vi er Sådan cirka halvvejs igennem.
+
+00:28:11 Senior Frontend Developer
+Jeg snakke lidt hurtigere.
+
+00:28:13 Speaker 1
+Det er sgu nok alle sammen Jeg kan se Der er lige.
+
+00:28:15 Speaker 1
+Godt en halv time så det.
+
+00:28:15 Speaker 1
+Passer jo meget.
+
+00:28:16 Speaker 1
+Godt i den her præsentation, som vi.
+
+00:28:20 Speaker 1
+Fik oppe på skolen.
+
+00:28:23 Speaker 1
+Den nævnte Søren, at i er et par.
+
+00:28:27 Senior Frontend Developer
+Hvor fanden det spøgelse?
+
+00:28:35 Speaker 1
+Sådan Det er.
+
+00:28:37 Speaker 1
+Men i sammenhæng med at people company, så vil jeg Sådan set bare gerne spørge Sådan hvad hvad betyder?
+
+00:28:40 Speaker 1
+Det for dig at være i people company.
+
+00:28:46 Senior Frontend Developer
+Ja, Det er et godt spørgsmål.
+
+00:28:48 Senior Frontend Developer
+Fordi de det Jeg synes Det er Sådan nogle termer som er lidt ved ikke om det vil kalde det fluffy eller hvad?
+
+00:28:54 Senior Frontend Developer
+Jeg kan ikke argumentere imod at Det er people coming. Jeg synes at Det er et godt sted at arbejde. Hvis man har en off dag, så har man mulighed for at bare at skrive, at Jeg har Sådan en off day jeg jeg kommer på senere og jeg arbejder ikke i dag eller hvad der nu er.
+
+00:29:07 Senior Frontend Developer
+Og så synes jeg ellers der bliver passet godt på os. Ikke Vi har gode.
+
+00:29:10 Senior Frontend Developer
+Vi har gode lokaler, og Vi har folk, der sørger for, at Der er fyldt op med alt, hvad hjertet begærer i snack, skålen og i altså med sol ja.
+
+00:29:17 Senior Frontend Developer
+Ja præcis. Altså de der ting.
+
+00:29:21 Senior Frontend Developer
+Så Der er sikkert et eller andet som trackman definerer hvad people kombinere. Jeg synes bare, at det virker til at Der er.
+
+00:29:28 Senior Frontend Developer
+Det er et godt sted at være. Det er et fedt sted at arbejde, og Der er ikke Der er ikke pres på på en måde hvor det bliver bliver træls og arbejder.
+
+00:29:38 Speaker 1
+Det tror jeg også svaret.
+
+00:29:39 Speaker 1
+Det andet spørgsmål lige den her gruppe tror jeg.
+
+00:29:43 Speaker 1
+Og jeg skal selvfølgelig bare bryde.
+
+00:29:44 Speaker 1
+Ind, hvis Jeg har noget ekstra.
+
+00:29:47 Speaker 1
+Så i forhold til.
+
+00:29:49 Speaker 1
+Vi har nemlig også lidt om som organisation learning, og som ting siger du har været en lille smule inde på det allerede, og du nævnte også noget med at gå ind på noget Twitter eller et eller andet og kigge på noget.
+
+00:30:02 Speaker 1
+Så et helt lavpraktisk spørgsmål Sådan, hvilke Sådan interne eksterne midler benytter i eller du eventuelt.
+
+00:30:10 Speaker 1
+Benytter du til for at tilegne dig ny viden.
+
+00:30:13 Senior Frontend Developer
+Jamen personligt og så sammen med en god håndfuld af dem i den her front end delen af organisationen. Så er vi jo bare nørd og elsker fonden kode og så derfor så følger man andre ord på Twitter og derfor så.
+
+00:30:23 Senior Frontend Developer
+Følger man folk på youtube og?
+
+00:30:26 Senior Frontend Developer
+Så får man ligesom viden den vej igennem ikke. Og så er der nogen, der kommer hen til én gang.
+
+00:30:32 Senior Frontend Developer
+Om måneden har jeg arrangeret Sådan et forløb fanklub møde hvor, hvor folk kan skrive ind hvad altså efter hvert møde, så laver jeg en post der nogen der har noget spændende. De har lært de tænkt sig at vise eller demo og så stemmer vi om hvad for en ting kunne være fedest og så tager vi den holdet en time, hvor vi bare er en demo eller andet. Synes Det har været fedt.
+
+00:30:50 Senior Frontend Developer
+Så den måde vi som deler det i organisationen og det som.
+
+00:30:52 Senior Frontend Developer
+Vi Sådan bare.
+
+00:30:52 Senior Frontend Developer
+Selv har lært udefra, fordi Det er heller ikke alle, der har tiden til at bruge alt deres fritid på at sidde på Twitter eller at sidde og kode hobbyprojekter.
+
+00:30:59 Senior Frontend Developer
+Så får vi ligesom at stemme med. På den måde vil sige de først en time arbejdstime, hvor vi bare snakker om fede ting.
+
+00:31:04 Senior Frontend Developer
+Det er ikke sikkert vi kan bruge til noget. Det kan være Det er s ting der kun er i der kun.
+
+00:31:08 Senior Frontend Developer
+Virker i safari under et andet forslag lige nu, men om 3 år kan det være det findes. Så er det fedt at vi ved de eksisterer.
+
+00:31:14 Senior Frontend Developer
+Så kan alle for hippe hype lidt på det.
+
+00:31:17 Senior Frontend Developer
+Og så i organisationen jamen Der er det jo. Der har jeg jo på et tidspunkt også Sådan lige tænkt det være tilfældet.
+
+00:31:23 Senior Frontend Developer
+Kunne godt tænke mig at lave lidt mere fundamental omkring de.
+
+00:31:25 Senior Frontend Developer
+Kan sagtens bruge det i.
+
+00:31:25 Senior Frontend Developer
+Min hverdag, men hvordan er vi egentlig at hvordan Det er bedst at gøre lige præcis det og det og det?
+
+00:31:30 Senior Frontend Developer
+Og så sagde jeg bare det til min leder, så Jeg har.
+
+00:31:32 Senior Frontend Developer
+Fundet det her kursus. Det kunne jeg godt.
+
+00:31:34 Senior Frontend Developer
+Tænke mig jamen super så får du et kursus og så kan du kan du bruge noget tid lige på det tidspunkt der havde vi Sådan.
+
+00:31:40 Senior Frontend Developer
+Kan twenty present time eller hvad man skal sige hvor hvor man kunne bruge på et eller andet andet noget eksperiment eller et eller andet i teamet og der brugte jeg så det på at sidde og køre Sådan et typescript fundamentals og extended kursus igennem bare lige for at få det hele.
+
+00:31:55 Senior Frontend Developer
+Helt sømmet fast.
+
+00:31:58 Senior Frontend Developer
+Ja på konferencer er der selvfølgelig også mulighed for, at der begynder at blive holdt fysiske konferencer igen. Vi skal til Amsterdam her til juni 44. Der for at komme til en række nation a, nation og Region midt.
+
+00:32:12 Speaker 3
+Det Der er 20% tid du nævnte er det noget i stadig har? Eller er der en anden version af det?
+
+00:32:18 Senior Frontend Developer
+Det er faktisk et rigtig godt spørgsmål, fordi at.
+
+00:32:24 Senior Frontend Developer
+Det team Jeg er kommet på. Det er det der har det faktisk ikke rigtig været noget, som Vi har fået taget sammen til at holde, så jeg ved ikke, om Det er forsvundet.
+
+00:32:32 Senior Frontend Developer
+Det er bare hårdt hende der ikke bør være helt ærlig. Det er faktisk ikke overhovedet ikke sikker på, men vi havde det Sådan noget. Jeg tror jeg måske 10%. Det var et eller andet en dag, hver anden uge agtig eller Sådan i gennemsnit, så når han var 10% så en 20 men ja og Det var det det hed, så lavede det om til noget eksperiment, hvor man hvor man i en periode jamen så så laver vi nogle teams hvor Der er en eller anden en eller anden.
+
+00:32:56 Senior Frontend Developer
+Manager eller andet, der skal Signe off på, at det her projekt er et eksperiment, som de gerne vil. De synes, Det er gået fint. Vi laver, og der lavede vi noget af det her. Det helt starten. Det har eu's dk som en del af Sådan et eksperiment afprøvet nogle forskellige ej. Det var til Vores, Det er Vores designsystemer, Vores og Sådan noget vi lavede. Vi lavede som det om om, hvor formelt Det er længere om stedet ved jeg faktisk ikke.
+
+00:33:19 Senior Frontend Developer
+II Vores team er vi ikke så gode til at lave i.
+
+00:33:21 Senior Frontend Developer
+Hvert fald hvis Det er noget, der eksisterer stadigvæk.
+
+00:33:24 Speaker 3
+Okay så det det det kommer lidt an på timet i forhold til en fri læring eller læring.
+
+00:33:30 Senior Frontend Developer
+Ja men hos os er det jo mere, men så er der en der gerne vil have et kursus.
+
+00:33:33 Senior Frontend Developer
+Jamen så har de.
+
+00:33:33 Senior Frontend Developer
+Bare det, så skriver de bare på slangen i.
+
+00:33:35 Senior Frontend Developer
+Dag der laver.
+
+00:33:36 Senior Frontend Developer
+Alle de her kurser, og så lader folk være med at styre dem.
+
+00:33:39 Senior Frontend Developer
+Altså så så det så hos os er det ikke så formelt, Der er det mere.
+
+00:33:43 Senior Frontend Developer
+Har du brug for at lære et eller andet?
+
+00:33:44 Senior Frontend Developer
+Så sig til og så, så gør vi det.
+
+00:33:47 Speaker 3
+Har i så personligt nogle kopier eller andet i skal opnå?
+
+00:33:52 Speaker 7
+Jamen Jeg har alt.
+
+00:33:53 Senior Frontend Developer
+Sådan noget. Hvad hedder?
+
+00:33:54 Senior Frontend Developer
+Det jeg hedder ikke en mus samtale, men med noget tilsvarende. Vi har en.
+
+00:33:59 Senior Frontend Developer
+Time lede og.
+
+00:34:00 Senior Frontend Developer
+Med med Vores team der hver 14.
+
+00:34:02 Senior Frontend Developer
+Dag har vi en halv time, hvor vi lige for det første er der. Hvordan går det hyggesnak er, Der er noget, Der er godt eller skidt eller noget, Der er træls eller så videre og så videre. Og der har vi Sådan et skema der.
+
+00:34:11 Senior Frontend Developer
+Udfyldes med med nogle Sådan personlige.
+
+00:34:15 Senior Frontend Developer
+En for hvad kunne du godt tænke dig at blive bedre?
+
+00:34:17 Senior Frontend Developer
+Til at lære og så videre og den den hedder den løsningsplan og Sådan noget.
+
+00:34:22 Senior Frontend Developer
+Og Der er noget.
+
+00:34:23 Senior Frontend Developer
+I organisationen mod krav om at.
+
+00:34:25 Senior Frontend Developer
+Den udfyldte og så videre og så videre. Hvordan de?
+
+00:34:27 Senior Frontend Developer
+Kører, og så kører vi det.
+
+00:34:29 Senior Frontend Developer
+Det er meget internt.
+
+00:34:30 Senior Frontend Developer
+I teamet men hvad er det der står på den løsningsplan og hvad er det?
+
+00:34:32 Senior Frontend Developer
+Hvad du godt tænke dig bedre til og hvordan?
+
+00:34:33 Senior Frontend Developer
+Sørger vi for, at du bliver?
+
+00:34:34 Speaker 3
+Bedre til det, så Jeg har ikke nogen decideret tal som så i skal opnå. Men Jeg har Sådan nogle nogle mål.
+
+00:34:42 Senior Frontend Developer
+Ja vi sætter nogle mål sammen med organisationen, og Der er Der er i kan da også godt være, hvis Det kan også være udefrakommende. Det kan godt være, at der har været.
+
+00:34:51 Senior Frontend Developer
+Fuldstændige. Der er ikke særlig god til at til at joine de her community møder halløj, og Det er nogle af de andre fund har træt af Det er det, Der er sket, men så kunne man godt sige til den person, dens team har lige kunne godt tænke at den person mere engageret i Vores Kommune, eller det vil faktisk give noget værdi på en eller anden måde, og der kunne jeg forestille mig, Det var noget som man så.
+
+00:35:07 Senior Frontend Developer
+Kunne komme på.
+
+00:35:07 Senior Frontend Developer
+Landsplan men fra fra anden side af, at Det er Sådan lidt et KI der med.
+
+00:35:11 Senior Frontend Developer
+At at man er.
+
+00:35:12 Senior Frontend Developer
+Lidt mere engageret ind for det.
+
+00:35:13 Senior Frontend Developer
+Her er måske noget?
+
+00:35:13 Senior Frontend Developer
+Hvorfor er man er?
+
+00:35:14 Senior Frontend Developer
+Engageret for Det var problemer med det. Hvordan kan vi gøre det bedre, så det behøver ikke nødvendigvis at være noget, der kun er noget, som Jeg har lyst.
+
+00:35:21 Senior Frontend Developer
+Det kan også være noget udefra den kommer.
+
+00:35:22 Senior Frontend Developer
+Simpelthen Vi har lagt mærke til det. Det kunne det være, at vi kunne gøre det bedre.
+
+00:35:36 Speaker 1
+Løbet deep down.
+
+00:35:38 Speaker 1
+Så tænker jeg Sådan.
+
+00:35:39 Speaker 1
+Set bare at vi rykker videre.
+
+00:35:41 Speaker 1
+Så kører vi lidt ned i noget nogle sharing. Det har vi jo også allerede været en del.
+
+00:35:45 Speaker 1
+Inde på i virkeligheden.
+
+00:35:47 Speaker 1
+Vi kunne godt tænke os at spørge dig om, hvilke faktorer mener du er vigtigst for at udviklingsteam kan opnå? Alt kan lave et produkt.
+
+00:36:01 Senior Frontend Developer
+Jeg synes bare Det er vigtigt man kan finde ud af sammen med dem man er aktiv med. Det er vigtigt, at man har en eller anden.
+
+00:36:06 Senior Frontend Developer
+Har det godt sammen. Altså kan finde ud af at snakke med hinanden og måske også have det lidt sjovt sammen og Sådan noget.
+
+00:36:12 Senior Frontend Developer
+Så får man en lidt mere uformel.
+
+00:36:16 Senior Frontend Developer
+Måde at tilgå hinanden på, og jeg ved man ved, hvem man lige kan skrive til at man godt bare lige kan skrive til.
+
+00:36:20 Senior Frontend Developer
+Det er farligt at skrive til en person og siger hey det her det og Det kan vi kan vi lige fikse det eller ja.
+
+00:36:25 Senior Frontend Developer
+Så er det jo også.
+
+00:36:29 Senior Frontend Developer
+Det vil sige, Det er vigtigt, at Der er den, Der er det der det der kræves, altså hvis Der er sat en anden deadline, så er det jo vigtigt at den deadline den er realistisk siger.
+
+00:36:36 Senior Frontend Developer
+Der er vi heldigvis sjældent får sat en eller anden deadline har en anden manager, så det skal overholdes.
+
+00:36:42 Senior Frontend Developer
+Der er det mere en flydende ting at finde ud af. Jamen Det kan vi nok godt klare inden for en eller anden tid, men lad os lige prøve at komme i gang og så se hvad hvor mange vægge vi rammer på vejen.
+
+00:36:53 Senior Frontend Developer
+Så det ja.
+
+00:36:57 Senior Frontend Developer
+Det, Det er jo bare gøre det det.
+
+00:36:58 Senior Frontend Developer
+Er jo bare at lave succesfulde.
+
+00:37:00 Senior Frontend Developer
+Ting og sammen i timen?
+
+00:37:04 Speaker 3
+Kan der være en standser, hvor i det måske bliver for useriøst nu ved at Det er uformelt, og Det er også noget jeg selv.
+
+00:37:10 Speaker 3
+Foretrækker, men der kan selvfølgelig også gøre det. Måske gå lidt for meget hyggesnak eller måske ikke. Det ved jeg ikke, hvad oplevelsen der.
+
+00:37:18 Speaker 3
+I havde nogle targets. Nogle gange kunne jeg høre.
+
+00:37:22 Senior Frontend Developer
+Ja, men det synes jeg egentlig ikke der. Vi har ikke været et team, hvor Det har været et problem.
+
+00:37:27 Senior Frontend Developer
+Det er jo et problem. Det omvendte, at vi ikke har været særlig.
+
+00:37:29 Senior Frontend Developer
+Gode til og bare lave nye snakke eller til at lave team event eller hvad man skal sige og når Vi har Vores Vores møde jamen så er der da også lige Sådan en vi starte med at sige hvad så har det været en kort?
+
+00:37:40 Senior Frontend Developer
+Er i hvert fald.
+
+00:37:41 Senior Frontend Developer
+Én stemme alle dem der har.
+
+00:37:41 Senior Frontend Developer
+God weekend så kan man lige Sådan nogle ting. Jeg synes ikke at det går i Sådan et eller andet.
+
+00:37:46 Senior Frontend Developer
+Ja det bliver for sjov eller hvad man.
+
+00:37:48 Senior Frontend Developer
+Skal sige, men Jeg kan mærke, Det er jeg ikke så tit på kontoret, så er jeg på kontoret. Så kan jeg op med mange.
+
+00:37:52 Senior Frontend Developer
+Sætter jeg ikke så meget den dag er på kontoret, men.
+
+00:37:56 Senior Frontend Developer
+Men så har jeg en dag i dag derhjemme dagen efter, hvor jeg så.
+
+00:37:59 Senior Frontend Developer
+Jeg har fået alt det sociale stillede, og så kan jeg ligesom.
+
+00:38:01 Senior Frontend Developer
+Bare sætte mig ned i min egen lille boble og gå hele dagen.
+
+00:38:04 Speaker 1
+Hvad har det? Hvad har det så modsat gjort nu når der har været nogle gange, hvor der ikke har været så meget og at i ikke har.
+
+00:38:09 Speaker 1
+Været så gode til så meget til hvad? Hvad har det gjort?
+
+00:38:12 Speaker 7
+Men der har.
+
+00:38:12 Senior Frontend Developer
+Jeg nogen der?
+
+00:38:13 Senior Frontend Developer
+Kunne godt være nogle team er nogle i team.
+
+00:38:15 Senior Frontend Developer
+Hvor man er Sådan lidt hvad det egentlig lige.
+
+00:38:17 Senior Frontend Developer
+Hvem er de? Altså? Man har bare ikke den der relation når man ikke har lavet.
+
+00:38:20 Senior Frontend Developer
+Et eller andet socialt.
+
+00:38:21 Senior Frontend Developer
+Man kender dem lidt lidt bedre, og Det er specielt man får nye folk. Er det vigtigt at lave et eller andet sammen synes jeg. Fordi så hvad er det for en person og hvordan og hvorledes? Og så så bliver det mindre farligt at skyde folk specielt også for den nye de kender dem i dem i teamet. Ved du om Det er ikke farligt at skrive til eller?
+
+00:38:36 Senior Frontend Developer
+Hvad hedder det hedder engineering?
+
+00:38:38 Senior Frontend Developer
+Eller der har vi nogle stykker der.
+
+00:38:39 Senior Frontend Developer
+Sådan sidder i oven på de her portfolier.
+
+00:38:41 Senior Frontend Developer
+Sådan grupper af teams at at de er med ude og få en øl, når vi når Der er et, så snakker vi om Det er heller ikke farligt at gå til.
+
+00:38:48 Senior Frontend Developer
+Dem, der sidder højere og eller ja Sådan nogle ting.
+
+00:38:53 Senior Frontend Developer
+Det der med at folk de de tør rede ud og sige hey Jeg har brug for hjælp og måske ikke er bange for at gøre det.
+
+00:38:59 Senior Frontend Developer
+I en offentlig.
+
+00:38:59 Senior Frontend Developer
+Kanal fordi de godt ved men Der er nogen Der er forandret her er.
+
+00:39:02 Senior Frontend Developer
+Ingen, der skælder ud og siger Jeg er dum, bare fordi jeg stiller et simpelt spørgsmål.
+
+00:39:13 Speaker 1
+Har du nogensinde været nogle udfordringer ved at kommunikere internt i nu kalder det som jeres portfolio teams.
+
+00:39:20 Senior Frontend Developer
+Hvis mofibo så Det er jo Sådan et større team og flere små teams under kan man sige at jeg sidder i.
+
+00:39:25 Speaker 1
+Ja okay så i.
+
+00:39:25 Senior Frontend Developer
+En mindre team på en på.
+
+00:39:27 Senior Frontend Developer
+Hvad vi giver mere syvende eller anden i timen.
+
+00:39:30 Senior Frontend Developer
+Men altså udover Det har vi en fuld time, hvor vi så er 1 4 5.
+
+00:39:32 Senior Frontend Developer
+Timer samlet den.
+
+00:39:33 Senior Frontend Developer
+Samme profil hvor de så sidder og og Det er Sådan ja.
+
+00:39:37 Senior Frontend Developer
+Det den forholdsvis den nye eller nyere afdeling, de.
+
+00:39:39 Senior Frontend Developer
+Har lavet på den måde.
+
+00:39:42 Senior Frontend Developer
+Men ikke internt i Vores lille team på noget tidspunkt synes Jeg har været et problem med.
+
+00:39:47 Senior Frontend Developer
+Med med her det.
+
+00:39:49 Senior Frontend Developer
+Det er det der med, hvis Der er et eller andet man er uenige om, så finde ud af hvad er det?
+
+00:39:52 Senior Frontend Developer
+Hvad er egentlig den smarteste løsning, analysere sig frem til?
+
+00:39:54 Senior Frontend Developer
+Det eller? Spørg nogle man ved, om man har arbejdet med tilsvarende, hvad de synes.
+
+00:39:59 Speaker 1
+Men er der så?
+
+00:40:00 Speaker 1
+Har i, så det går jeg ud fra. Jeg har Sådan kommunikation som cross country.
+
+00:40:04 Senior Frontend Developer
+Jo, Vi har en i slack. Har vi en Sådan portfolie kanal og der bliver postet med.
+
+00:40:10 Senior Frontend Developer
+Det er jo ikke altid vi arbejder på det samme, men man kan sige, Det er i hvert fald dem, Der er head of det der portfolio team.
+
+00:40:14 Senior Frontend Developer
+De poster der nogle ting, og Vi har hver 14. Dag eller Sådan har vi Sådan en demo. Hvad er det hver time de lige i de der portfolie de gør nemlig hurtigt.
+
+00:40:22 Senior Frontend Developer
+Det er altså Sådan bare lige vi arbejder med det her. Vi har lavet det her, det og det og det og så kan det være Der er nogen der kommer nok fedt jamen det og Det kan vi faktisk godt bruge hvordan hvordan, hvorledes?
+
+00:40:30 Senior Frontend Developer
+Og så snakker man.
+
+00:40:31 Senior Frontend Developer
+Om det efter demoen specifikt med dem der har.
+
+00:40:33 Senior Frontend Developer
+Fået en anden ud af det, og Det er også der, hvor nogle gange er nogle nogle management beslutningerne i landet, der bliver sagt pænt. Vi skal faktisk lige til at.
+
+00:40:41 Senior Frontend Developer
+Og tænke lidt på det og det release der. Det kunne godt tænke os lige så hurtigt man har snakket om hvordan ser det ud? Kan det lade sig gøre?
+
+00:40:53 Speaker 1
+Hvordan ser jeres teamstruktur ud?
+
+00:40:56 Senior Frontend Developer
+Som i dit image team ja jamen Vi har en Der er teamlead der også er Sådan semi bag igen foran den person og så har vi.
+
+00:41:06 Senior Frontend Developer
+Lige nu er vi 4 fronter, hvoraf den ene også er en del af arkitektgruppen de 2 andre. De er ret nye.
+
+00:41:11 Senior Frontend Developer
+Dem har vi fået ind i Vores team, fordi det her platforme, så kan vi lære dem lidt om, hvad man skal sige. Vi sender dem videre ud til de andre teams.
+
+00:41:18 Senior Frontend Developer
+Det er så kender de lidt den her struktur af det nye sap SDK og platformen og så videre og så videre. Hvordan det hele hænger sammen og så udover det, så har vi 3 der igen ellers som sidder i bugen lige tilfældigvis har vi taget igen og igen.
+
+00:41:32 Senior Frontend Developer
+I Vores time.
+
+00:41:33 Senior Frontend Developer
+Og der startede vi med at være en, og vi var 2 bønder, og Det var alt, vi startede sammen, så vi ligesom, så det blev udbygget derfra.
+
+00:41:40 Senior Frontend Developer
+Og der har vi også noget, vi Vi er på på den største del af hvad teamet det skal være nu det. Det er kun fordi vi lige har nogle nogle nye ende, tror jeg at Det er så stor.
+
+00:41:51 Speaker 1
+Så du siger de er 3 ikke i Polen.
+
+00:41:54 Senior Frontend Developer
+Ja 3 bagen der så som også er lidt backen. Det som sidder i Kolding.
+
+00:41:58 Speaker 1
+Okay, så Jeg har en time lidt i Kolding og i har 3 backend i Polen. Hvordan opnår i så den her?
+
+00:42:04 Senior Frontend Developer
+Og så har vi så har.
+
+00:42:05 Senior Frontend Developer
+Vi 3 runder i Polen og majs åby.
+
+00:42:07 Senior Frontend Developer
+Epoq Kolding, så de har 4 i Kolding og 3 i Polen og.
+
+00:42:11 Senior Frontend Developer
+Det er vi.
+
+00:42:12 Speaker 1
+Okay hvordan opnår i så den her gode relation mellem hinanden. Du siger for eksempel det her med at tage.
+
+00:42:16 Speaker 1
+Ud og få en øl og Sådan ting.
+
+00:42:17 Speaker 3
+Og sager hvordan gør man med det med folk har Polen?
+
+00:42:18 Speaker 7
+Den er nok.
+
+00:42:19 Senior Frontend Developer
+Ikke den er ikke så meget. Den er ikke så meget lige specifikt team der med.
+
+00:42:22 Senior Frontend Developer
+At tage en øl.
+
+00:42:23 Senior Frontend Developer
+Det er faktisk.
+
+00:42:23 Senior Frontend Developer
+Også bare Vi er her på kontoret, altså.
+
+00:42:25 Senior Frontend Developer
+Nogenlunde fra Kolding besøger?
+
+00:42:26 Senior Frontend Developer
+Kontoret, så skriver vi rundt, hey dem fra Kolding er på kontoret, de skal.
+
+00:42:30 Senior Frontend Developer
+Have noget spise.
+
+00:42:30 Senior Frontend Developer
+Skal vi jo tage det på samme måde, og så har vi det så meget Sådan internt i fonden.
+
+00:42:35 Senior Frontend Developer
+Det har været relevant, fordi Det har været, de har været nogle af dem, der har siddet i fonden, der har været fra Kolding og har den, så tager vi ud, og så kommer der.
+
+00:42:41 Senior Frontend Developer
+Også nogle manager og ellers lige er på kontoret den dag vi råber hej skat nu i aften, så lad os gå i.
+
+00:42:47 Senior Frontend Developer
+Så er den da jeg lige startede det her ikke hvis Der er tale om lidt efter hvad vi lige har sat dem op.
+
+00:42:51 Senior Frontend Developer
+Der var vi et smut i poolen til at besøge de polske udvikling og timer. Der tror vi som 1 3 4 dages workshop herned.
+
+00:42:57 Senior Frontend Developer
+For at få noget line.
+
+00:42:57 Senior Frontend Developer
+Men omkring hvad er det egentlig i alt det her marketplace og apps?
+
+00:43:01 Senior Frontend Developer
+Og hvordan og hvorledes skal det fungere?
+
+00:43:03 Senior Frontend Developer
+Fordi Det er meget billigere at tage 4 mand til Polen end det.
+
+00:43:06 Senior Frontend Developer
+Er at sende.
+
+00:43:07 Senior Frontend Developer
+3 folk på.
+
+00:43:07 Senior Frontend Developer
+Broen til Danmark og nu her om næste måned. Der kommer den fra Polen.
+
+00:43:12 Senior Frontend Developer
+Herop en smut. Det er så.
+
+00:43:13 Senior Frontend Developer
+Godt nok næsten et år er.
+
+00:43:15 Senior Frontend Developer
+Det et halvt år til.
+
+00:43:16 Senior Frontend Developer
+Et helt år siden vi sidst har været samlet.
+
+00:43:19 Senior Frontend Developer
+Som fysisk i teamet, men så har vi jo Vores møder, og Vi har nogle.
+
+00:43:25 Senior Frontend Developer
+Ellers så har vi jo ja. Sommeren står i Italien nu altså som i hele tråden unit var nu i Italien, hvor vi stoppede alt stort set alt arbejde, så var alle inviteret ned til hotel ved lake med i år, og så var der workshops og hygge og fri bar og Sådan noget, så der kommer også noget socialt den vej.
+
+00:43:43 Senior Frontend Developer
+Igennem Det var meget.
+
+00:43:44 Senior Frontend Developer
+Fordi de havde opkøbt en virksomhed i Canada.
+
+00:43:47 Senior Frontend Developer
+Her for et år siden.
+
+00:43:48 Senior Frontend Developer
+Så lige pludselig fik de 180 nye kollegaer.
+
+00:43:51 Senior Frontend Developer
+Så var det en god ide, at vi lige alle sammen lærer hinanden at kende ved hvem folk er. Det er ikke.
+
+00:43:55 Senior Frontend Developer
+Farligt at skrive Sådan.
+
+00:43:56 Senior Frontend Developer
+En Der er ikke nogen Der er. Ja Der er nogle bidder.
+
+00:44:01 Senior Frontend Developer
+Og så i interne team. Jamen der har vi da nogle gange bare Sådan en. Hvad hedder det fredagsøl vi tager og så sidder vi og spiller i mors eller et eller andet altså drikker fadøl og snakker om hvor mit team har vi 2 gange om ugen det vi kalder for time time hvor vi hopper på det kort og bare sidder og snakker fordi på det punkt er det nemt lige hoppe ud i top channel hvis der lige er nogle bånd der skal snakke med en specifik Der er nogle ske et eller andet eller 2.
+
+00:44:23 Senior Frontend Developer
+Der bare skal snakke om solceller, og det giver de andre på for eksempel.
+
+00:44:28 Senior Frontend Developer
+Ja men Det er Sådan 2 timer 2 gange om ugen og Det er lige så meget bare en blog og for dem der har mest travlt.
+
+00:44:33 Senior Frontend Developer
+De har en blogger i.
+
+00:44:33 Senior Frontend Developer
+Kalenderen og har tid til at snakke.
+
+00:44:34 Senior Frontend Developer
+Med en time.
+
+00:44:36 Senior Frontend Developer
+Så man kan stille spørgsmål og Sådan så der kommer det også lidt af sig selv med lidt hyggesnak samtidig med man sidder og koder maske på hver sin ting. Måske på noget der giver mening at gå sammen.
+
+00:44:48 Speaker 3
+Har i oplevet måske kulturelle udfordringer hvordan er det at arbejde sammen med nogen, før de kan måske have lidt ind i anden idé om, hvordan ting skal gøres i forhold til.
+
+00:44:56 Senior Frontend Developer
+Det synes jeg faktisk ikke. Jeg synes at dem vi. Det er jo nok mere en rekrutterings ting, tror jeg faktisk det der med at at man får nogle som passer ind i Sådan her virksomhedskulturen og den måde vi vi.
+
+00:45:07 Senior Frontend Developer
+Er på arbejde.
+
+00:45:07 Senior Frontend Developer
+På der har vi.
+
+00:45:10 Senior Frontend Developer
+Der havde vi været meget heldige med det det igennem et eksternt bureau, eller hvad man skal sige de bliver.
+
+00:45:14 Senior Frontend Developer
+De bliver ansat, hvor Der er en, der har arbejdet i traume i lang tid, der der så er en del af det og kan finde frem til nogle rigtig dygtige udviklere til os der.
+
+00:45:23 Senior Frontend Developer
+Og Det er ikke fordi de ikke.
+
+00:45:24 Senior Frontend Developer
+Gerne vil have i.
+
+00:45:24 Senior Frontend Developer
+Danmark Det er bare fordi det.
+
+00:45:25 Senior Frontend Developer
+Er ikke sikkert man kan.
+
+00:45:26 Senior Frontend Developer
+Finde nogen i Danmark, så hvis vi kan finde nogen der så er det, så er det det vi gør.
+
+00:45:38 Speaker 1
+Hvad? Jeg tror Det er.
+
+00:45:39 Speaker 1
+Det har du også Sådan lidt besvaret.
+
+00:45:43 Speaker 4
+Jeg holder hvordan?
+
+00:45:44 Speaker 4
+Ser den ledes en time. Det er det må.
+
+00:45:47 Speaker 3
+Være meget præcis.
+
+00:45:47 Speaker 4
+Det er det der.
+
+00:45:48 Speaker 4
+Er det Der er der altid Sådan nogle der tager teten så at sige hver gang Der er teamleder egentlig så at sige.
+
+00:45:53 Speaker 1
+Altså selvfølgelig om Jeg har en time, ikke?
+
+00:45:54 Senior Frontend Developer
+Ja Vores tid lige plejer at være da også lige høre brummen og Sådan noget hvis han ikke er der, så plejer det at være mig og han hedder Mikkel som er en del af arkitektgruppen.
+
+00:46:03 Senior Frontend Developer
+Det er dem, der måske tager til den der. Det er os, der har været her længst tid, eller hvad man skal sige så.
+
+00:46:09 Senior Frontend Developer
+Så Det er måske Sådan en der kan det godt være Sådan lidt. Der er ikke hierarki på den måde.
+
+00:46:13 Senior Frontend Developer
+Der er nogen Der er bedre end andre, men Der er nogen, der måske tager til eller nogen man man man ved. Det er den her person jeg spørger hvis.
+
+00:46:18 Senior Frontend Developer
+Der er et spørgsmål omkring det her, men.
+
+00:46:20 Senior Frontend Developer
+Det er mere Sådan, hvad for en hvad for en velkommen til hvilke områder tror jeg?
+
+00:46:25 Speaker 5
+I kører scrum.
+
+00:46:26 Speaker 5
+Eller hvad jeres team? Eller Det er Sådan noget, som firmaet har besluttet i skal eller Sådan.
+
+00:46:32 Senior Frontend Developer
+Jeg har ikke rigtigt det eneste jeg ved firmaet har besluttet. Det skal være Sådan og der skal være et eller andet en eller anden der har der har teamlead for folk og.
+
+00:46:38 Senior Frontend Developer
+Så der skal udføres den handlingsplan.
+
+00:46:43 Senior Frontend Developer
+Alt det andet.
+
+00:46:43 Senior Frontend Developer
+Er egentlig bare Sådan lidt hvordan teamet det gør det Der er nogen der bruger.
+
+00:46:46 Senior Frontend Developer
+Dira og kører.
+
+00:46:48 Senior Frontend Developer
+Kører på den måde. Vi har et campingbord, hvor Vi har noget, noget impress og noget todo og noget incoming, og Jeg har en backup der hedder incoming. Det er en.
+
+00:46:56 Senior Frontend Developer
+Backup Det er en.
+
+00:46:57 Senior Frontend Developer
+Incoming Det er meget vigtigt. Skal ikke have backup.
+
+00:47:03 Senior Frontend Developer
+Ja, det her tror jeg ikke Der er nogle.
+
+00:47:05 Senior Frontend Developer
+Teams, der kører det.
+
+00:47:05 Senior Frontend Developer
+Hele ens, og Det kan godt være.
+
+00:47:08 Senior Frontend Developer
+Jeg ved ikke om Der er noget, man kan sagtens være nogle guidelines, og jeg ved ikke, om vi overholder det, vi gør det bare, men vi synes, der fungerer for Vores team for nogle hjernens. Jeg har været på. Der har vi fundet ud af på den anden side, men Det er faktisk mange, der synes ikke om noget andet.
+
+00:47:19 Senior Frontend Developer
+Og der lavede vi noget med noget større og noget epic, og så sørger vi for, at alle altid arbejdede på den samme story.
+
+00:47:24 Senior Frontend Developer
+Sådan så at der var nogen der nogle backend til ham. Vi har travlt. Vi skynder os over på den næste.
+
+00:47:27 Senior Frontend Developer
+Eller noget i den stil? Det Jeg tror Det er meget forskelligt, hvordan man vil arbejde.
+
+00:47:41 Speaker 1
+Kunne du kort beskrive hvordan?
+
+00:47:42 Speaker 1
+Et typisk arbejdsuge ser ud for.
+
+00:47:44 Speaker 1
+De ting du har.
+
+00:47:49 Senior Frontend Developer
+Eller gå på?
+
+00:47:50 Senior Frontend Developer
+Mandag morgen klokken 7.
+
+00:47:51 Senior Frontend Developer
+Og så så har jeg lige 2 timer til hver morgen fra klokken 7 til klokken 9 for at folk de Sådan rigtig kommer i gang til at til at tjekke uret så videre og lave purvis og komme i gang og tjekke om der var nogle mails eller noget noget slack fra fra enten weekenden eller fra dagen før.
+
+00:48:06 Senior Frontend Developer
+Vi har jo det her.
+
+00:48:06 Senior Frontend Developer
+Udviklingsteam også i Canada nu, så.
+
+00:48:08 Senior Frontend Developer
+Der er jo nogle gange.
+
+00:48:09 Senior Frontend Developer
+Nogle spørgsmål, som som kommer efter arbejdstid.
+
+00:48:13 Senior Frontend Developer
+Og så har vi Vores Vores DS møde.
+
+00:48:16 Senior Frontend Developer
+Kortet i Vores team plejer jeg gerne at tage et sted mellem.
+
+00:48:21 Speaker 7
+6 til 10 minutter.
+
+00:48:22 Senior Frontend Developer
+Lige hurtigt må bare hurtigt igennem opgaverne, men var det nok til den her når der kom med denne fedt var det til noget af det her?
+
+00:48:27 Senior Frontend Developer
+Nej, Det var da ikke okay. Nogen har spørgsmål.
+
+00:48:29 Senior Frontend Developer
+Til Det er der mangler noget at lave og så.
+
+00:48:30 Senior Frontend Developer
+Videre og har haft en god weekend, hvis det man altså tager lige 2 minutter længere.
+
+00:48:36 Senior Frontend Developer
+Ja, og så er det jo egentlig bare at komme i gang med at kode lave noget på de opgaver der.
+
+00:48:42 Senior Frontend Developer
+Jeg plejer at.
+
+00:48:45 Senior Frontend Developer
+Heldigvis ikke alt for mange møder jeg også gerne at sige nej eller måske til til de møder der Sådan er.
+
+00:48:51 Senior Frontend Developer
+Der hvor jeg ikke måske føler dig produktiv.
+
+00:48:52 Senior Frontend Developer
+Hvis jeg sidder.
+
+00:48:53 Senior Frontend Developer
+Der nogen, der har vi det her community møde i foreningen, hvor vi alle.
+
+00:48:57 Senior Frontend Developer
+Sammen mødes og det?
+
+00:48:59 Senior Frontend Developer
+Det ligger om torsdagen og om eftermiddagen, så kan den Canada også være.
+
+00:49:03 Senior Frontend Developer
+Og Vi har Vores produkt møde. Der har været ikke om Det er fortalt at være med. Jeg var 14 3.
+
+00:49:07 Senior Frontend Developer
+Hvor portfolie time.
+
+00:49:09 Senior Frontend Developer
+Mode og en gang om måneden tror Vi har et produkt møde hvor alle.
+
+00:49:12 Senior Frontend Developer
+Product teams når de er inde og sige.
+
+00:49:16 Senior Frontend Developer
+Det er nok Det er svært at sige, Der er jo ikke 2 dage Der er ens og alligevel så de alle sammen.
+
+00:49:20 Senior Frontend Developer
+Men Det er et spørgsmål om der.
+
+00:49:21 Senior Frontend Developer
+Skal der skal laves nogle der.
+
+00:49:22 Senior Frontend Developer
+Skal flyttes, som tæller det. Det er Sådan det Det er for mig i hvert fald.
+
+00:49:28 Senior Frontend Developer
+Og der skabes masse cookies. Er det fordi Vi er så mange og.
+
+00:49:33 Senior Frontend Developer
+Vi skal ligesom sørge for at.
+
+00:49:35 Senior Frontend Developer
+Det vi smider ud. Det er nogenlunde i orden.
+
+00:49:38 Senior Frontend Developer
+Til at starte med? Ja.
+
+00:49:42 Speaker 1
+Helt sikkert helt sikkert.
+
+00:49:47 Speaker 4
+Vi skal bare ned til hvordan definerer?
+
+00:49:49 Speaker 1
+Ja er i den også bare springer den sidste dernede.
+
+00:49:58 Speaker 1
+Hvordan definerer jeres Sådan mål eller milepælene i procent?
+
+00:50:04 Speaker 1
+Ja, eller hvordan definerer i mål?
+
+00:50:08 Senior Frontend Developer
+Vi har før været på et team, hvor Vi har lavet det her med med stories og epics, og der havde det her med noget deadline og vi lavede.
+
+00:50:14 Senior Frontend Developer
+Vi lavede også en lille smule estimering, bare Sådan t shirt, størrelse estimering, ikke noget Sådan noget, rigtig story points og så videre.
+
+00:50:22 Senior Frontend Developer
+Det er jo i hvert fald det team enige om, at Det var måske det vil nok.
+
+00:50:25 Senior Frontend Developer
+Have mig til at lave et større projekt. Jeg gjorde bare for den opgave kunne færdig.
+
+00:50:31 Senior Frontend Developer
+Så vi i Vores team, der har vi jo jamen Vi har nogle ting der.
+
+00:50:36 Senior Frontend Developer
+Vi laver ikke Sådan.
+
+00:50:37 Senior Frontend Developer
+Som Sådan det her med at Der er.
+
+00:50:38 Senior Frontend Developer
+Et eller andet specifikt feature der.
+
+00:50:39 Senior Frontend Developer
+Skal udvikles i Vores team.
+
+00:50:41 Senior Frontend Developer
+Det er mere Der er. Vi har en platform ved at udvikle på, og Vi har nogle, Vi skal sørge for, at alle de andre også skal blive med grupperne fonden.
+
+00:50:46 Senior Frontend Developer
+Vi skal sørge for, at vi får nogle de her fonde improvements og og udover det så er vi også ved at bygge et marketplace og apply, og der har vi jo, så nu har vi.
+
+00:50:53 Senior Frontend Developer
+Med noget apps der virker, og Der er nogle interne teams der bruger det, så er der et team der kommer og siger at jeg skal bruge dem.
+
+00:50:59 Senior Frontend Developer
+Så kører vi det, så som Sådan har vi.
+
+00:51:01 Senior Frontend Developer
+Ikke en eller anden fast, vi sætter mål og.
+
+00:51:04 Senior Frontend Developer
+Milepæle på den måde.
+
+00:51:06 Senior Frontend Developer
+Vi har nogle så kommer nogle.
+
+00:51:07 Senior Frontend Developer
+Udefra, så vi kunne godt tænke os at det her marketplace det bliver det bliver offentliggjort, og det kunne vi godt tænke os.
+
+00:51:13 Senior Frontend Developer
+Det bliver i den og den måde kan.
+
+00:51:15 Senior Frontend Developer
+Det lade sig gøre. Ja Det kan det super, så har vi jo.
+
+00:51:17 Senior Frontend Developer
+En milepæl der skal vi bare sørge for, at det virker, og Det er færdigt. Sjældent sidder ikke.
+
+00:51:22 Senior Frontend Developer
+Så i Vores team er det ikke noget, vi.
+
+00:51:26 Senior Frontend Developer
+Vi gør så meget i at sætte specifikke ja milepælen for hvad der skal være hvornår.
+
+00:51:32 Speaker 4
+Det lyder lidt op til det næste, så omkring hvordan i så præsenterer det for statholderen så sige hvis de nemlig ikke er så fastlagt.
+
+00:51:38 Speaker 4
+Det gør, hvordan har det samarbejdet? Ikke fordi jeg tænker det gerne de vil gerne vide. Okay Vi har den her.
+
+00:51:43 Speaker 4
+Feature men hvad laver?
+
+00:51:44 Speaker 4
+Vi, så er der så en.
+
+00:51:45 Senior Frontend Developer
+Ja altså Det er jo det Der er svært fordi mit team er vi ikke laver vi ikke en feature som Sådan er det jo det.
+
+00:51:50 Senior Frontend Developer
+Vi bygger et marketplace jo, men Det er en del af at lave en større, der skal udrulles et helt dk.
+
+00:51:54 Senior Frontend Developer
+Vi skal have nogle udviklingsudvalget og kode det og og hvordan skal hele platformen virke med, at vi lige pludselig har tredjepartsapps og sikkerheden i det og iframes alt muligt forfærdeligt?
+
+00:52:06 Senior Frontend Developer
+Det er det.
+
+00:52:06 Senior Frontend Developer
+Sgu nok lidt svært at sige specifikt.
+
+00:52:11 Senior Frontend Developer
+Men Der er.
+
+00:52:12 Senior Frontend Developer
+Det jo vi havde meget de her demoer, da vi var i startede med udviklingen dk, hvor vi hvor vi Sådan indtager en.
+
+00:52:18 Senior Frontend Developer
+Place jamen kan man se.
+
+00:52:19 Senior Frontend Developer
+Vi arbejder på DK.
+
+00:52:20 Senior Frontend Developer
+Og nu kan vi. Nu har vi bygget en app altså Det er den 1 ting der kører på det her ok Der er bygget oven på DK, som i princippet kun tredjepart.
+
+00:52:26 Senior Frontend Developer
+Hvad lavede det? Og se nu er vi oppe på noget, når vi arbejder vi på med développé dokumentation. Det ligger ude på den her hop, Der er et password, så kan i gå ind og.
+
+00:52:32 Senior Frontend Developer
+Se det i beta udgave.
+
+00:52:34 Senior Frontend Developer
+Hvordan en app?
+
+00:52:34 Senior Frontend Developer
+Den skal den skal udvikles eller se her.
+
+00:52:37 Senior Frontend Developer
+Nu har vi lavet. Nu har vi lavet første udkast til, hvordan markedet skal fungere efter designeren. Selvfølgelig noget lavet noget tegning om, hvordan det kunne se ud, og så har vi implementeret det.
+
+00:52:48 Senior Frontend Developer
+Så Det er ikke Sådan en eller anden fast proces i hvert fald i Vores team. Jeg tror Der er nogen de andre teams, hvor Det er lidt mere. Der er en eller anden en PM der der holder lidt mere tete med det, at når man jeg godt tænke mig, at vi lavede den her feature, hvor lang tid tager det cirka? Den er vi nok færdig med der og.
+
+00:53:02 Senior Frontend Developer
+Så snakker vi om nu har vi Det er noget vi så hurtigere, og det tog lidt længere tid, eller?
+
+00:53:07 Senior Frontend Developer
+Men Vi har også lidt Sådan en specielt på det sidste har været Sådan en sikring om, at Vi har ikke nogen deadlines Der er.
+
+00:53:12 Senior Frontend Developer
+Så vigtige, at vi kan gøre.
+
+00:53:13 Senior Frontend Developer
+Arbejdet ordentligt, fordi nogle gange, når Vi har bare travlt.
+
+00:53:16 Senior Frontend Developer
+Jeg kan ikke lige nå at hjælpe med at lave det her er den komponent jeg skal bruge den kode lige til mig selv i stedet for koden på med alle andre de genbrug.
+
+00:53:23 Senior Frontend Developer
+Og Der er det vigtigt, at man laver en komponent som andre før de igen bruge, så sparer alle andre tid senere, og vi kan også give den videre til tredje parts udvikling senere.
+
+00:53:31 Senior Frontend Developer
+Så jeg. Jeg tvivler på, at Der er nogen der Sådan i hvert fald i engineering organisationen kan sige, Vi har en meget hård deadline, Vi skal nå.
+
+00:53:38 Senior Frontend Developer
+Det er ingen undskyldning for ikke gøre.
+
+00:53:39 Senior Frontend Developer
+Det ordentligt så.
+
+00:53:40 Senior Frontend Developer
+Den deadline udskydes, hvis Det er det der skal til.
+
+00:53:54 Speaker 1
+Har i nogle spørgsmål, som vi rigtig gerne vil?
+
+00:53:57
+Ikke lige nu.
+
+00:53:57 Speaker 1
+Her hvor fanden evigt.
+
+00:54:01 Speaker 1
+Så tænker jeg ikke, Vi skal køre ned i den sidste omkring organisation.
+
+00:54:05 Speaker 1
+Fordele er det ikke?
+
+00:54:05 Speaker 3
+Jo, jeg havde taget så meget tid.
+
+00:54:07 Speaker 4
+Og, og Vi har fået masser af vide omkring jeres projektstyring, og hvordan i styrer det, og hvordan møderne er og jeres procedurer og i har og så videre. Det er ikke det.
+
+00:54:15 Speaker 1
+Du har ****** været god.
+
+00:54:18 Senior Frontend Developer
+Det er bare et eller andet, så ved at svare på et spørgsmål.
+
+00:54:19
+Men Det er.
+
+00:54:20 Speaker 5
+Det da i kommer kommer ja.
+
+00:54:21 Senior Frontend Developer
+De kan starte med det spørgsmål i hvert fald.
+
+00:54:23 Senior Frontend Developer
+På det næste.
+
+00:54:24
+Det er nemlig det Jeg har haft Sådan lidt heroppe og der.
+
+00:54:26 Speaker 4
+Har vi svaret på noget, okay?
+
+00:54:28 Speaker 4
+Ja men Det er fordi det også er opdelte. Vi har jo taget efter pæne Sådan ud og sige, hvad Vi er præsenteret.
+
+00:54:33 Speaker 4
+Redig ske grundlag, der har været inden for de her par practices Der er, så Det er egentlig bare det, at Vi har taget efter, ikke?
+
+00:54:41 Speaker 4
+Og så er det jo.
+
+00:54:42 Speaker 4
+Klart, at det hænger jo.
+
+00:54:43 Speaker 4
+Nok sammen på kryds og tværs, så Det er jo.
+
+00:54:43
+Ja godt nice.
+
+00:54:47 Speaker 1
+Jeg kunne godt tænke mig at hvert fald at spørge den her. Det er det allersidste spørgsmål.
+
+00:54:50 Speaker 1
+I hvert fald i.
+
+00:54:52 Speaker 1
+Vores liste her.
+
+00:54:54 Speaker 1
+Det handler lidt om ja Sådan organisation.
+
+00:54:57 Speaker 1
+Og hvordan i organiserer det Sådan set?
+
+00:55:01 Speaker 1
+Så i lavpraktisk. Sådan er det nemt at komme i kontakt med for.
+
+00:55:03 Speaker 1
+Eksempel op og management hos jer.
+
+00:55:06 Speaker 1
+Er Det er det noget i gør det i har?
+
+00:55:07 Speaker 1
+Brug for at.
+
+00:55:08
+I når i.
+
+00:55:08 Speaker 1
+Gør er så fedt.
+
+00:55:09 Speaker 1
+Hvis i gør det.
+
+00:55:11 Senior Frontend Developer
+Det tænker jeg da Det er. Jeg har ikke lige selv skulle snakke med Søren, men altså Vores jo, men jeg kunne forestille mig at skrive til ham på slæb stillinger og han ville svare altså jeg kunne ikke forestille mig han ikke ville svare på et tidspunkt.
+
+00:55:22 Senior Frontend Developer
+Han fik tid i hvert fald hvis Det var.
+
+00:55:24 Senior Frontend Developer
+Med og så er det.
+
+00:55:25 Senior Frontend Developer
+Jo også jeg plejer jo ofte bare at gå gå til min timing, hvis jeg.
+
+00:55:29 Senior Frontend Developer
+Eller gå til Vores hvad hedder det hedder på folien team og ham kan jeg også bare skrive til.
+
+00:55:35 Senior Frontend Developer
+Os hvis der.
+
+00:55:36 Senior Frontend Developer
+Er et eller andet altså Det er Sådan jeg.
+
+00:55:38 Senior Frontend Developer
+Synes jeg ikke.
+
+00:55:38 Senior Frontend Developer
+At Vi har fået lidt mere lidt mindre flad struktur siden jeg kommer der kommet det her med at man på folie times og Det er delt op under nogle nogle forskellige ting, hvor det før bare var et arbejde. Der var en der var en c Sådan nogle afdelinger og så var der alle de andre, men Jeg synes ikke Det er noget der har gjort det.
+
+00:55:54 Senior Frontend Developer
+Gjort det sværere. Jeg ved ikke hvorfor jeg skulle have brug for, og hvad de siger, fordi Det har jeg brug for, når jeg sidder i mit team, så er det så er det mig altså Det er enten mit team eller den mand jeg lige over og der der tager beslutningerne eller hvor city ok her jo også bare at skrive til det.
+
+00:56:07 Senior Frontend Developer
+Til han er også noget med at få en udlæg. Altså Det er Sådan ja.
+
+00:56:13 Speaker 5
+Du er fundet, udvikler, og Der er de her teams er der. Sådan er der så nogen, der kan overrule andre.
+
+00:56:20 Speaker 5
+For eksempel engineering kan de, hvis i har nogle konflikt, din mening eller noget. Er der nogen, der køber rolle der eller? Eller hvordan så det ser?
+
+00:56:29 Speaker 4
+For eksempel du ønsker at udvikle noget, men.
+
+00:56:31 Speaker 4
+De siger ej fordi.
+
+00:56:33 Senior Frontend Developer
+Altså jeg ville umiddelbart bare lige udvikle et eller andet som.
+
+00:56:36 Senior Frontend Developer
+Der ikke er nogen?
+
+00:56:36 Senior Frontend Developer
+Der har fundet på, at Vi skal udvikle.
+
+00:56:38 Senior Frontend Developer
+Men hvis jeg havde en.
+
+00:56:39 Senior Frontend Developer
+Ide så ville jeg jo, så ville jeg gå til en altså til en måske bare kan.
+
+00:56:43 Senior Frontend Developer
+Sige min første eller gå en tak længere op.
+
+00:56:45 Senior Frontend Developer
+Eller gå til City og siger.
+
+00:56:46 Senior Frontend Developer
+Hey kunne være fedt, hvis vi gjorde Sådan og Sådan.
+
+00:56:49 Senior Frontend Developer
+Og så er det jo jeg skal. Jeg vil ikke begynde udvikling på det i arbejdstiden for at for at Jeg har fået det, lyder en fest.
+
+00:56:55 Senior Frontend Developer
+Har du lige lavet en prototype eller kan du et eller andet? Altså Det er åbenbart, men Det er jo den måde Jeg vil gøre det på hvis det.
+
+00:57:00 Senior Frontend Developer
+Hvis Det var og og når vi sidder med de ting, som vi Sådan lige kan huske, bare lige finder på.
+
+00:57:04 Senior Frontend Developer
+Jamen Det er jo noget med turneringen og Vores måde at arbejde på og og det her platforms og og Det er de jo i princippet rimelig ligeglad med, bare vi gør det på en måde, hvor det virker altså og hvor det gør at hvor det ikke gøres langsommere i hvert fald. Det kan gøres langsommere end stabiliteten, den den bliver bedre.
+
+00:57:21 Senior Frontend Developer
+Er det ikke? Men ja.
+
+00:57:24 Senior Frontend Developer
+Ikke fordi jeg pludselig fundet på håndteringen af dem skal det.
+
+00:57:26 Senior Frontend Developer
+Lyserødt hvis man.
+
+00:57:32 Senior Frontend Developer
+Vi skal have lukket i sine til Vores manager pension. Det er.
+
+00:57:34 Senior Frontend Developer
+Et meget udland.
+
+00:57:40 Speaker 1
+Ja Vi har Vi har i været?
+
+00:57:43 Speaker 3
+Det tror jeg.
+
+00:57:44 Speaker 3
+Ikke. Jeg føler jeg føler vi fik mere, end hvad jeg havde forventet.
+
+00:57:47 Speaker 4
+Ja Det var dejligt.
+
+00:57:48 Speaker 1
+Det var dejligt, at Vi skal vi.
+
+00:57:49 Speaker 1
+Så ikke sige, Vi er imod.
+
+00:57:51 Speaker 3
+Jo, lad os gøre det.
+
+00:57:53 Speaker 1
+Så Kasper du skal have fuldt ud 1000 tak hedder det for at du.
+
+00:57:57 Speaker 1
+Ville være med og for at.
+
+00:57:58 Speaker 3
+Jeg kan stoppe det nu også.
+
+00:58:01 Speaker 3
+Og så er det ikke?
