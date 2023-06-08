@@ -34,7 +34,7 @@ List<string> WriteTransripts(List<Transcript> transcripts)
 List<Transcript> ParseLines(string[] lines)
 {
 	var transcripts = new List<Transcript>();
-	Transcript transcript = new Transcript(TimeOnly.MinValue, "First", new List<string>());
+	Transcript transcript = new Transcript(TimeOnly.MinValue, "--Remove--", new List<string>());
 	foreach (var line in lines)
 	{
 		if(headerRegx.IsMatch(line))
@@ -60,7 +60,7 @@ List<Transcript> ParseLines(string[] lines)
 		}
 	}
 	transcripts.Add(transcript);
-	return transcripts.Where(t => t.Time != TimeOnly.MinValue).ToList();
+	return transcripts.Where(t => !t.Speaker.Equals("--Remove--")).ToList();
 }
 
 
